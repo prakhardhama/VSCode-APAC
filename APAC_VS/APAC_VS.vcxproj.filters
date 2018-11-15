@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="APAC 2016 Round A">
+      <UniqueIdentifier>{ee06dce3-5ab1-4f75-b138-1313b2b06d75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="APAC 2016 Round B">
+      <UniqueIdentifier>{457edfd3-401e-40ab-a01d-aa71fde756e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="APAC 2016 Round C">
+      <UniqueIdentifier>{d7715224-4eef-4634-b312-30f02b8cdddf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="APAC 2016 Round D">
+      <UniqueIdentifier>{7660568b-1056-4232-a3c7-c9846d8c6cf8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="APAC 2015 Round A">
+      <UniqueIdentifier>{c9afa24d-b993-4043-9b56-725897725808}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="APAC 2015 Round B">
+      <UniqueIdentifier>{51cd7845-2f52-4cda-9841-8889212ebc1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="APAC 2015 Round D">
+      <UniqueIdentifier>{5ad0b5c7-8935-475a-8d46-29c3ce0c654b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="APAC 2015 Round C">
+      <UniqueIdentifier>{12327b7e-e6d4-4a05-893e-ab259d251258}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="APAC 2016 Practice">
+      <UniqueIdentifier>{c449963b-d3c6-4869-886e-922c2106a365}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="APAC 2017 Practice">
+      <UniqueIdentifier>{b3b4f1b3-5825-41a0-8735-5c0531d8198f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="APAC 2017 Round A">
+      <UniqueIdentifier>{54554ec9-c08b-41a5-9876-eb9bf5d6a948}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\APAC 2017 Practice\Not So Random.cpp">
+      <Filter>APAC 2017 Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2017 Practice\Sums of Sums.cpp">
+      <Filter>APAC 2017 Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2016 Round A\A. Googol String.cpp">
+      <Filter>APAC 2016 Round A</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2016 Round A\B. gCube.cpp">
+      <Filter>APAC 2016 Round A</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2016 Round B\A. Travel.cpp">
+      <Filter>APAC 2016 Round B</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2016 Round C\A. gRanks.cpp">
+      <Filter>APAC 2016 Round C</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2016 Round D\A. Dynamic Grid.cpp">
+      <Filter>APAC 2016 Round D</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2016 Round B\B. gWheels.cpp">
+      <Filter>APAC 2016 Round B</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2015 Round A\B. Super 2048.cpp">
+      <Filter>APAC 2015 Round A</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2015 Round A\A. Seven-segment Display.cpp">
+      <Filter>APAC 2015 Round A</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2015 Round A\D. Cut Tiles.cpp">
+      <Filter>APAC 2015 Round A</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2015 Round B\B. New Years Eve.cpp">
+      <Filter>APAC 2015 Round B</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2015 Round D\A. Cube IV.cpp">
+      <Filter>APAC 2015 Round D</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2015 Round D\B. GBus count.cpp">
+      <Filter>APAC 2015 Round D</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2015 Round D\C. Sort a scrambled itinerary.cpp">
+      <Filter>APAC 2015 Round D</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2015 Round D\D. Itz Chess.cpp">
+      <Filter>APAC 2015 Round D</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2015 Round C\A. Minesweeper.cpp">
+      <Filter>APAC 2015 Round C</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2015 Round C\C. Broken Calculator.cpp">
+      <Filter>APAC 2015 Round C</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2015 Round C\B. Taking Metro.cpp">
+      <Filter>APAC 2015 Round C</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2015 Round B\A. Password Attacker.cpp">
+      <Filter>APAC 2015 Round B</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2015 Round B\C. Card Game.cpp">
+      <Filter>APAC 2015 Round B</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2016 Round A\C. gCampus.cpp">
+      <Filter>APAC 2016 Round A</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2016 Round B\C. gNumbers.cpp">
+      <Filter>APAC 2016 Round B</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2016 Round C\B. gFiles.cpp">
+      <Filter>APAC 2016 Round C</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2016 Round C\D. gMatrix.cpp">
+      <Filter>APAC 2016 Round C</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2016 Round D\B. gBalloon.cpp">
+      <Filter>APAC 2016 Round D</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2016 Round D\IP Address Summarization.cpp">
+      <Filter>APAC 2016 Round D</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2016 Practice\C. Moist.cpp">
+      <Filter>APAC 2016 Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2016 Practice\A. Bad Horse.cpp">
+      <Filter>APAC 2016 Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2016 Practice\B. Captain Hammer.cpp">
+      <Filter>APAC 2016 Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2017 Practice\A. Lazy Spelling Bee.cpp">
+      <Filter>APAC 2017 Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2017 Practice\B. Robot Rock Band.cpp">
+      <Filter>APAC 2017 Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2015 Round A\Addition.cpp">
+      <Filter>APAC 2015 Round A</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2017 Round A\A. Country Leader.cpp">
+      <Filter>APAC 2017 Round A</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2017 Round A\B. Rain.cpp">
+      <Filter>APAC 2017 Round A</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2017 Round A\C. Jane%27s Flower Shop.cpp">
+      <Filter>APAC 2017 Round A</Filter>
+    </ClCompile>
+    <ClCompile Include="..\APAC 2017 Round A\Clash Royale.cpp">
+      <Filter>APAC 2017 Round A</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

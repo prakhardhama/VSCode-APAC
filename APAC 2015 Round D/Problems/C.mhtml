@@ -1,0 +1,3274 @@
+From: <Saved by Blink>
+Subject: Dashboard - Round D APAC Test - Google Code Jam
+Date: Fri, 18 Aug 2016 05:12:25 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--dDO9QES10mcZYebUuB9MXd4k4p8nQANKwaA8oXBaQh----"
+
+------MultipartBoundary--dDO9QES10mcZYebUuB9MXd4k4p8nQANKwaA8oXBaQh----
+Content-Type: text/html
+Content-ID: <frame-35-1e9698c1-cee0-4b33-81fc-3d619c93349c@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://code.google.com/codejam/contest/6214486/dashboard#s=p2
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv=
+=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><meta http-equiv=
+=3D"refresh" content=3D"172795">
+ =20
+  <title>
+    Dashboard - Round D APAC Test - Google Code Jam
+  </title>
+  <link rel=3D"stylesheet" type=3D"text/css" href=3D"https://code.google.co=
+m/codejam/contest/css/35/base.css">
+  <link rel=3D"stylesheet" type=3D"text/css" href=3D"https://code.google.co=
+m/codejam/contest/css/35/dashboard.css">
+ =20
+ =20
+ =20
+ =20
+<style></style></head>
+
+<body onload=3D"GCJ.main()">
+
+<div id=3D"logo-div">
+  <a href=3D"https://code.google.com/codejam/apactest/">
+    <img src=3D"https://code.google.com/codejam/contest/static/logo_2015_ap=
+ac_test.jpg" id=3D"logo" alt=3D"Google Code Jam">
+  </a>
+</div>
+
+<div>
+
+<div id=3D"dsb-page-body">
+
+<div id=3D"left-panel">
+  <div class=3D"v-divider"></div>
+  <div class=3D"v-divider"></div>
+  <div class=3D"v-divider"></div>
+  <!-- Problem Selection Panel -->
+  <div id=3D"dsb-contest-title">Round D APAC Test</div>
+  <hr class=3D"dsb-hr">
+  <div id=3D"dsb-problem-selection-area">
+    <div id=3D"dsb-problem-selection-list" class=3D"after-start-only" style=
+=3D"display: block;">
+    <div><div id=3D"dsb-problem-tab0" class=3D"dsb-problem-tab-close" tabin=
+dex=3D"0" role=3D"button">  <div id=3D"dsb-problem-title0" class=3D"dynamic=
+-link">A. Cube IV  </div></div></div><div><div id=3D"dsb-problem-tab1" clas=
+s=3D"dsb-problem-tab-close" tabindex=3D"0" role=3D"button">  <div id=3D"dsb=
+-problem-title1" class=3D"dynamic-link">B. GBus count  </div></div></div><d=
+iv><div id=3D"dsb-problem-tab2" class=3D"dsb-problem-tab-open" tabindex=3D"=
+0" role=3D"button">  <div id=3D"dsb-problem-title2" class=3D"dynamic-link">=
+C. Sort a scrambled itinerary  </div></div></div><div><div id=3D"dsb-proble=
+m-tab3" class=3D"dsb-problem-tab-close" tabindex=3D"0" role=3D"button">  <d=
+iv id=3D"dsb-problem-title3" class=3D"dynamic-link">D. Itz Chess  </div></d=
+iv></div></div>
+    <div id=3D"dsb-problem-selection-list-pre-contest" class=3D"dsb-pre-con=
+test-text before-start-only" style=3D"display: none;">
+      The list of problems will appear here after the contest loads.
+     =20
+    </div>
+  </div>
+  <hr class=3D"dsb-hr">
+  <div class=3D"v-divider"></div>
+  <div class=3D"v-divider"></div>
+  <div id=3D"dsb-analysis-button" class=3D"dsb-analysis-tab-close" tabindex=
+=3D"0" role=3D"button" style=3D"display: none;">
+    <div class=3D"dynamic-link">
+       <div id=3D"dsb-analysis-tab">
+         Contest Analysis
+       </div>
+    </div>
+  </div>
+  <div id=3D"dsb-ask-question-area">
+    <div id=3D"dsb-ask-question-button" class=3D"dsb-clar-tab-close" tabind=
+ex=3D"0" role=3D"button" style=3D"display: block;">
+      <div class=3D"dynamic-link">
+        <div id=3D"dsb-ask-question-tab" class=3D"dsb-has-new-question-tab"=
+>Questions asked<span class=3D"dsb-unread-count">4</span></div>
+      </div>
+    </div>
+    <div class=3D"dsb-pre-contest-text before-start-only" style=3D"display:=
+ none;">
+      You'll be able to ask questions about the problems, and view your
+      submissions, here.
+     =20
+    </div>
+  </div>
+  <div id=3D"dsb-submissions-button" class=3D"dsb-submissions-tab-close" ta=
+bindex=3D"0" role=3D"button" style=3D"display: none;">
+    <div class=3D"dynamic-link">
+      <div id=3D"dsb-submissions-tab">
+        View my submissions
+      </div>
+    </div>
+  </div>
+  <div class=3D"v-divider"></div>
+  <div class=3D"v-divider"></div>
+  <div class=3D"dsb-mini-tab-wrapper">
+  <div id=3D"dsb-status-div-container">
+    <div id=3D"dsb-status-header-div" onmouseover=3D"this.style.cursor=3D'p=
+ointer'" onclick=3D"GCJ.toggleStatusPanelVisibility();">
+      <img id=3D"dsb-status-panel-button" src=3D"https://code.google.com/co=
+dejam/contest/static/minus.gif">
+      &nbsp; Submissions
+    </div>
+    <div id=3D"dsb-status-tab" class=3D"after-start-only" style=3D"display:=
+ block;">
+      <div id=3D"dsb-status-tab-loading-text" class=3D"dsb-pre-contest-text=
+" style=3D"display: none;">
+        Loading...
+      </div>
+    <div id=3D"dsb-status-tab-problems" style=3D"display: block;"><div><div=
+ id=3D"dsb-problem-status-wrapper0" class=3D"problem-status-wrapper">  <div=
+ class=3D"dsb-status-problem-title">Cube IV</div><div><table class=3D"probl=
+emStatus">  <tbody>    <tr class=3D"inputSetStatus">      <td id=3D"inputNa=
+me0_0" class=3D"inputName">8pt</td>      <td class=3D"status">        <div =
+id=3D"selfStat0_0" class=3D"dsb-mini-status-non-highlight">Not attempted</d=
+iv>        <div id=3D"globalStat0_0" class=3D"globalStat" style=3D"display:=
+ block;"><b>1708/2380 users</b> correct (72%)</div>      </td>    </tr>  </=
+tbody></table></div><div><table class=3D"problemStatus">  <tbody>    <tr cl=
+ass=3D"inputSetStatus">      <td id=3D"inputName0_1" class=3D"inputName">15=
+pt</td>      <td class=3D"status">        <div id=3D"selfStat0_1" class=3D"=
+dsb-mini-status-non-highlight">Not attempted</div>        <div id=3D"global=
+Stat0_1" class=3D"globalStat" style=3D"display: block;"><b>1492/1679 users<=
+/b> correct (89%)</div>      </td>    </tr>  </tbody></table></div></div></=
+div><div><div id=3D"dsb-problem-status-wrapper1" class=3D"problem-status-wr=
+apper">  <div class=3D"dsb-status-problem-title">GBus count</div><div><tabl=
+e class=3D"problemStatus">  <tbody>    <tr class=3D"inputSetStatus">      <=
+td id=3D"inputName1_0" class=3D"inputName">9pt</td>      <td class=3D"statu=
+s">        <div id=3D"selfStat1_0" class=3D"dsb-mini-status-non-highlight">=
+Not attempted</div>        <div id=3D"globalStat1_0" class=3D"globalStat" s=
+tyle=3D"display: block;"><b>2048/2354 users</b> correct (87%)</div>      </=
+td>    </tr>  </tbody></table></div><div><table class=3D"problemStatus">  <=
+tbody>    <tr class=3D"inputSetStatus">      <td id=3D"inputName1_1" class=
+=3D"inputName">15pt</td>      <td class=3D"status">        <div id=3D"selfS=
+tat1_1" class=3D"dsb-mini-status-non-highlight">Not attempted</div>        =
+<div id=3D"globalStat1_1" class=3D"globalStat" style=3D"display: block;"><b=
+>1865/2018 users</b> correct (92%)</div>      </td>    </tr>  </tbody></tab=
+le></div></div></div><div><div id=3D"dsb-problem-status-wrapper2" class=3D"=
+problem-status-wrapper">  <div class=3D"dsb-status-problem-title">Sort a sc=
+rambled itinerary</div><div><table class=3D"problemStatus">  <tbody>    <tr=
+ class=3D"inputSetStatus">      <td id=3D"inputName2_0" class=3D"inputName"=
+>11pt</td>      <td class=3D"status">        <div id=3D"selfStat2_0" class=
+=3D"dsb-mini-status-non-highlight">Not attempted</div>        <div id=3D"gl=
+obalStat2_0" class=3D"globalStat" style=3D"display: block;"><b>1623/1914 us=
+ers</b> correct (85%)</div>      </td>    </tr>  </tbody></table></div><div=
+><table class=3D"problemStatus">  <tbody>    <tr class=3D"inputSetStatus"> =
+     <td id=3D"inputName2_1" class=3D"inputName">15pt</td>      <td class=
+=3D"status">        <div id=3D"selfStat2_1" class=3D"dsb-mini-status-non-hi=
+ghlight">Not attempted</div>        <div id=3D"globalStat2_1" class=3D"glob=
+alStat" style=3D"display: block;"><b>1483/1602 users</b> correct (93%)</div=
+>      </td>    </tr>  </tbody></table></div></div></div><div><div id=3D"ds=
+b-problem-status-wrapper3" class=3D"problem-status-wrapper">  <div class=3D=
+"dsb-status-problem-title">Itz Chess</div><div><table class=3D"problemStatu=
+s">  <tbody>    <tr class=3D"inputSetStatus">      <td id=3D"inputName3_0" =
+class=3D"inputName">12pt</td>      <td class=3D"status">        <div id=3D"=
+selfStat3_0" class=3D"dsb-mini-status-non-highlight">Not attempted</div>   =
+     <div id=3D"globalStat3_0" class=3D"globalStat" style=3D"display: block=
+;"><b>654/1008 users</b> correct (65%)</div>      </td>    </tr>  </tbody><=
+/table></div><div><table class=3D"problemStatus">  <tbody>    <tr class=3D"=
+inputSetStatus">      <td id=3D"inputName3_1" class=3D"inputName">15pt</td>=
+      <td class=3D"status">        <div id=3D"selfStat3_1" class=3D"dsb-min=
+i-status-non-highlight">Not attempted</div>        <div id=3D"globalStat3_1=
+" class=3D"globalStat" style=3D"display: block;"><b>393/622 users</b> corre=
+ct (63%)</div>      </td>    </tr>  </tbody></table></div></div></div></div=
+></div>
+    <div id=3D"dsb-status-tab-pre-contest" class=3D"dsb-pre-contest-text be=
+fore-start-only" style=3D"display: none;">
+      Statistics about the problems will appear here.  They'll include your
+      status on each problem, and other contestants' attempts.
+     =20
+    </div>
+  </div>
+  </div>
+  <div class=3D"v-divider"></div>
+  <div class=3D"v-divider"></div>
+  <!-- Mini Scoreboard -->
+  <div class=3D"dsb-mini-tab-wrapper">
+    <div id=3D"dsb-scoreboard-div">
+      <div id=3D"dsb-scoreboard-header-div" onmouseover=3D"this.style.curso=
+r=3D'pointer'" onclick=3D"GCJ.toggleVisibility(
+              'dsb-scoreboard-table',
+              'dsb-scoreboard-panel-button',
+              '/codejam/contest/static/minus.gif',
+              '/codejam/contest/static/plus.gif')">
+          <img id=3D"dsb-scoreboard-panel-button" src=3D"https://code.googl=
+e.com/codejam/contest/static/minus.gif">
+          &nbsp; Top Scores
+      </div>
+      <div id=3D"dsb-scoreboard-table-wrap" class=3D"after-start-only" styl=
+e=3D"display: block;"><table id=3D"dsb-scoreboard-table"><tbody><tr class=
+=3D"dsb-scoreboard-row-even" id=3D"sbRow_0" style=3D"display: block;"><td c=
+lass=3D"dsb-name-td" id=3D"sbName_0">dreamoon</td><td class=3D"dsb-score-td=
+" id=3D"sbScore_0">100</td></tr><tr class=3D"dsb-scoreboard-row-odd" id=3D"=
+sbRow_1" style=3D"display: block;"><td class=3D"dsb-name-td" id=3D"sbName_1=
+">Kriiii</td><td class=3D"dsb-score-td" id=3D"sbScore_1">100</td></tr><tr c=
+lass=3D"dsb-scoreboard-row-even" id=3D"sbRow_2" style=3D"display: block;"><=
+td class=3D"dsb-name-td" id=3D"sbName_2">Balajiganapathi</td><td class=3D"d=
+sb-score-td" id=3D"sbScore_2">100</td></tr><tr class=3D"dsb-scoreboard-row-=
+odd" id=3D"sbRow_3" style=3D"display: block;"><td class=3D"dsb-name-td" id=
+=3D"sbName_3">uws933</td><td class=3D"dsb-score-td" id=3D"sbScore_3">100</t=
+d></tr><tr class=3D"dsb-scoreboard-row-even" id=3D"sbRow_4" style=3D"displa=
+y: block;"><td class=3D"dsb-name-td" id=3D"sbName_4">NExPlain</td><td class=
+=3D"dsb-score-td" id=3D"sbScore_4">100</td></tr><tr class=3D"dsb-scoreboard=
+-row-odd" id=3D"sbRow_5" style=3D"display: block;"><td class=3D"dsb-name-td=
+" id=3D"sbName_5">culaucon</td><td class=3D"dsb-score-td" id=3D"sbScore_5">=
+100</td></tr><tr class=3D"dsb-scoreboard-row-even" id=3D"sbRow_6" style=3D"=
+display: block;"><td class=3D"dsb-name-td" id=3D"sbName_6">fahimzubayer18</=
+td><td class=3D"dsb-score-td" id=3D"sbScore_6">100</td></tr><tr class=3D"ds=
+b-scoreboard-row-odd" id=3D"sbRow_7" style=3D"display: block;"><td class=3D=
+"dsb-name-td" id=3D"sbName_7">pattara.s</td><td class=3D"dsb-score-td" id=
+=3D"sbScore_7">100</td></tr><tr class=3D"dsb-scoreboard-row-even" id=3D"sbR=
+ow_8" style=3D"display: block;"><td class=3D"dsb-name-td" id=3D"sbName_8">b=
+uaamm</td><td class=3D"dsb-score-td" id=3D"sbScore_8">100</td></tr><tr clas=
+s=3D"dsb-scoreboard-row-odd" id=3D"sbRow_9" style=3D"display: block;"><td c=
+lass=3D"dsb-name-td" id=3D"sbName_9">LiJiancheng</td><td class=3D"dsb-score=
+-td" id=3D"sbScore_9">100</td></tr></tbody></table></div>
+      <div id=3D"dsb-scoreboard-tab-pre-contest" class=3D"dsb-pre-contest-t=
+ext before-start-only" style=3D"display: none;">
+        The scores of the top 10 contestants will appear here, with a link =
+to
+        the contest's scoreboard.
+       =20
+      </div>
+      <div class=3D"dsb-mini-tab-link">
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id=3D"right-panel">
+  <div id=3D"dsb-status-msg-wrapper" class=3D"dsb-status-msg-wrapper" role=
+=3D"alert" style=3D"visibility: hidden;">
+    <div id=3D"dsb-status-msg" class=3D"dsb-status-msg">
+      <span id=3D"dsb-status-msg-text">Loading problem information...</span=
+>
+      <span id=3D"dsb-view-sub-link" style=3D"display: none;">View submissi=
+ons.</span>
+    </div>
+  </div>
+
+  <div id=3D"dsb-contest-title-bar">
+    <div id=3D"dsb-rank-etc">
+      <span id=3D"dsb-time-remaining">Practice Mode</span>
+      <span class=3D"after-start-only-inline" style=3D"display: inline;">
+        <span id=3D"dsb-current-rank-div" style=3D"display: none;">
+          Rank: <span id=3D"dsb-current-rank-span">--</span>
+        </span>
+        <span id=3D"dsb-current-score-div" style=3D"display: none;">
+          Score: <span id=3D"dsb-current-score-span">--</span>
+        </span>
+      </span>
+    </div>
+    <div id=3D"dsb-title-links"><a target=3D"new" href=3D"https://code.goog=
+le.com/codejam/contest/6214486/scoreboard?c=3D6214486">Contest scoreboard</=
+a> | <a href=3D"https://www.google.com/accounts/ServiceLogin?service=3Dah&a=
+mp;passive=3Dtrue&amp;continue=3Dhttps://appengine.google.com/_ah/conflogin=
+%3Fcontinue%3Dhttps://code.google.com/codejam/contest/dashboard%253Fc%253D6=
+214486&amp;ltmpl=3D">Sign in</a></div>
+  </div>
+  <!-- Problem Statement -->
+  <div id=3D"main-panel-border" class=3D"dsb-blue-border">
+  <div id=3D"dsb-border-inner">
+   <!-- Problem Title -->
+    <h3 id=3D"dsb-problem-title-area">
+      <span id=3D"dsb-problem-title-div-pre-contest" class=3D"problem-title=
+ before-start-only" style=3D"display: none;">
+        <span style=3D"color:#666">Problem.</span>
+        The problem's name goes here.
+      </span>
+      <span id=3D"dsb-problem-title-div" class=3D"problem-title after-start=
+-only" style=3D"display: block;"><span style=3D"color:#666">Problem C.</spa=
+n> Sort a scrambled itinerary</span>
+    </h3>
+
+    <div class=3D"dsb-content-pages before-start-only" style=3D"display: no=
+ne;">
+      We're now waiting for the contest to start.  Once the contest starts,
+      the problems will automatically load, and Problem A will display here=
+.
+      You don't have to solve that problem first; you will be able to selec=
+t
+      another problem from the list to the left.  Once you've solved one
+      problem, don't forget to work on the others!
+     =20
+    </div>
+
+    <div id=3D"dsb-problem-pages"><div id=3D"dsb-problem-page0" class=3D"ds=
+b-content-pages" style=3D"display: none;"><!-- Problem Input File Selection=
+ --><div class=3D"dsb-input-panel-text" id=3D"dsb-input-panel-text0"><span =
+style=3D"color: #666666;">This contest is open for practice.  You can try e=
+very problem as many times as you like, though we won't keep track of which=
+ problems you solve.  Read the <a href=3D"https://code.google.com/codejam/a=
+pactest/quickstart.html" target=3D"_blank">Quick-Start Guide</a> to get sta=
+rted.</span></div><table><tbody id=3D"dsb-input-form-table0"><tr><td class=
+=3D"dsb-input-table-description">Small input<br>8 points</td><td class=3D"d=
+sb-input-table-linktd"><div id=3D"dsb-action-box-wrap0-0" class=3D"dsb-acti=
+on-box-open"><div id=3D"dsb-input-wrapper0-0" class=3D"dsb-input-wrapper" s=
+tyle=3D"display: inline;"><button class=3D"dsb-input-start-button" id=3D"ds=
+b-input-start-button0-0" style=3D"display: none;">Solve A-small</button><sp=
+an class=3D"dsb-input-link-span" id=3D"dsb-input-link-plain0-0" style=3D"di=
+splay: inline;"><img class=3D"dsb-input-link-img" src=3D"https://code.googl=
+e.com/codejam/contest/static/file.gif"><span class=3D"dsb-input-link-text" =
+id=3D"dsb-input-link-plain-text0-0">Download A-small-practice.in</span></sp=
+an></div><span class=3D"dsb-input-table-caption" id=3D"dsb-input-table-capt=
+ion0-0" style=3D"display: none;"></span><span class=3D"dsb-input-table-capt=
+ion" id=3D"dsb-resubmit-caption0-0" style=3D"display: none;">Your submissio=
+n was received. You can still <span class=3D"dsb-input-link-text" id=3D"dsb=
+-resubmit-link0-0">resubmit</span> for <span id=3D"dsb-resubmit-timer0-0"><=
+/span>.<br>Only your last submission counts. <span class=3D"dsb-input-link-=
+text" id=3D"dsb-resubmit-view-sub-link0-0">View your last submission</span>=
+.</span><div><div class=3D"dsb-submit-form-div" id=3D"dsb-submit-form-div0-=
+0" style=3D"display: block;"><div style=3D"display:none"><b>Time Remaining:=
+</b> <span id=3D"io_timer_0"></span>&nbsp;&nbsp;</div><div style=3D"display=
+:none"><b>Input:</b> A-small-practice.in.</div><form id=3D"submit-formio_ti=
+mer_0" action=3D"https://code.google.com/codejam/contest/6214486/dashboard/=
+do" enctype=3D"multipart/form-data" method=3D"post"><input type=3D"hidden" =
+name=3D"csrfmiddlewaretoken" value=3D"OGQ3YzI1ZDE4NzhlODAwMTJlYmZiZjE3MDU1M=
+jgyZDF8fDE0NzE0OTYzMzczNjE4MzA=3D"><div class=3D"dsb-submit-form-separator"=
+>your output file:<input id=3D"output-fileio_timer_0" type=3D"file" name=3D=
+"answer" class=3D"submitFormFile"></div><div style=3D"display: none"><table=
+ class=3D"dsb-source-code-table"><tbody><tr><td style=3D"padding:0.4em 0.2e=
+m 0 0">source code:&nbsp;&nbsp;</td><td><div id=3D"source-filesio_timer_0">=
+<div id=3D"input-file-divio_timer_0-0"><span id=3D"source-fileio_timer_0-0"=
+><input type=3D"file" name=3D"source-file0" class=3D"submitFormFile"></span=
+><span id=3D"remove-source-fileio_timer_0-0" class=3D"dsb-submit-form-links=
+" style=3D"visibility: hidden;">remove</span></div></div><span id=3D"add-so=
+urce-fileio_timer_0" class=3D"dsb-submit-form-links">Add another file</span=
+></td></tr></tbody></table></div><div class=3D"dsb-submit-form-separator" s=
+tyle=3D"color:gray">source file(s): &nbsp;&nbsp;&nbsp;not needed for the pr=
+actice contest</div><div class=3D"dsb-submit-form-separator" style=3D"text-=
+align:center"><input id=3D"submit-buttonio_timer_0" type=3D"button" value=
+=3D"Submit file">&nbsp;&nbsp;<input id=3D"dsb-hide-submissionio_timer_0" ty=
+pe=3D"button" value=3D"Hide"></div><div id=3D"source-file-namesio_timer_0">=
+</div><input type=3D"hidden" name=3D"cmd" value=3D"SubmitAnswer"><input typ=
+e=3D"hidden" name=3D"problem" value=3D"5683759332458496"><input type=3D"hid=
+den" name=3D"input_id" value=3D"0"><input type=3D"hidden" name=3D"num_sourc=
+e_files" id=3D"num-source-filesio_timer_0" value=3D"1"><input type=3D"hidde=
+n" name=3D"agent" value=3D"website"></form></div></div></div></td></tr><tr>=
+<td class=3D"dsb-input-table-description">Large input<br>15 points</td><td =
+class=3D"dsb-input-table-linktd"><div id=3D"dsb-action-box-wrap0-1" class=
+=3D"dsb-action-box-open"><div id=3D"dsb-input-wrapper0-1" class=3D"dsb-inpu=
+t-wrapper" style=3D"display: inline;"><button class=3D"dsb-input-start-butt=
+on" id=3D"dsb-input-start-button0-1" style=3D"display: none;">Solve A-large=
+</button><span class=3D"dsb-input-link-span" id=3D"dsb-input-link-plain0-1"=
+ style=3D"display: inline;"><img class=3D"dsb-input-link-img" src=3D"https:=
+//code.google.com/codejam/contest/static/file.gif"><span class=3D"dsb-input=
+-link-text" id=3D"dsb-input-link-plain-text0-1">Download A-large-practice.i=
+n</span></span></div><span class=3D"dsb-input-table-caption" id=3D"dsb-inpu=
+t-table-caption0-1" style=3D"display: none;"></span><span class=3D"dsb-inpu=
+t-table-caption" id=3D"dsb-resubmit-caption0-1" style=3D"display: none;">Yo=
+ur submission was received. You can still <span class=3D"dsb-input-link-tex=
+t" id=3D"dsb-resubmit-link0-1">resubmit</span> for <span id=3D"dsb-resubmit=
+-timer0-1"></span>.<br>Only your last submission counts. <span class=3D"dsb=
+-input-link-text" id=3D"dsb-resubmit-view-sub-link0-1">View your last submi=
+ssion</span>.</span><div><div class=3D"dsb-submit-form-div" id=3D"dsb-submi=
+t-form-div0-1" style=3D"display: block;"><div style=3D"display:none"><b>Tim=
+e Remaining:</b> <span id=3D"io_timer_1"></span>&nbsp;&nbsp;</div><div styl=
+e=3D"display:none">You may resubmit this multiple times within the remainin=
+g time-frame. Only your last submission will count.</div><form id=3D"submit=
+-formio_timer_1" action=3D"https://code.google.com/codejam/contest/6214486/=
+dashboard/do" enctype=3D"multipart/form-data" method=3D"post"><input type=
+=3D"hidden" name=3D"csrfmiddlewaretoken" value=3D"OGQ3YzI1ZDE4NzhlODAwMTJlY=
+mZiZjE3MDU1MjgyZDF8fDE0NzE0OTYzMzczNjE4MzA=3D"><div class=3D"dsb-submit-for=
+m-separator">your output file:<input id=3D"output-fileio_timer_1" type=3D"f=
+ile" name=3D"answer" class=3D"submitFormFile"></div><div style=3D"display: =
+none"><table class=3D"dsb-source-code-table"><tbody><tr><td style=3D"paddin=
+g:0.4em 0.2em 0 0">source code:&nbsp;&nbsp;</td><td><div id=3D"source-files=
+io_timer_1"><div id=3D"input-file-divio_timer_1-0"><span id=3D"source-filei=
+o_timer_1-0"><input type=3D"file" name=3D"source-file0" class=3D"submitForm=
+File"></span><span id=3D"remove-source-fileio_timer_1-0" class=3D"dsb-submi=
+t-form-links" style=3D"visibility: hidden;">remove</span></div></div><span =
+id=3D"add-source-fileio_timer_1" class=3D"dsb-submit-form-links">Add anothe=
+r file</span></td></tr></tbody></table></div><div class=3D"dsb-submit-form-=
+separator" style=3D"color:gray">source file(s): &nbsp;&nbsp;&nbsp;not neede=
+d for the practice contest</div><div class=3D"dsb-submit-form-separator" st=
+yle=3D"text-align:center"><input id=3D"submit-buttonio_timer_1" type=3D"but=
+ton" value=3D"Submit file">&nbsp;&nbsp;<input id=3D"dsb-hide-submissionio_t=
+imer_1" type=3D"button" value=3D"Hide"></div><div id=3D"source-file-namesio=
+_timer_1"></div><input type=3D"hidden" name=3D"cmd" value=3D"SubmitAnswer">=
+<input type=3D"hidden" name=3D"problem" value=3D"5683759332458496"><input t=
+ype=3D"hidden" name=3D"input_id" value=3D"1"><input type=3D"hidden" name=3D=
+"num_source_files" id=3D"num-source-filesio_timer_1" value=3D"1"><input typ=
+e=3D"hidden" name=3D"agent" value=3D"website"></form></div></div></div></td=
+></tr></tbody></table><!-- Problem Statement --><div id=3D"dsb-problem-cont=
+ent-div0" class=3D"dsb-problem-content-div" style=3D"width: 40em;"><h3>Prob=
+lem</h3>
+Vincenzo decides to make cube IV but only has the budget to make a square m=
+aze. Its a perfect maze, every room is in the form of a square and there ar=
+e 4 doors (1 on each side of the room). There is a big number written in th=
+e room. A person can only move from one room to another if the number in th=
+e next room is larger than the number in his current room by 1. Now, Vincen=
+zo assigns unique numbers to all the rooms (1, 2, 3, .... S<sup>2</sup>) an=
+d then places S<sup>2</sup> people in the maze, 1 in each room where S is t=
+he side length of the maze. The person who can move maximum number of times=
+ will win. Figure out who will emerge as the winner and the number of rooms=
+ he will be able to move.
+
+<h3>Input</h3>
+<p>
+The first line of the input gives the number of test cases, <b>T</b>.  <b>T=
+</b> test cases follow.  Each test case consists of <b>S</b> which is the s=
+ide length of the square maze. Then S<sup>2</sup> numbers follow like a maz=
+e to give the numbers that have been assigned to the rooms.
+
+</p><p>
+</p><pre>1 2 9=20
+5 3 8=20
+4 6 7=20
+</pre>
+
+<h3>Output</h3>
+<p>
+For each test case, output one line containing "Case #x: r d", where x is t=
+he test case number (starting from 1), r is the room number of the person w=
+ho will win and d is the number of rooms he could move. In case there are m=
+ultiple such people, the person who is in the smallest room will win.
+
+</p><h3>Limits</h3>
+<p>
+1 =E2=89=A4 <b>T</b> =E2=89=A4 100.<br>
+</p>
+
+<h4>Small dataset</h4>
+<p>
+1 =E2=89=A4 <b>S</b> =E2=89=A4 10<br>
+</p>
+
+<h4>Large dataset</h4>
+<p>
+1 =E2=89=A4 <b>S</b> =E2=89=A4 10<sup>3</sup>.<br>
+</p>
+
+
+<h3>Sample</h3>
+<div class=3D"problem-io-wrapper">
+<table>
+<tbody><tr>
+<td>
+<br>
+<span class=3D"io-table-header">Input</span>
+<br>&nbsp;
+</td>
+<td>
+<br>
+<span class=3D"io-table-header">Output</span>
+<br>&nbsp;
+</td>
+</tr>
+<tr>
+<td>
+<pre class=3D"io-content">2
+2
+3 4
+1 2=20
+
+
+3
+1 2 9=20
+5 3 8=20
+4 6 7=20
+</pre>
+</td>
+<td>
+<pre class=3D"io-content">Case #1: 1 2
+Case #2: 6 4
+</pre>
+</td></tr></tbody></table>
+</div>
+</div></div><div id=3D"dsb-problem-page1" class=3D"dsb-content-pages" style=
+=3D"display: none;"><!-- Problem Input File Selection --><div class=3D"dsb-=
+input-panel-text" id=3D"dsb-input-panel-text1"><span style=3D"color: #66666=
+6;">This contest is open for practice.  You can try every problem as many t=
+imes as you like, though we won't keep track of which problems you solve.  =
+Read the <a href=3D"https://code.google.com/codejam/apactest/quickstart.htm=
+l" target=3D"_blank">Quick-Start Guide</a> to get started.</span></div><tab=
+le><tbody id=3D"dsb-input-form-table1"><tr><td class=3D"dsb-input-table-des=
+cription">Small input<br>9 points</td><td class=3D"dsb-input-table-linktd">=
+<div id=3D"dsb-action-box-wrap1-0" class=3D"dsb-action-box-open"><div id=3D=
+"dsb-input-wrapper1-0" class=3D"dsb-input-wrapper" style=3D"display: inline=
+;"><button class=3D"dsb-input-start-button" id=3D"dsb-input-start-button1-0=
+" style=3D"display: none;">Solve B-small</button><span class=3D"dsb-input-l=
+ink-span" id=3D"dsb-input-link-plain1-0" style=3D"display: inline;"><img cl=
+ass=3D"dsb-input-link-img" src=3D"https://code.google.com/codejam/contest/s=
+tatic/file.gif"><span class=3D"dsb-input-link-text" id=3D"dsb-input-link-pl=
+ain-text1-0">Download B-small-practice.in</span></span></div><span class=3D=
+"dsb-input-table-caption" id=3D"dsb-input-table-caption1-0" style=3D"displa=
+y: none;"></span><span class=3D"dsb-input-table-caption" id=3D"dsb-resubmit=
+-caption1-0" style=3D"display: none;">Your submission was received. You can=
+ still <span class=3D"dsb-input-link-text" id=3D"dsb-resubmit-link1-0">resu=
+bmit</span> for <span id=3D"dsb-resubmit-timer1-0"></span>.<br>Only your la=
+st submission counts. <span class=3D"dsb-input-link-text" id=3D"dsb-resubmi=
+t-view-sub-link1-0">View your last submission</span>.</span><div><div class=
+=3D"dsb-submit-form-div" id=3D"dsb-submit-form-div1-0" style=3D"display: bl=
+ock;"><div style=3D"display:none"><b>Time Remaining:</b> <span id=3D"io_tim=
+er_2"></span>&nbsp;&nbsp;</div><div style=3D"display:none"><b>Input:</b> B-=
+small-practice.in.</div><form id=3D"submit-formio_timer_2" action=3D"https:=
+//code.google.com/codejam/contest/6214486/dashboard/do" enctype=3D"multipar=
+t/form-data" method=3D"post"><input type=3D"hidden" name=3D"csrfmiddlewaret=
+oken" value=3D"OGQ3YzI1ZDE4NzhlODAwMTJlYmZiZjE3MDU1MjgyZDF8fDE0NzE0OTYzMzcz=
+NjE4MzA=3D"><div class=3D"dsb-submit-form-separator">your output file:<inpu=
+t id=3D"output-fileio_timer_2" type=3D"file" name=3D"answer" class=3D"submi=
+tFormFile"></div><div style=3D"display: none"><table class=3D"dsb-source-co=
+de-table"><tbody><tr><td style=3D"padding:0.4em 0.2em 0 0">source code:&nbs=
+p;&nbsp;</td><td><div id=3D"source-filesio_timer_2"><div id=3D"input-file-d=
+ivio_timer_2-0"><span id=3D"source-fileio_timer_2-0"><input type=3D"file" n=
+ame=3D"source-file0" class=3D"submitFormFile"></span><span id=3D"remove-sou=
+rce-fileio_timer_2-0" class=3D"dsb-submit-form-links" style=3D"visibility: =
+hidden;">remove</span></div></div><span id=3D"add-source-fileio_timer_2" cl=
+ass=3D"dsb-submit-form-links">Add another file</span></td></tr></tbody></ta=
+ble></div><div class=3D"dsb-submit-form-separator" style=3D"color:gray">sou=
+rce file(s): &nbsp;&nbsp;&nbsp;not needed for the practice contest</div><di=
+v class=3D"dsb-submit-form-separator" style=3D"text-align:center"><input id=
+=3D"submit-buttonio_timer_2" type=3D"button" value=3D"Submit file">&nbsp;&n=
+bsp;<input id=3D"dsb-hide-submissionio_timer_2" type=3D"button" value=3D"Hi=
+de"></div><div id=3D"source-file-namesio_timer_2"></div><input type=3D"hidd=
+en" name=3D"cmd" value=3D"SubmitAnswer"><input type=3D"hidden" name=3D"prob=
+lem" value=3D"5761094782025728"><input type=3D"hidden" name=3D"input_id" va=
+lue=3D"0"><input type=3D"hidden" name=3D"num_source_files" id=3D"num-source=
+-filesio_timer_2" value=3D"1"><input type=3D"hidden" name=3D"agent" value=
+=3D"website"></form></div></div></div></td></tr><tr><td class=3D"dsb-input-=
+table-description">Large input<br>15 points</td><td class=3D"dsb-input-tabl=
+e-linktd"><div id=3D"dsb-action-box-wrap1-1" class=3D"dsb-action-box-open">=
+<div id=3D"dsb-input-wrapper1-1" class=3D"dsb-input-wrapper" style=3D"displ=
+ay: inline;"><button class=3D"dsb-input-start-button" id=3D"dsb-input-start=
+-button1-1" style=3D"display: none;">Solve B-large</button><span class=3D"d=
+sb-input-link-span" id=3D"dsb-input-link-plain1-1" style=3D"display: inline=
+;"><img class=3D"dsb-input-link-img" src=3D"https://code.google.com/codejam=
+/contest/static/file.gif"><span class=3D"dsb-input-link-text" id=3D"dsb-inp=
+ut-link-plain-text1-1">Download B-large-practice.in</span></span></div><spa=
+n class=3D"dsb-input-table-caption" id=3D"dsb-input-table-caption1-1" style=
+=3D"display: none;"></span><span class=3D"dsb-input-table-caption" id=3D"ds=
+b-resubmit-caption1-1" style=3D"display: none;">Your submission was receive=
+d. You can still <span class=3D"dsb-input-link-text" id=3D"dsb-resubmit-lin=
+k1-1">resubmit</span> for <span id=3D"dsb-resubmit-timer1-1"></span>.<br>On=
+ly your last submission counts. <span class=3D"dsb-input-link-text" id=3D"d=
+sb-resubmit-view-sub-link1-1">View your last submission</span>.</span><div>=
+<div class=3D"dsb-submit-form-div" id=3D"dsb-submit-form-div1-1" style=3D"d=
+isplay: block;"><div style=3D"display:none"><b>Time Remaining:</b> <span id=
+=3D"io_timer_3"></span>&nbsp;&nbsp;</div><div style=3D"display:none">You ma=
+y resubmit this multiple times within the remaining time-frame. Only your l=
+ast submission will count.</div><form id=3D"submit-formio_timer_3" action=
+=3D"https://code.google.com/codejam/contest/6214486/dashboard/do" enctype=
+=3D"multipart/form-data" method=3D"post"><input type=3D"hidden" name=3D"csr=
+fmiddlewaretoken" value=3D"OGQ3YzI1ZDE4NzhlODAwMTJlYmZiZjE3MDU1MjgyZDF8fDE0=
+NzE0OTYzMzczNjE4MzA=3D"><div class=3D"dsb-submit-form-separator">your outpu=
+t file:<input id=3D"output-fileio_timer_3" type=3D"file" name=3D"answer" cl=
+ass=3D"submitFormFile"></div><div style=3D"display: none"><table class=3D"d=
+sb-source-code-table"><tbody><tr><td style=3D"padding:0.4em 0.2em 0 0">sour=
+ce code:&nbsp;&nbsp;</td><td><div id=3D"source-filesio_timer_3"><div id=3D"=
+input-file-divio_timer_3-0"><span id=3D"source-fileio_timer_3-0"><input typ=
+e=3D"file" name=3D"source-file0" class=3D"submitFormFile"></span><span id=
+=3D"remove-source-fileio_timer_3-0" class=3D"dsb-submit-form-links" style=
+=3D"visibility: hidden;">remove</span></div></div><span id=3D"add-source-fi=
+leio_timer_3" class=3D"dsb-submit-form-links">Add another file</span></td><=
+/tr></tbody></table></div><div class=3D"dsb-submit-form-separator" style=3D=
+"color:gray">source file(s): &nbsp;&nbsp;&nbsp;not needed for the practice =
+contest</div><div class=3D"dsb-submit-form-separator" style=3D"text-align:c=
+enter"><input id=3D"submit-buttonio_timer_3" type=3D"button" value=3D"Submi=
+t file">&nbsp;&nbsp;<input id=3D"dsb-hide-submissionio_timer_3" type=3D"but=
+ton" value=3D"Hide"></div><div id=3D"source-file-namesio_timer_3"></div><in=
+put type=3D"hidden" name=3D"cmd" value=3D"SubmitAnswer"><input type=3D"hidd=
+en" name=3D"problem" value=3D"5761094782025728"><input type=3D"hidden" name=
+=3D"input_id" value=3D"1"><input type=3D"hidden" name=3D"num_source_files" =
+id=3D"num-source-filesio_timer_3" value=3D"1"><input type=3D"hidden" name=
+=3D"agent" value=3D"website"></form></div></div></div></td></tr></tbody></t=
+able><!-- Problem Statement --><div id=3D"dsb-problem-content-div1" class=
+=3D"dsb-problem-content-div" style=3D"width: 40em;"><h3>Problem</h3>
+<p>
+There exists a straight line along which cities are built.<br><br>
+Each city is given a number starting from 1. So if there are 10 cities, cit=
+y 1 has a number 1, city 2 has a number 2,... city 10 has a number 10.<br><=
+br>
+Different buses (named GBus) operate within different cities, covering all =
+the cities along the way. The cities covered by a GBus are represented as
+'first_city_number last_city_number'
+So, if a GBus covers cities 1 to 10 inclusive, the cities covered by it are=
+ represented as '1 10'<br><br>
+
+We are given the cities covered by all the GBuses. We need to find out how =
+many GBuses go through a particular city.
+
+</p>
+
+<h3>Input</h3>
+<p>
+The first line contains the number of test cases (<b>T</b>), after which <b=
+>T</b> cases follow each separated from the next with a <b>blank</b> line.<=
+br>
+For each test case, <br>
+The first line contains the number of GBuses.(<b>N</b>) <br>
+Second line contains the cities covered by them in the form <br>
+<b>a<sub>1</sub> b<sub>1</sub> a<sub>2</sub> b<sub>2</sub> a<sub>3</sub> b<=
+sub>3</sub>...a<sub>n</sub> b<sub>n</sub></b> <br>
+where GBus1 covers cities numbered from a<sub>1</sub> to b<sub>1</sub>, GBu=
+s2 covers cities numbered from a<sub>2</sub> to b<sub>2</sub>, GBus3 covers=
+ cities numbered from a<sub>3</sub> to b<sub>3</sub>, upto <b>N</b> GBuses.=
+ <br>
+Next line contains the number of cities for which GBus count needs to be de=
+termined (<b>P</b>). <br>
+The below <b>P</b> lines contain different city numbers. <br>
+
+</p><h3>Output</h3>
+<p>
+For each test case, output one line containing "Case #T<sub>i</sub>:" follo=
+wed by <b>P</b> numbers corresponding to the number of cities each of those=
+ <b>P</b> GBuses goes through. <br>
+
+<br>
+
+</p>
+
+
+<h3>Limits</h3>
+<p>
+1 &lt;=3D <b>T</b> &lt;=3D 10 <br>
+<b>a<sub>i</sub></b> and <b>b<sub>i</sub></b> will always be integers.
+
+</p>
+
+<h3>Small dataset</h3>
+<p>
+1 &lt;=3D <b>N</b> &lt;=3D 50 <br>
+1 &lt;=3D <b>a<sub>i</sub></b> &lt;=3D 500, 1 &lt;=3D <b>b<sub>i</sub></b> =
+&lt;=3D 500 <br>
+1 &lt;=3D <b>P</b> &lt;=3D 50
+</p>
+
+<h3>Large dataset</h3>
+<p>
+1 &lt;=3D <b>N</b> &lt;=3D 500 <br>
+1 &lt;=3D <b>a<sub>i</sub></b> &lt;=3D 5000, 1 &lt;=3D <b>b<sub>i</sub></b>=
+ &lt;=3D 5000 <br>
+1 &lt;=3D <b>P</b> &lt;=3D 500
+</p>
+
+<h3>Sample</h3>
+<div class=3D"problem-io-wrapper">
+<table>
+<tbody><tr>
+<td>
+<br>
+<span class=3D"io-table-header">Input</span>
+<br>&nbsp;
+</td>
+<td>
+</td></tr>
+<tr>
+<td>
+<pre class=3D"io-content">2
+4
+15 25 30 35 45 50 10 20
+2
+15
+25
+
+10
+10 15 5 12 40 55 1 10 25 35 45 50 20 28 27 35 15 40 4 5
+3
+5
+10
+27
+</pre>
+</td>
+</tr>
+<tr>
+<td>
+<br><hr><br>
+</td>
+</tr>
+<tr>
+<td>
+<span class=3D"io-table-header">Output</span>
+<br>&nbsp;
+</td>
+</tr>
+<tr>
+<td>
+<pre class=3D"io-content">Case #1: 2 1
+Case #2: 3 3 4
+
+
+
+</pre>
+</td></tr>
+</tbody></table>
+</div>
+
+
+Explanation for case 1:<br>
+2 GBuses go through city 15 (GBus1 [15 25] and GBus4 [10 20]) <br>
+1 GBus goes through city 25 (GBus1 [15 25]) <br></div></div><div id=3D"dsb-=
+problem-page2" class=3D"dsb-content-pages" style=3D"display: block;"><!-- P=
+roblem Input File Selection --><div class=3D"dsb-input-panel-text" id=3D"ds=
+b-input-panel-text2"><span style=3D"color: #666666;">This contest is open f=
+or practice.  You can try every problem as many times as you like, though w=
+e won't keep track of which problems you solve.  Read the <a href=3D"https:=
+//code.google.com/codejam/apactest/quickstart.html" target=3D"_blank">Quick=
+-Start Guide</a> to get started.</span></div><table><tbody id=3D"dsb-input-=
+form-table2"><tr><td class=3D"dsb-input-table-description">Small input<br>1=
+1 points</td><td class=3D"dsb-input-table-linktd"><div id=3D"dsb-action-box=
+-wrap2-0" class=3D""><div id=3D"dsb-input-wrapper2-0" class=3D"dsb-input-wr=
+apper" style=3D"display: inline;"><button class=3D"dsb-input-start-button" =
+id=3D"dsb-input-start-button2-0" style=3D"display: inline;">Solve C-small</=
+button><span class=3D"dsb-input-link-span" id=3D"dsb-input-link-plain2-0" s=
+tyle=3D"display: none;"><img class=3D"dsb-input-link-img" src=3D"https://co=
+de.google.com/codejam/contest/static/file.gif"><span class=3D"dsb-input-lin=
+k-text" id=3D"dsb-input-link-plain-text2-0">Download C-small-practice.in</s=
+pan></span></div><span class=3D"dsb-input-table-caption" id=3D"dsb-input-ta=
+ble-caption2-0" style=3D"display: none;"></span><span class=3D"dsb-input-ta=
+ble-caption" id=3D"dsb-resubmit-caption2-0" style=3D"display: none;">Your s=
+ubmission was received. You can still <span class=3D"dsb-input-link-text" i=
+d=3D"dsb-resubmit-link2-0">resubmit</span> for <span id=3D"dsb-resubmit-tim=
+er2-0"></span>.<br>Only your last submission counts. <span class=3D"dsb-inp=
+ut-link-text" id=3D"dsb-resubmit-view-sub-link2-0">View your last submissio=
+n</span>.</span><div><div class=3D"dsb-submit-form-div" id=3D"dsb-submit-fo=
+rm-div2-0" style=3D"display: none;"><div style=3D"display:none"><b>Time Rem=
+aining:</b> <span id=3D"io_timer_4"></span>&nbsp;&nbsp;</div><div style=3D"=
+display:none"><b>Input:</b> C-small-practice.in.</div><form id=3D"submit-fo=
+rmio_timer_4" action=3D"https://code.google.com/codejam/contest/6214486/das=
+hboard/do" enctype=3D"multipart/form-data" method=3D"post"><input type=3D"h=
+idden" name=3D"csrfmiddlewaretoken" value=3D"OGQ3YzI1ZDE4NzhlODAwMTJlYmZiZj=
+E3MDU1MjgyZDF8fDE0NzE0OTYzMzczNjE4MzA=3D"><div class=3D"dsb-submit-form-sep=
+arator">your output file:<input id=3D"output-fileio_timer_4" type=3D"file" =
+name=3D"answer" class=3D"submitFormFile"></div><div style=3D"display: none"=
+><table class=3D"dsb-source-code-table"><tbody><tr><td style=3D"padding:0.4=
+em 0.2em 0 0">source code:&nbsp;&nbsp;</td><td><div id=3D"source-filesio_ti=
+mer_4"><div id=3D"input-file-divio_timer_4-0"><span id=3D"source-fileio_tim=
+er_4-0"><input type=3D"file" name=3D"source-file0" class=3D"submitFormFile"=
+></span><span id=3D"remove-source-fileio_timer_4-0" class=3D"dsb-submit-for=
+m-links" style=3D"visibility: hidden;">remove</span></div></div><span id=3D=
+"add-source-fileio_timer_4" class=3D"dsb-submit-form-links">Add another fil=
+e</span></td></tr></tbody></table></div><div class=3D"dsb-submit-form-separ=
+ator" style=3D"color:gray">source file(s): &nbsp;&nbsp;&nbsp;not needed for=
+ the practice contest</div><div class=3D"dsb-submit-form-separator" style=
+=3D"text-align:center"><input id=3D"submit-buttonio_timer_4" type=3D"button=
+" value=3D"Submit file">&nbsp;&nbsp;<input id=3D"dsb-hide-submissionio_time=
+r_4" type=3D"button" value=3D"Hide"></div><div id=3D"source-file-namesio_ti=
+mer_4"></div><input type=3D"hidden" name=3D"cmd" value=3D"SubmitAnswer"><in=
+put type=3D"hidden" name=3D"problem" value=3D"5630689642807296"><input type=
+=3D"hidden" name=3D"input_id" value=3D"0"><input type=3D"hidden" name=3D"nu=
+m_source_files" id=3D"num-source-filesio_timer_4" value=3D"1"><input type=
+=3D"hidden" name=3D"agent" value=3D"website"></form></div></div></div></td>=
+</tr><tr><td class=3D"dsb-input-table-description">Large input<br>15 points=
+</td><td class=3D"dsb-input-table-linktd"><div id=3D"dsb-action-box-wrap2-1=
+" class=3D""><div id=3D"dsb-input-wrapper2-1" class=3D"dsb-input-wrapper" s=
+tyle=3D"display: inline;"><button class=3D"dsb-input-start-button" id=3D"ds=
+b-input-start-button2-1" style=3D"display: inline;">Solve C-large</button><=
+span class=3D"dsb-input-link-span" id=3D"dsb-input-link-plain2-1" style=3D"=
+display: none;"><img class=3D"dsb-input-link-img" src=3D"https://code.googl=
+e.com/codejam/contest/static/file.gif"><span class=3D"dsb-input-link-text" =
+id=3D"dsb-input-link-plain-text2-1">Download C-large-practice.in</span></sp=
+an></div><span class=3D"dsb-input-table-caption" id=3D"dsb-input-table-capt=
+ion2-1" style=3D"display: none;"></span><span class=3D"dsb-input-table-capt=
+ion" id=3D"dsb-resubmit-caption2-1" style=3D"display: none;">Your submissio=
+n was received. You can still <span class=3D"dsb-input-link-text" id=3D"dsb=
+-resubmit-link2-1">resubmit</span> for <span id=3D"dsb-resubmit-timer2-1"><=
+/span>.<br>Only your last submission counts. <span class=3D"dsb-input-link-=
+text" id=3D"dsb-resubmit-view-sub-link2-1">View your last submission</span>=
+.</span><div><div class=3D"dsb-submit-form-div" id=3D"dsb-submit-form-div2-=
+1" style=3D"display: none;"><div style=3D"display:none"><b>Time Remaining:<=
+/b> <span id=3D"io_timer_5"></span>&nbsp;&nbsp;</div><div style=3D"display:=
+none">You may resubmit this multiple times within the remaining time-frame.=
+ Only your last submission will count.</div><form id=3D"submit-formio_timer=
+_5" action=3D"https://code.google.com/codejam/contest/6214486/dashboard/do"=
+ enctype=3D"multipart/form-data" method=3D"post"><input type=3D"hidden" nam=
+e=3D"csrfmiddlewaretoken" value=3D"OGQ3YzI1ZDE4NzhlODAwMTJlYmZiZjE3MDU1Mjgy=
+ZDF8fDE0NzE0OTYzMzczNjE4MzA=3D"><div class=3D"dsb-submit-form-separator">yo=
+ur output file:<input id=3D"output-fileio_timer_5" type=3D"file" name=3D"an=
+swer" class=3D"submitFormFile"></div><div style=3D"display: none"><table cl=
+ass=3D"dsb-source-code-table"><tbody><tr><td style=3D"padding:0.4em 0.2em 0=
+ 0">source code:&nbsp;&nbsp;</td><td><div id=3D"source-filesio_timer_5"><di=
+v id=3D"input-file-divio_timer_5-0"><span id=3D"source-fileio_timer_5-0"><i=
+nput type=3D"file" name=3D"source-file0" class=3D"submitFormFile"></span><s=
+pan id=3D"remove-source-fileio_timer_5-0" class=3D"dsb-submit-form-links" s=
+tyle=3D"visibility: hidden;">remove</span></div></div><span id=3D"add-sourc=
+e-fileio_timer_5" class=3D"dsb-submit-form-links">Add another file</span></=
+td></tr></tbody></table></div><div class=3D"dsb-submit-form-separator" styl=
+e=3D"color:gray">source file(s): &nbsp;&nbsp;&nbsp;not needed for the pract=
+ice contest</div><div class=3D"dsb-submit-form-separator" style=3D"text-ali=
+gn:center"><input id=3D"submit-buttonio_timer_5" type=3D"button" value=3D"S=
+ubmit file">&nbsp;&nbsp;<input id=3D"dsb-hide-submissionio_timer_5" type=3D=
+"button" value=3D"Hide"></div><div id=3D"source-file-namesio_timer_5"></div=
+><input type=3D"hidden" name=3D"cmd" value=3D"SubmitAnswer"><input type=3D"=
+hidden" name=3D"problem" value=3D"5630689642807296"><input type=3D"hidden" =
+name=3D"input_id" value=3D"1"><input type=3D"hidden" name=3D"num_source_fil=
+es" id=3D"num-source-filesio_timer_5" value=3D"1"><input type=3D"hidden" na=
+me=3D"agent" value=3D"website"></form></div></div></div></td></tr></tbody><=
+/table><!-- Problem Statement --><div id=3D"dsb-problem-content-div2" class=
+=3D"dsb-problem-content-div" style=3D"width: 40em;"><h3>Problem</h3>
+<p>
+Once upon a day, Mary bought a one-way ticket from somewhere to somewhere w=
+ith some flight transfers.<br><br>
+For example: SFO-&gt;DFW DFW-&gt;JFK JFK-&gt;MIA MIA-&gt;ORD.<br>
+<br>
+Obviously, transfer flights at a city twice or more doesn't make any sense.=
+ So Mary will not do that.<br>
+<br>
+
+Unfortunately, after she received the tickets, she messed up the tickets an=
+d she forgot the order of the ticket.<br>
+<br>
+Help Mary rearrange the tickets to make the tickets in correct order.
+</p>
+
+<h3>Input</h3>
+<p>
+The first line contains the number of test cases <b>T</b>, after which <b>T=
+</b> cases follow.<br>
+For each case, it starts with an integer <b>N</b>. There are <b>N</b> fligh=
+t tickets follow.<br>
+Each of the next 2 lines contains the source and destination of a flight ti=
+cket.
+
+</p>
+
+<h3>Output</h3>
+<p>
+For each test case, output one line containing "Case #x: itinerary", where =
+<b>x</b> is the test case number (starting from 1) and <b>itinerary</b> is =
+sorted list of flight tickets which represents the actual itinerary. Each f=
+light segment in the itinerary should be outputted as pair of source-destin=
+ation airport codes.
+</p>
+
+<h3>Limits</h3>
+<p>
+1 =E2=89=A4 <b>T</b> =E2=89=A4 100.<br>
+
+For each case, the input tickets are messed up from an entire itinerary bou=
+ght by Mary. In other words, it's ensured can be recovered to a valid itine=
+rary.
+</p>
+
+<h4>Small dataset</h4>
+<p>
+1 =E2=89=A4 <b>N</b> =E2=89=A4 100.<br>
+</p>
+
+<h4>Large dataset</h4>
+<p>
+1 =E2=89=A4 <b>N</b> =E2=89=A4 10<sup>4</sup>.<br>
+</p>
+
+(The segment for second case in sample can be seen as below)
+MIA-ORD, DFW-JFK, SFO-DFW, JFK-MIA
+
+
+<h3>Sample</h3>
+<div class=3D"problem-io-wrapper">
+<table>
+<tbody><tr>
+<td>
+<br>
+<span class=3D"io-table-header">Input</span>
+<br>&nbsp;
+</td>
+<td>
+<br>
+<span class=3D"io-table-header">Output</span>
+<br>&nbsp;
+</td>
+</tr>
+<tr>
+<td>
+<pre class=3D"io-content">2
+1
+SFO
+DFW
+4
+MIA
+ORD
+DFW
+JFK
+SFO
+DFW
+JFK
+MIA
+
+</pre>
+</td>
+<td>
+<pre class=3D"io-content">Case #1: SFO-DFW
+Case #2: SFO-DFW DFW-JFK JFK-MIA MIA-ORD
+
+</pre>
+</td></tr></tbody></table>
+</div>
+
+</div></div><div id=3D"dsb-problem-page3" class=3D"dsb-content-pages"><!-- =
+Problem Input File Selection --><div class=3D"dsb-input-panel-text" id=3D"d=
+sb-input-panel-text3"><span style=3D"color: #666666;">This contest is open =
+for practice.  You can try every problem as many times as you like, though =
+we won't keep track of which problems you solve.  Read the <a href=3D"https=
+://code.google.com/codejam/apactest/quickstart.html" target=3D"_blank">Quic=
+k-Start Guide</a> to get started.</span></div><table><tbody id=3D"dsb-input=
+-form-table3"><tr><td class=3D"dsb-input-table-description">Small input<br>=
+12 points</td><td class=3D"dsb-input-table-linktd"><div id=3D"dsb-action-bo=
+x-wrap3-0" class=3D""><div id=3D"dsb-input-wrapper3-0" class=3D"dsb-input-w=
+rapper" style=3D"display: inline;"><button class=3D"dsb-input-start-button"=
+ id=3D"dsb-input-start-button3-0" style=3D"display: inline;">Solve D-small<=
+/button><span class=3D"dsb-input-link-span" id=3D"dsb-input-link-plain3-0" =
+style=3D"display: none;"><img class=3D"dsb-input-link-img" src=3D"https://c=
+ode.google.com/codejam/contest/static/file.gif"><span class=3D"dsb-input-li=
+nk-text" id=3D"dsb-input-link-plain-text3-0">Download D-small-practice.in</=
+span></span></div><span class=3D"dsb-input-table-caption" id=3D"dsb-input-t=
+able-caption3-0" style=3D"display: none;"></span><span class=3D"dsb-input-t=
+able-caption" id=3D"dsb-resubmit-caption3-0" style=3D"display: none;">Your =
+submission was received. You can still <span class=3D"dsb-input-link-text" =
+id=3D"dsb-resubmit-link3-0">resubmit</span> for <span id=3D"dsb-resubmit-ti=
+mer3-0"></span>.<br>Only your last submission counts. <span class=3D"dsb-in=
+put-link-text" id=3D"dsb-resubmit-view-sub-link3-0">View your last submissi=
+on</span>.</span><div><div class=3D"dsb-submit-form-div" id=3D"dsb-submit-f=
+orm-div3-0" style=3D"display: none;"><div style=3D"display:none"><b>Time Re=
+maining:</b> <span id=3D"io_timer_6"></span>&nbsp;&nbsp;</div><div style=3D=
+"display:none"><b>Input:</b> D-small-practice.in.</div><form id=3D"submit-f=
+ormio_timer_6" action=3D"https://code.google.com/codejam/contest/6214486/da=
+shboard/do" enctype=3D"multipart/form-data" method=3D"post"><input type=3D"=
+hidden" name=3D"csrfmiddlewaretoken" value=3D"OGQ3YzI1ZDE4NzhlODAwMTJlYmZiZ=
+jE3MDU1MjgyZDF8fDE0NzE0OTYzMzczNjE4MzA=3D"><div class=3D"dsb-submit-form-se=
+parator">your output file:<input id=3D"output-fileio_timer_6" type=3D"file"=
+ name=3D"answer" class=3D"submitFormFile"></div><div style=3D"display: none=
+"><table class=3D"dsb-source-code-table"><tbody><tr><td style=3D"padding:0.=
+4em 0.2em 0 0">source code:&nbsp;&nbsp;</td><td><div id=3D"source-filesio_t=
+imer_6"><div id=3D"input-file-divio_timer_6-0"><span id=3D"source-fileio_ti=
+mer_6-0"><input type=3D"file" name=3D"source-file0" class=3D"submitFormFile=
+"></span><span id=3D"remove-source-fileio_timer_6-0" class=3D"dsb-submit-fo=
+rm-links" style=3D"visibility: hidden;">remove</span></div></div><span id=
+=3D"add-source-fileio_timer_6" class=3D"dsb-submit-form-links">Add another =
+file</span></td></tr></tbody></table></div><div class=3D"dsb-submit-form-se=
+parator" style=3D"color:gray">source file(s): &nbsp;&nbsp;&nbsp;not needed =
+for the practice contest</div><div class=3D"dsb-submit-form-separator" styl=
+e=3D"text-align:center"><input id=3D"submit-buttonio_timer_6" type=3D"butto=
+n" value=3D"Submit file">&nbsp;&nbsp;<input id=3D"dsb-hide-submissionio_tim=
+er_6" type=3D"button" value=3D"Hide"></div><div id=3D"source-file-namesio_t=
+imer_6"></div><input type=3D"hidden" name=3D"cmd" value=3D"SubmitAnswer"><i=
+nput type=3D"hidden" name=3D"problem" value=3D"5681224764882944"><input typ=
+e=3D"hidden" name=3D"input_id" value=3D"0"><input type=3D"hidden" name=3D"n=
+um_source_files" id=3D"num-source-filesio_timer_6" value=3D"1"><input type=
+=3D"hidden" name=3D"agent" value=3D"website"></form></div></div></div></td>=
+</tr><tr><td class=3D"dsb-input-table-description">Large input<br>15 points=
+</td><td class=3D"dsb-input-table-linktd"><div id=3D"dsb-action-box-wrap3-1=
+" class=3D""><div id=3D"dsb-input-wrapper3-1" class=3D"dsb-input-wrapper" s=
+tyle=3D"display: inline;"><button class=3D"dsb-input-start-button" id=3D"ds=
+b-input-start-button3-1" style=3D"display: inline;">Solve D-large</button><=
+span class=3D"dsb-input-link-span" id=3D"dsb-input-link-plain3-1" style=3D"=
+display: none;"><img class=3D"dsb-input-link-img" src=3D"https://code.googl=
+e.com/codejam/contest/static/file.gif"><span class=3D"dsb-input-link-text" =
+id=3D"dsb-input-link-plain-text3-1">Download D-large-practice.in</span></sp=
+an></div><span class=3D"dsb-input-table-caption" id=3D"dsb-input-table-capt=
+ion3-1" style=3D"display: none;"></span><span class=3D"dsb-input-table-capt=
+ion" id=3D"dsb-resubmit-caption3-1" style=3D"display: none;">Your submissio=
+n was received. You can still <span class=3D"dsb-input-link-text" id=3D"dsb=
+-resubmit-link3-1">resubmit</span> for <span id=3D"dsb-resubmit-timer3-1"><=
+/span>.<br>Only your last submission counts. <span class=3D"dsb-input-link-=
+text" id=3D"dsb-resubmit-view-sub-link3-1">View your last submission</span>=
+.</span><div><div class=3D"dsb-submit-form-div" id=3D"dsb-submit-form-div3-=
+1" style=3D"display: none;"><div style=3D"display:none"><b>Time Remaining:<=
+/b> <span id=3D"io_timer_7"></span>&nbsp;&nbsp;</div><div style=3D"display:=
+none">You may resubmit this multiple times within the remaining time-frame.=
+ Only your last submission will count.</div><form id=3D"submit-formio_timer=
+_7" action=3D"https://code.google.com/codejam/contest/6214486/dashboard/do"=
+ enctype=3D"multipart/form-data" method=3D"post"><input type=3D"hidden" nam=
+e=3D"csrfmiddlewaretoken" value=3D"OGQ3YzI1ZDE4NzhlODAwMTJlYmZiZjE3MDU1Mjgy=
+ZDF8fDE0NzE0OTYzMzczNjE4MzA=3D"><div class=3D"dsb-submit-form-separator">yo=
+ur output file:<input id=3D"output-fileio_timer_7" type=3D"file" name=3D"an=
+swer" class=3D"submitFormFile"></div><div style=3D"display: none"><table cl=
+ass=3D"dsb-source-code-table"><tbody><tr><td style=3D"padding:0.4em 0.2em 0=
+ 0">source code:&nbsp;&nbsp;</td><td><div id=3D"source-filesio_timer_7"><di=
+v id=3D"input-file-divio_timer_7-0"><span id=3D"source-fileio_timer_7-0"><i=
+nput type=3D"file" name=3D"source-file0" class=3D"submitFormFile"></span><s=
+pan id=3D"remove-source-fileio_timer_7-0" class=3D"dsb-submit-form-links" s=
+tyle=3D"visibility: hidden;">remove</span></div></div><span id=3D"add-sourc=
+e-fileio_timer_7" class=3D"dsb-submit-form-links">Add another file</span></=
+td></tr></tbody></table></div><div class=3D"dsb-submit-form-separator" styl=
+e=3D"color:gray">source file(s): &nbsp;&nbsp;&nbsp;not needed for the pract=
+ice contest</div><div class=3D"dsb-submit-form-separator" style=3D"text-ali=
+gn:center"><input id=3D"submit-buttonio_timer_7" type=3D"button" value=3D"S=
+ubmit file">&nbsp;&nbsp;<input id=3D"dsb-hide-submissionio_timer_7" type=3D=
+"button" value=3D"Hide"></div><div id=3D"source-file-namesio_timer_7"></div=
+><input type=3D"hidden" name=3D"cmd" value=3D"SubmitAnswer"><input type=3D"=
+hidden" name=3D"problem" value=3D"5681224764882944"><input type=3D"hidden" =
+name=3D"input_id" value=3D"1"><input type=3D"hidden" name=3D"num_source_fil=
+es" id=3D"num-source-filesio_timer_7" value=3D"1"><input type=3D"hidden" na=
+me=3D"agent" value=3D"website"></form></div></div></div></td></tr></tbody><=
+/table><!-- Problem Statement --><div id=3D"dsb-problem-content-div3" class=
+=3D"dsb-problem-content-div" style=3D"width: 40em;"><h3>Problem</h3>
+<p>
+Given an arranged chess board with pieces, figure out the total number of d=
+ifferent ways in which any piece can be killed <b>in one move</b>. Note: in=
+ this problem, the pieces can be killed despite of the color.<br>
+
+<img src=3D"https://code.google.com/codejam/contest/images/?image=3Dchess.p=
+ng&amp;p=3D5681224764882944&amp;c=3D6214486">
+</p><p>
+For example, if there are 3 pieces King is at B2, Pawn at A1 and Queen at H=
+8 then=20
+the total number of pieces that an be killed is 3. H8-Q can kill B2-K, A1-P=
+ can kill B2-K, B2-K can kill A1-P
+
+</p><p>
+A position on the chess board is represented as A1, A2... A8,B1.. H8
+
+</p><p>
+Pieces are represented as
+</p><ul>
+<li> (K) King can move in 8 direction by one place.
+</li><li> (Q) Queen can move in 8 direction by any number of places, but ca=
+n't overtake another piece.
+</li><li> (R) Rook can only move vertically or horitonzally, but can't over=
+take another piece.
+</li><li> (B) Bishop can only move diagonally, but can't overtake another p=
+iece.
+</li><li> (N) Knights can move to a square that is two squares horizontally=
+ and one square vertically <b>OR</b> one squares horizontally and two squar=
+e vertically.
+</li><li> (P) Pawn can only kill by moving diagonally upwards (towards high=
+er number i.e. A -&gt; B, B-&gt;C and so on).
+</li></ul>
+
+<h3>Input</h3>
+<p>
+The first line of the input gives the number of test cases, <b>T</b>.  <b>T=
+</b> Test cases follow. Each test case consists of the number of pieces , <=
+b> N</b>. <b>N</b> lines follow, each line mentions where a piece is presen=
+t followed by <b>-</b> with the piece type
+</p>
+
+<h3>Output</h3>
+<p>
+For each test case, output one line containing "Case #x: y", where x is the=
+ test case number (starting from 1) and y is the the total number of differ=
+ent ways in which any piece can be killed.
+</p>
+
+<h3>Limits</h3>
+<p>
+1 =E2=89=A4 <b>T</b> =E2=89=A4 100.<br>
+</p>
+
+<h4>Small dataset</h4>
+<p>
+1 =E2=89=A4 <b>N</b> =E2=89=A4 10.<br>
+Pieces can include K, P<br>
+</p>
+
+<h4>Large dataset</h4>
+<p>
+1 =E2=89=A4 <b>N</b> =E2=89=A4 64.<br>
+</p>
+
+<h3>Sample</h3>
+<div class=3D"problem-io-wrapper">
+<table>
+<tbody><tr>
+<td>
+<br>
+<span class=3D"io-table-header">Input</span>
+<br>&nbsp;
+</td>
+<td>
+<br>
+<span class=3D"io-table-header">Output</span>
+<br>&nbsp;
+</td>
+</tr>
+<tr>
+<td>
+<pre class=3D"io-content">2
+2
+A1-K
+A8-Q
+
+3
+B2-K
+A1-P
+H8-Q
+
+</pre>
+</td>
+<td>
+<pre class=3D"io-content">Case #1: 1
+Case #2: 3
+
+</pre>
+</td></tr></tbody></table>
+</div>
+</div></div></div>
+
+    <div id=3D"dsb-analysis-page" class=3D"dsb-content-pages"></div>
+
+    <div id=3D"dsb-clarification-page" class=3D"dsb-content-pages">
+      <!-- The clarifications table -->
+      <div id=3D"clarTableDiv" class=3D"clarTableWrapper"></div><div>
+        <table id=3D"dsb-clarification-table" style=3D"display: block;">
+          <colgroup span=3D"9">
+            <col width=3D"16%"><col width=3D"2%">
+            <col width=3D"10%"><col width=3D"2%">
+            <col width=3D"28%"><col width=3D"2%">
+            <col width=3D"10%"><col width=3D"2%">
+            <col width=3D"28%">
+          </colgroup>
+          <thead>
+            <tr>
+            <th>Category</th><th>&nbsp;</th>
+            <th class=3D"clarTimeColumn">Asked</th><th>&nbsp;</th>
+            <th>Question</th><th>&nbsp;</th>
+            <th class=3D"clarTimeColumn">Answered</th><th>&nbsp;</th>
+            <th>Answer</th>
+            </tr>
+          </thead>
+          <tbody id=3D"dsb-clarification-tbody"><tr class=3D"dsb-clar-tr ds=
+b-clar-tr-announcement"><td class=3D"clarProbTd">Itz Chess<br><span style=
+=3D"color: #666">Announcement</span></td><td></td><td class=3D"clarTimeColu=
+mn">1:37:09</td><td></td><td><i>For the pawn movement it is specified that =
+it can move from A-&gt;B, B-&gt;C etc. This means towards *left* according =
+to the diagram but the question says upwards. Please clarify.</i></td><td><=
+/td><td class=3D"clarTimeColumn" style=3D"color: red;">1:37:58</td><td></td=
+><td><i>The image for problem D is just for reference. The image should be =
+look as turn 90 degree clockwise. Just trust the statement.</i></td></tr><t=
+r class=3D"dsb-clar-tr dsb-clar-tr-announcement"><td class=3D"clarProbTd">I=
+tz Chess<br><span style=3D"color: #666">Announcement</span></td><td></td><t=
+d class=3D"clarTimeColumn">1:17:01</td><td></td><td><i>if 'P' in D3, it can=
+ go (E2 E4 only) or (C4 E4 only) or four all?</i></td><td></td><td class=3D=
+"clarTimeColumn" style=3D"color: red;">1:40:37</td><td></td><td><i>The imag=
+e for problem D is just for reference.
+The image should be look as turn 90 degree clockwise.
+Just trust the statement.
+So, It is E2 E4 only.
+</i></td></tr><tr class=3D"dsb-clar-tr dsb-clar-tr-announcement"><td class=
+=3D"clarProbTd">[General]<br><span style=3D"color: #666">Announcement</span=
+></td><td></td><td class=3D"clarTimeColumn">30:09</td><td></td><td><i>What =
+is constraints on T in 3rd question?</i></td><td></td><td class=3D"clarTime=
+Column" style=3D"color: red;">36:38</td><td></td><td><i>It should be 100. T=
+his was added to the statement. Thank you.</i></td></tr><tr class=3D"dsb-cl=
+ar-tr dsb-clar-tr-announcement"><td class=3D"clarProbTd">[General]<br><span=
+ style=3D"color: #666">Announcement</span></td><td></td><td class=3D"clarTi=
+meColumn">21:33</td><td></td><td><i>does the black line in input of Gbus co=
+unt mean "BLANK" line</i></td><td></td><td class=3D"clarTimeColumn" style=
+=3D"color: red;">25:16</td><td></td><td><i>Yes. This was corrected.</i></td=
+></tr></tbody>
+        </table>
+      </div>
+      <div id=3D"dsb-submit-clarification" style=3D"display: none;">
+        <!-- The link to ask a clarification -->
+        <div style=3D"padding: 0.5em 0 0.3em 0;">
+          <b>Ask a question:</b>
+        </div>
+        <!-- The form for asking clarification -->
+        <div>
+          <form onsubmit=3D"return GCJ.submitClarification(this);" lpformnu=
+m=3D"1"><div style=3D"display:none;"><input type=3D"hidden" name=3D"csrfmid=
+dlewaretoken" value=3D"MWJlOTAyMjBhYzZkYTVlYzk1MjMyNjdjYzNmZTc5ZDN8fDE0NzE0=
+OTYzMzU3NjA3NDA=3D"></div>
+            <div><textarea rows=3D"5" cols=3D"60" name=3D"q"></textarea></d=
+iv>
+            <div style=3D"padding-top: 0.3em">
+              <select id=3D"dsb-clarification-problem-select" name=3D"probl=
+em">
+                <option value=3D"_" selected=3D"">[General]</option>
+              <option value=3D"5683759332458496">A. Cube IV</option><option=
+ value=3D"5761094782025728">B. GBus count</option><option value=3D"56306896=
+42807296">C. Sort a scrambled itinerary</option><option value=3D"5681224764=
+882944">D. Itz Chess</option></select>
+              &nbsp;
+              <input id=3D"dsb-submit-clarification-button" type=3D"submit"=
+ value=3D"Ask">
+            </div>
+          </form>
+        </div>
+      </div>
+      <!-- Too many pending clarifications -->
+      <div id=3D"dsb-cannot-ask-question-text" style=3D"font-weight: bold; =
+padding: 0.5em 0px 0.3em; display: block;">You cannot ask questions at this=
+ time. Please email us at codejam@google.com.</div>
+
+    </div>
+
+    <div id=3D"dsb-submissions-page" class=3D"dsb-content-pages">
+      <div id=3D"dsb-submissions-status" class=3D"dsb-sub-status-msg">
+        You have 0 submissions.
+      </div>
+      <table id=3D"dsb-submissions-table" class=3D"dsb-sub-main-table" styl=
+e=3D"display:none">
+      <thead>
+        <tr id=3D"dsb-sub-main-table-header">
+          <th class=3D"dsb-sub-row-id-width">ID</th>
+          <th class=3D"dsb-sub-name-width">Problem</th>
+          <th class=3D"dsb-sub-difficulty-width">Size</th>
+          <th class=3D"dsb-sub-input-width">Input</th>
+          <th class=3D"dsb-sub-output-width">Output</th>
+          <th class=3D"dsb-sub-source-width">Solution</th>
+          <th class=3D"dsb-sub-status-width">Status</th>
+          <th class=3D"dsb-sub-time-width">Time</th>
+        </tr>
+      </thead>
+      <tbody id=3D"dsb-submissions-rows">
+      </tbody>
+      </table>
+    </div>
+
+  </div>
+  </div>
+</div>
+
+</div>
+
+<div style=3D"height: 3em; clear: both;"></div>
+
+
+
+
+<div id=3D"footer">
+ =20
+ =20
+  <p>
+    All problem statements, input data and contest analyses are
+    licensed under the
+    <a href=3D"http://creativecommons.org/licenses/by/3.0/">Creative Common=
+s Attribution License</a>.
+   =20
+  </p>
+ =20
+  <span id=3D"copyright">=C2=A9 2008-2015 Google</span>
+  <a href=3D"http://www.google.com/">Google Home</a> -
+  <a href=3D"https://code.google.com/codejam/apactest/terms.html">Terms and=
+ Conditions</a> -
+  <a href=3D"http://www.google.com/intl/en/policies">Privacy Policies and P=
+rinciples</a>
+  <br><br>
+  <a href=3D"http://cloud.google.com/"><img src=3D"https://code.google.com/=
+codejam/contest/static/gcp_gray_small.png"></a>
+ =20
+</div>
+
+
+
+
+
+
+<div style=3D"height: 1em">&nbsp;</div>
+
+<input type=3D"text" name=3D"history_state0" id=3D"history_state0" style=3D=
+"display:none">
+
+
+
+
+</div></body></html>
+------MultipartBoundary--dDO9QES10mcZYebUuB9MXd4k4p8nQANKwaA8oXBaQh----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://code.google.com/codejam/contest/css/35/base.css
+
+@charset "utf-8";
+
+body { color: black; font-family: Arial, sans-serif; font-size: small; marg=
+in: 3px 8px; min-width: 970px; background-color: white; }
+
+img { border: 0px; }
+
+table { border-collapse: collapse; font-size: small; }
+
+th, td { padding: 0px; vertical-align: top; text-align: left; }
+
+a:link { color: rgb(0, 0, 204); }
+
+a:active { color: rgb(204, 0, 0); }
+
+a:visited { color: rgb(85, 26, 139); }
+
+h1 { font-size: x-large; margin-top: 0px; }
+
+h2 { font-size: large; }
+
+h3 { font-size: medium; }
+
+h4 { font-size: small; }
+
+form { margin: 0px; padding: 0px; }
+
+li { margin-bottom: 0.25em; }
+
+pre, code { color: rgb(0, 112, 0); font-family: "bogus font here", monospac=
+e; font-size: 100%; }
+
+pre { border: 1px solid silver; padding: 0.5em; overflow: auto; margin: 2em=
+; background-color: rgb(245, 245, 245); }
+
+pre ins { color: rgb(204, 0, 0); font-weight: bold; text-decoration: none; =
+}
+
+.newmark { color: red; font-size: 80%; vertical-align: top; }
+
+a.selected, .selected a, .selected { color: black; font-weight: bold; text-=
+decoration: none; }
+
+a.selected:visited, .selected a:visited { color: black; }
+
+#gaia { text-align: right; }
+
+#header { height: 60px; margin-bottom: 11px; position: relative; }
+
+#logo-div { position: absolute; top: 1em; left: 0px; padding: 0px 0px 0px 0=
+.7em; z-index: 100; }
+
+#logo { padding: 10px; border: 0px; }
+
+#logo-padder { padding-top: 1.3em; }
+
+#title { border-top: 1px solid rgb(51, 102, 204); font-size: large; font-we=
+ight: bold; margin: 5px 0px 0px; padding: 1px 0px; background-color: rgb(22=
+9, 236, 249); }
+
+#title, #breadcrumbs { margin-left: 160px; padding-left: 3px; }
+
+#breadcrumbs { margin-top: 3px; }
+
+#side { width: 167px; margin-bottom: 3em; float: left; }
+
+#menu ul { margin: 0px 0px 1em; padding: 0px; list-style-type: none; }
+
+#menu ul ul { margin-left: 10px; margin-bottom: 0px; }
+
+#menu li { margin-top: 4px; }
+
+#menu h4 { margin: 0px 0px 1em; padding: 0px; }
+
+#search { margin-top: 2em; }
+
+#search .header { font-weight: bold; font-size: 90%; margin-bottom: 1px; }
+
+#search .button { margin-top: 1px; }
+
+#search .input input { width: 125px; }
+
+#body { border-left: 1px dotted silver; margin-left: 169px; margin-right: 2=
+5px; padding-left: 18px; padding-bottom: 25px; }
+
+#footer { text-align: center; width: 100%; border-top: 1px solid rgb(204, 2=
+04, 204); padding: 10px 0px; font-size: 90%; }
+
+div.download { padding-top: 0.5em; padding-bottom: 0.5em; }
+
+div.download a { border: 1px solid rgb(51, 102, 204); padding: 0.5em; posit=
+ion: relative; font-weight: bold; background-color: rgb(229, 236, 249); }
+
+.termsagree { margin-top: 1em; margin-bottom: 1em; padding: 0.5em; backgrou=
+nd-color: rgb(229, 236, 249); }
+
+.termsagree .button { padding-top: 0.5em; }
+
+.termsagree .text { font-weight: bold; }
+
+.termsagree .text .printable { font-weight: normal; }
+
+.termsagree .text, .termsagree .button { padding-left: 5px; }
+
+@media print {=20
+  .noprint { display: none; }
+  #header, #side, #gaia { display: none; }
+  #body { margin: 0px; border: 0px; padding: 0px; }
+}
+
+#copyright { margin-right: 0.8em; }
+
+#guser { font-size: 13px; position: absolute; top: 0px; right: 0px; padding=
+: 2px 10px 7px 0px; z-index: 100; }
+
+#welcome-bar { margin: 1.5em 0px 0px 12em; padding: 0.5em; font-size: 120%;=
+ font-weight: bold; color: rgb(68, 125, 190); border-top: 1px solid rgb(204=
+, 204, 204); }
+
+.bold { font-weight: bold; }
+
+.gray { color: gray; }
+
+span.hDivider { padding-left: 0.7em; }
+
+.v-divider { height: 0.7em; }
+
+div.dynamic-link { padding: 0.3em 0.4em 0.3em 0.8em; margin-bottom: 0.2em; =
+font-size: 95%; color: blue; cursor: pointer; text-decoration: underline; }
+
+div.dynamic-link a:visited { color: blue; }
+
+#common-body div { }
+
+#common-nav-div { clear: none; float: left; height: 100%; }
+
+#common-nav-wrapper { width: 16em; border-right: 1px solid rgb(201, 237, 20=
+4); overflow: hidden; }
+
+#common-nav-wrapper div { display: block; }
+
+.common-nav-section-title { padding: 0.5em; width: 100%; color: rgb(51, 51,=
+ 51); }
+
+.common-nav-links > div { padding: 0.5em 1em; width: 100%; font-weight: bol=
+d; }
+
+.common-nav-links > .active-link:link { color: rgb(25, 25, 112); }
+
+.common-nav-links > .active-link:visited { color: rgb(25, 25, 112); }
+
+.common-nav-links > .active-link:hover { color: rgb(0, 0, 128); background-=
+color: rgb(255, 255, 238); }
+
+.common-nav-links > .current-link { color: rgb(0, 0, 128); background-color=
+: rgb(201, 237, 204); }
+
+#index-moreinfo > div { padding: 0.2em 0.5em; }
+
+#common-content-div { margin-left: 17em; margin-right: 0px; }
+
+#common-content-div > div { position: relative; padding: 2em; width: 90%; m=
+ax-width: 800px; }
+
+#index-moreinfo .active-link, #index-moreinfo a { color: navy; text-decorat=
+ion: underline; cursor: pointer; }
+
+#index-moreinfo .current-link { background-color: rgb(201, 237, 204); }
+
+#index-moreinfo > div { width: 100%; padding-left: 20px; background: url(".=
+./../static/bg_red_arrow.gif") 5px 5px no-repeat; }
+
+#common-nav-links { }
+
+table.schedule { border: 1px solid black; }
+
+.schedule .desc { font-weight: bold; width: 17em; }
+
+.schedule .date { width: 8em; }
+
+.schedule .duration { width: 8em; }
+
+.schedule .links { text-align: center; width: 6em; border-left: 0px; border=
+-right: 0px; }
+------MultipartBoundary--dDO9QES10mcZYebUuB9MXd4k4p8nQANKwaA8oXBaQh----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://code.google.com/codejam/contest/css/35/dashboard.css
+
+@charset "utf-8";
+
+body { min-width: 50em; }
+
+form { margin: 0px; }
+
+#dsb-page-body { position: relative; clear: both; margin: 0px 0px 0.5em; di=
+splay: block; }
+
+table, th, tr, td { border-collapse: collapse; border-width: 0pt; margin: 0=
+px; padding: 0px; text-align: left; vertical-align: top; }
+
+div.main { display: none; }
+
+#dsb-header-links { text-align: right; }
+
+#dsb-contest-title-bar { position: relative; padding: 0.5em 0.3em 0.3em; te=
+xt-align: right; }
+
+#dsb-rank-etc { float: left; }
+
+#left-panel { float: left; width: 14.6em; overflow: hidden; display: inline=
+; padding-top: 5.3em; }
+
+#dsb-analysis-button { display: none; }
+
+#dsb-contest-title { color: rgb(51, 51, 51); padding: 0px 0px 0px 0.8em; }
+
+.before-start-only { display: none; }
+
+.before-start-only-inline { display: none; }
+
+.after-start-only { display: none; }
+
+.after-start-only-inline { display: none; }
+
+div.dsb-pre-contest-text { color: black; cursor: default; text-decoration: =
+none; position: relative; padding: 0.5em 1em; }
+
+div.dsb-problem-tab-open div.dynamic-link { color: black; cursor: default; =
+font-weight: bold; text-decoration: none; background-color: rgb(195, 217, 2=
+55); }
+
+div.dsb-clar-tab-open div.dynamic-link, div.dsb-submissions-tab-open div.dy=
+namic-link, div.dsb-analysis-tab-open div.dynamic-link { color: black; curs=
+or: default; font-weight: bold; text-decoration: none; background-color: rg=
+b(201, 237, 204); }
+
+div.dsb-clar-tab-close div.dynamic-link, div.dsb-submissions-tab-close div.=
+dynamic-link, div.dsb-problem-tab-close div.dynamic-link, div.dsb-analysis-=
+tab-close div.dynamic-link { cursor: pointer; background-color: white; }
+
+div.dsb-problem-tab-open div.dynamic-link div, div.dsb-analysis-tab-open di=
+v.dynamic-link div { color: black; text-decoration: none; display: inline; =
+}
+
+div.dsb-problem-tab-close div.dynamic-link div, div.dsb-analysis-tab-close =
+div.dynamic-link div { color: blue; text-decoration: underline; display: in=
+line; }
+
+div.problem-status-wrapper { padding: 0.3em 0.5em 0.3em 0.3em; }
+
+table.problemStatus { margin: 0.3em 0px 0.3em 0em; color: rgb(102, 102, 102=
+); font-size: 90%; width: 100%; }
+
+table.problemStatus td.inputName { width: 2em; text-align: right; padding-r=
+ight: 0.4em; border-right: 1px solid rgb(182, 202, 238); }
+
+table.problemStatus td.status { padding-left: 0.4em; }
+
+.dsb-mini-status-highlight { color: black; display: inline; background-colo=
+r: rgb(238, 251, 206); }
+
+.dsb-mini-status-non-highlight { color: black; }
+
+.dsb-mini-tab-wrapper { border: 0.2em solid rgb(195, 217, 255); margin: 0px=
+ 0.9em 0px 0.3em; width: 13.5em; border-radius: 0.3em; }
+
+.dsb-status-problem-title { color: black; font-size: 90%; padding: 0.15em 0=
+px 0.25em; border-bottom: 1px solid rgb(204, 204, 204); }
+
+#dsb-scoreboard-div { font-weight: 500; }
+
+#dsb-scoreboard-table { width: 13.48em; font-size: small; }
+
+#dsb-scoreboard-header-div, #dsb-status-header-div { border-bottom: 1px sol=
+id rgb(195, 217, 255); padding-top: 0.25em; padding-bottom: 0.25em; padding=
+-left: 0.5em; font-size: 95%; background-color: rgb(195, 217, 255); }
+
+div.dsb-mini-tab-link { padding: 0px 0.5em 0.5em 0px; text-align: right; }
+
+.dsb-name-td { width: 11em; padding: 0.2em 0px 0.2em 0.5em; }
+
+.dsb-score-td { text-align: right; width: 2.48em; padding: 0.2em 0.5em 0.2e=
+m 0px; }
+
+.dsb-scoreboard-row-odd { background-color: rgb(238, 238, 238); }
+
+hr.dsb-hr { color: rgb(195, 217, 255); width: 90%; height: 1px; border: 0px=
+; background-color: rgb(195, 217, 255); }
+
+#right-panel { float: none; margin-left: 14.5em; z-index: 5; }
+
+div.dsb-blue-border { position: relative; padding: 0.45em; border-radius: 0=
+.2em; background-color: rgb(195, 217, 255); }
+
+div.dsb-green-border { position: relative; padding: 0.45em; border-radius: =
+0.2em; background-color: rgb(201, 237, 204); }
+
+#dsb-border-inner { padding: 0.5em; background-color: white; }
+
+div.dsb-status-msg-wrapper { text-align: center; visibility: hidden; }
+
+div.dsb-status-msg { font-weight: bold; display: inline; padding: 0.4em 1em=
+; line-height: 1.75em; border-radius: 0.5em; background-color: rgb(250, 236=
+, 165); }
+
+#dsb-view-sub-link { color: blue; text-decoration: underline; cursor: point=
+er; }
+
+.dsb-content-pages { padding: 1em; display: none; min-height: 45em; height:=
+ auto !important; }
+
+div.clarTableWrapper { padding-top: 1em; max-height: 40em; overflow: auto; =
+}
+
+tr.dsb-clar-tr td { empty-cells: show; padding-top: 0.2em; padding-bottom: =
+0.2em; padding-left: 0.5em; border-top: 1px solid rgb(221, 221, 221); borde=
+r-bottom: 1px solid rgb(221, 221, 221); }
+
+tr.dsb-clar-tr-odd { background-color: rgb(239, 239, 239); }
+
+tr.dsb-clar-tr-announcement { background-color: rgb(255, 255, 212); }
+
+.clarTimeColumn { text-align: right; }
+
+td.clarProbTd { padding: 0.2em 0.5em; }
+
+div.problem-title { color: rgb(51, 51, 51); padding: 0.4em; margin: 0px 0.5=
+em; border-bottom: 0.1em solid rgb(232, 240, 255); font-size: 112%; font-we=
+ight: bold; }
+
+.dsb-input-panel-text { padding-bottom: 0.5em; }
+
+span.problemInput { padding: 0.4em; height: 1em; }
+
+span.inputText { display: inline; padding-left: 0.3em; vertical-align: midd=
+le; }
+
+span.inputText span.inputLink { color: blue; text-decoration: underline; }
+
+span.inputTextStatic { display: inline; padding-left: 0.3em; vertical-align=
+: middle; }
+
+input.submitFormFile { margin: 0.1em 0.5em; }
+
+span.dsb-submit-form-links { margin-left: 0.25em; color: blue; cursor: poin=
+ter; text-decoration: underline; }
+
+span.dsb-submit-form-redownload-zipped-link { margin-left: 0em; }
+
+div.dsb-submit-form-separator { margin-top: 0.5em; padding-top: 0.5em; padd=
+ing-bottom: 0.2em; border-top: 0.1em solid rgb(255, 248, 170); }
+
+.dsb-problem-content-div { vertical-align: top; margin-right: 6em; margin-t=
+op: 2em; max-width: 40em; min-height: 45em; height: auto !important; }
+
+#dsb-clar-close-image-div { position: absolute; top: 0.1em; left: 0.1em; te=
+xt-align: left; }
+
+#dsb-time-remaining-before { color: rgb(153, 153, 153); display: inline; }
+
+#dsb-time-remaining { color: rgb(153, 153, 153); display: inline; }
+
+#dsb-current-score-div, #dsb-current-rank-div { color: rgb(51, 51, 51); pad=
+ding-left: 0.5em; display: inline; }
+
+#dsb-current-score-span, #dsb-current-rank-span { color: rgb(63, 118, 44); =
+}
+
+#dsb-clarification-table { min-width: 30em; display: none; }
+
+#dsb-clarification-table th, #dsb-clarification-table td, #dsb-submissions-=
+table th, #dsb-submissions-table td { padding: 0.3em; }
+
+#dsb-clarification-table th, #dsb-submissions-table th { font-size: 90%; fo=
+nt-weight: 500; }
+
+.problem-item, .problem-item-gray { font-size: 110%; }
+
+.dsb-problem-content-div > h3, .dsb-problem-content-div > h4 { font-size: 1=
+10%; font-weight: normal; }
+
+.problem-item-gray { font-size: 100%; }
+
+.dsb-problem-content-div > .problem-io-wrapper { border: 1px solid rgb(204,=
+ 204, 204); padding-bottom: 2em; margin-bottom: 2em; width: 90%; overflow-x=
+: auto; overflow-y: hidden; background-color: rgb(239, 239, 239); }
+
+.problem-io-wrapper td { padding: 0px 1em; }
+
+.problem-io-wrapper .io-table-header { font-size: 100%; }
+
+.problem-io-wrapper .io-content { border: 0px; padding: 0px; margin: 0px; w=
+idth: 100%; font-size: 100%; background-color: rgb(239, 239, 239); }
+
+.dsb-input-table-description { padding: 0.5em; color: rgb(51, 51, 51); line=
+-height: 1.5em; border-right: 0.1em solid rgb(204, 204, 204); white-space: =
+nowrap; }
+
+.dsb-input-table-caption { display: block; margin-top: 0.4em; padding-left:=
+ 0.5em; color: rgb(102, 102, 102); }
+
+.dsb-input-table-linktd { padding: 0.5em; }
+
+.dsb-input-link-span { cursor: pointer; display: inline; text-decoration: n=
+one; }
+
+.dsb-input-link-text { color: blue; text-decoration: underline; cursor: poi=
+nter; }
+
+.dsb-input-link-img { display: inline; padding-right: 0.2em; }
+
+.dsb-no-image-link-text { margin-left: 15px; padding-left: 0.2em; }
+
+.dsb-action-box-open { padding: 0.5em; max-width: 31em; border-right: 1px s=
+olid rgb(221, 200, 80); border-bottom: 1px solid rgb(221, 200, 80); border-=
+radius: 0.5em; background-color: rgb(250, 236, 165); }
+
+.dsb-input-wrapper { padding: 0.4em; display: inline; }
+
+.dsb-submit-form-div { top: -0.2em; display: none; padding: 0.4em; max-widt=
+h: 30em; }
+
+.dsb-input-start-button { font-size: 100%; }
+
+img { vertical-align: middle; }
+
+.dsb-has-new-question-tab { font-weight: bold; }
+
+.dsb-unread-count { display: inline-block; padding: 1px 6px; color: rgb(255=
+, 255, 255); border: 1px solid rgb(193, 56, 40); border-radius: 2px; margin=
+-left: 5px; background-color: rgb(209, 72, 54); }
+
+pre, code { color: black; }
+
+pre { width: 86%; font-size: 90%; }
+
+.dsb-sub-status-msg { height: 1.2em; font-size: 100%; margin-bottom: 0.5em;=
+ text-align: left; }
+
+.dsb-sub-row-id-width { width: 2em; }
+
+.dsb-sub-name-width { width: 12em; }
+
+.dsb-sub-difficulty-width { width: 5em; }
+
+.dsb-sub-input-width, .dsb-sub-output-width, .dsb-sub-source-width { width:=
+ 4.5em; }
+
+.dsb-sub-status-width { width: 7.5em; text-align: right; }
+
+.dsb-sub-time-width { width: 7.5em; text-align: right; }
+
+.dsb-sub-download-link-span { display: block; width: 15px; height: 15px; cu=
+rsor: pointer; }
+
+.dsb-sub-download-link-disabled-span { cursor: default; }
+
+.dsb-sub-even-row { background-color: rgb(239, 239, 239); }
+
+.dsb-sub-odd-row { background-color: rgb(255, 255, 255); }
+
+tr.dsb-sub-odd-row td, tr.dsb-sub-even-row td { empty-cells: show; padding-=
+top: 0.2em; padding-bottom: 0.2em; padding-left: 0.5em; border-top: 1px sol=
+id rgb(221, 221, 221); border-bottom: 1px solid rgb(221, 221, 221); }
+
+.dsb-analysis-selected { color: black; text-decoration: none; cursor: defau=
+lt; }
+
+.dsb-analysis-not-selected { color: blue; text-decoration: underline; curso=
+r: pointer; }
+
+a.dsb-download-sample-link { color: rgb(0, 0, 204); cursor: pointer; }
+
+a.dsb-download-sample-link:visited { color: rgb(85, 26, 139); }
+------MultipartBoundary--dDO9QES10mcZYebUuB9MXd4k4p8nQANKwaA8oXBaQh----
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://code.google.com/codejam/contest/static/logo_2015_apac_test.jpg
+
+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
+P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/Pgo8eDp4
+bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1
+LjUtYzAyMSA3OS4xNTU3NzIsIDIwMTQvMDEvMTMtMTk6NDQ6MDAgICAgICAgICI+CiAgIDxyZGY6
+UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5z
+IyI+CiAgICAgIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiCiAgICAgICAgICAgIHhtbG5z
+OnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIKICAgICAgICAgICAgeG1sbnM6eG1w
+TU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iCiAgICAgICAgICAgIHhtbG5zOnN0
+RXZ0PSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VFdmVudCMiCiAg
+ICAgICAgICAgIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIKICAg
+ICAgICAgICAgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8x
+LjAvIgogICAgICAgICAgICB4bWxuczp0aWZmPSJodHRwOi8vbnMuYWRvYmUuY29tL3RpZmYvMS4w
+LyIKICAgICAgICAgICAgeG1sbnM6ZXhpZj0iaHR0cDovL25zLmFkb2JlLmNvbS9leGlmLzEuMC8i
+PgogICAgICAgICA8eG1wOkNyZWF0b3JUb29sPkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE0IChNYWNp
+bnRvc2gpPC94bXA6Q3JlYXRvclRvb2w+CiAgICAgICAgIDx4bXA6Q3JlYXRlRGF0ZT4yMDE1LTA3
+LTI0VDExOjUzOjM1LTA3OjAwPC94bXA6Q3JlYXRlRGF0ZT4KICAgICAgICAgPHhtcDpNZXRhZGF0
+YURhdGU+MjAxNS0wNy0yNFQxMTo1MzozNS0wNzowMDwveG1wOk1ldGFkYXRhRGF0ZT4KICAgICAg
+ICAgPHhtcDpNb2RpZnlEYXRlPjIwMTUtMDctMjRUMTE6NTM6MzUtMDc6MDA8L3htcDpNb2RpZnlE
+YXRlPgogICAgICAgICA8eG1wTU06SW5zdGFuY2VJRD54bXAuaWlkOjAxOWZhOTc0LTQxNjMtNDA1
+ZC1iMzViLTg2MGQzY2U5NjZiNjwveG1wTU06SW5zdGFuY2VJRD4KICAgICAgICAgPHhtcE1NOkRv
+Y3VtZW50SUQ+YWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjhiZTZiNzJiLTZkMDYtMTE3OC1hYzk4LWU5
+ZWFhZjAyNmFiYzwveG1wTU06RG9jdW1lbnRJRD4KICAgICAgICAgPHhtcE1NOk9yaWdpbmFsRG9j
+dW1lbnRJRD54bXAuZGlkOmQzYWY4MDM5LTdhM2MtNDdmYS04NDhmLTAxNmMyYTA0ZTRlMTwveG1w
+TU06T3JpZ2luYWxEb2N1bWVudElEPgogICAgICAgICA8eG1wTU06SGlzdG9yeT4KICAgICAgICAg
+ICAgPHJkZjpTZXE+CiAgICAgICAgICAgICAgIDxyZGY6bGkgcmRmOnBhcnNlVHlwZT0iUmVzb3Vy
+Y2UiPgogICAgICAgICAgICAgICAgICA8c3RFdnQ6YWN0aW9uPmNyZWF0ZWQ8L3N0RXZ0OmFjdGlv
+bj4KICAgICAgICAgICAgICAgICAgPHN0RXZ0Omluc3RhbmNlSUQ+eG1wLmlpZDpkM2FmODAzOS03
+YTNjLTQ3ZmEtODQ4Zi0wMTZjMmEwNGU0ZTE8L3N0RXZ0Omluc3RhbmNlSUQ+CiAgICAgICAgICAg
+ICAgICAgIDxzdEV2dDp3aGVuPjIwMTUtMDctMjRUMTE6NTM6MzUtMDc6MDA8L3N0RXZ0OndoZW4+
+CiAgICAgICAgICAgICAgICAgIDxzdEV2dDpzb2Z0d2FyZUFnZW50PkFkb2JlIFBob3Rvc2hvcCBD
+QyAyMDE0IChNYWNpbnRvc2gpPC9zdEV2dDpzb2Z0d2FyZUFnZW50PgogICAgICAgICAgICAgICA8
+L3JkZjpsaT4KICAgICAgICAgICAgICAgPHJkZjpsaSByZGY6cGFyc2VUeXBlPSJSZXNvdXJjZSI+
+CiAgICAgICAgICAgICAgICAgIDxzdEV2dDphY3Rpb24+c2F2ZWQ8L3N0RXZ0OmFjdGlvbj4KICAg
+ICAgICAgICAgICAgICAgPHN0RXZ0Omluc3RhbmNlSUQ+eG1wLmlpZDowMTlmYTk3NC00MTYzLTQw
+NWQtYjM1Yi04NjBkM2NlOTY2YjY8L3N0RXZ0Omluc3RhbmNlSUQ+CiAgICAgICAgICAgICAgICAg
+IDxzdEV2dDp3aGVuPjIwMTUtMDctMjRUMTE6NTM6MzUtMDc6MDA8L3N0RXZ0OndoZW4+CiAgICAg
+ICAgICAgICAgICAgIDxzdEV2dDpzb2Z0d2FyZUFnZW50PkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE0
+IChNYWNpbnRvc2gpPC9zdEV2dDpzb2Z0d2FyZUFnZW50PgogICAgICAgICAgICAgICAgICA8c3RF
+dnQ6Y2hhbmdlZD4vPC9zdEV2dDpjaGFuZ2VkPgogICAgICAgICAgICAgICA8L3JkZjpsaT4KICAg
+ICAgICAgICAgPC9yZGY6U2VxPgogICAgICAgICA8L3htcE1NOkhpc3Rvcnk+CiAgICAgICAgIDxk
+Yzpmb3JtYXQ+aW1hZ2UvcG5nPC9kYzpmb3JtYXQ+CiAgICAgICAgIDxwaG90b3Nob3A6Q29sb3JN
+b2RlPjM8L3Bob3Rvc2hvcDpDb2xvck1vZGU+CiAgICAgICAgIDxwaG90b3Nob3A6SUNDUHJvZmls
+ZT5zUkdCIElFQzYxOTY2LTIuMTwvcGhvdG9zaG9wOklDQ1Byb2ZpbGU+CiAgICAgICAgIDx0aWZm
+Ok9yaWVudGF0aW9uPjE8L3RpZmY6T3JpZW50YXRpb24+CiAgICAgICAgIDx0aWZmOlhSZXNvbHV0
+aW9uPjcyMDAwMC8xMDAwMDwvdGlmZjpYUmVzb2x1dGlvbj4KICAgICAgICAgPHRpZmY6WVJlc29s
+dXRpb24+NzIwMDAwLzEwMDAwPC90aWZmOllSZXNvbHV0aW9uPgogICAgICAgICA8dGlmZjpSZXNv
+bHV0aW9uVW5pdD4yPC90aWZmOlJlc29sdXRpb25Vbml0PgogICAgICAgICA8ZXhpZjpDb2xvclNw
+YWNlPjE8L2V4aWY6Q29sb3JTcGFjZT4KICAgICAgICAgPGV4aWY6UGl4ZWxYRGltZW5zaW9uPjE1
+MDwvZXhpZjpQaXhlbFhEaW1lbnNpb24+CiAgICAgICAgIDxleGlmOlBpeGVsWURpbWVuc2lvbj41
+NjwvZXhpZjpQaXhlbFlEaW1lbnNpb24+CiAgICAgIDwvcmRmOkRlc2NyaXB0aW9uPgogICA8L3Jk
+ZjpSREY+CjwveDp4bXBtZXRhPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo8P3hwYWNrZXQgZW5kPSJ3
+Ij8+D2uYBQAAACBjSFJNAAB6JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAAMEUlE
+QVR42uxcT0wbVxp/eMBAgHlNtXuyPXeiGW2lPVjKWLFayQfGIlqVCyZQkksxckJPwRJiT8taMtlL
+aaw4OWzK4mIuiapEmINXjYg8VTlU6mpG8aXSrsZBq1VRum9g+WOwvYdXhvGbsRnbFIQ0nzgwz8/v
++73v//feQFulUgE2XWZy2CKwVWiTrUKbbBXaKrTpclO7LQI9yZKEkAoAgJBmOe5SoGqzmwo9fXjD
+X1AUAADv4xdTqUuByg6kJyTmRCypy4XKVuEJrWVWLyOq9lPjLyaG8XgYppU4bn2FFlmLOVH73XpK
+QwitrWaadhTtd5ZjIYRnhdMKqqpcWFCUzGrmWzGnX10jD8MMh0LDIyECopgTx0dHtce5WGx4JAQA
+ePwo+SSZRAjpV5iORgeCgnHx5ljraWU5LYo50w0PBAWe92FUtYzmQTxuylqjxVSK9/EEx5V0WpYk
+YibLcRhtozhZjhsQBCEoYJO1iOpEhSvL6dmZmVNtB0K4mFrSmwyhwuGR0P1odHx0zLg3TBOT4fvR
+KLGr5lhrpjoVidTfqt62iO8+SSYfP0qeyl2vQisceR+/kEjobQ4hNDszY8XXv0gkZFmyiMqhZ2kx
+4IyPjtVJsGurmdmZmVr6w965spwmdts0azx4qv4ghKZuIUuyFUk1wVHMieOjY/og9CSZtKI/D8PQ
+EFpH5agKVtWb5H08/jHu4XEy2UpSeRCPEwG2adZTkUgdc9HH0rOqL4wG6mGYicnwxGSYiBCyJD05
+RltQFKNWTLc5HAo1hIfMhX8YvDk8EhoQBD2agqJ8Um3+EMLv//GDaSDVp73rPh5CuLaamY/HCe+5
+H41OTIbPnDWE8NNwmPfxLMfhchwnnq9fvqhVL8iSjAs/fWxgOY6I9rhOMXIk8sLjR8kH8bh+wqvX
+6x6GMX6RgLS2mhHF3Mpy+tXrdRpC66jaCblr0iGtLBzWpyuEEEKoVnEBIfxbakkrIweCAsuxH97w
+6+d8K+b0KmyO9Up6mZi/kEhoRs37eAD44ZFQIarUqmkhhHg+4VgQ0qbhneDI+3hCphOTYVmW9HEo
+s5rR71TPmogTA0FhLhbTJxcrqKz2hUYRYDOpFbWI+cZQeWouscKaiNgDQcFU7s21Q6b0bTXs67zP
+OEcQglVoZfM4/4mFhNrSGam+OVMREsWc9UVZlqsxmCZYmAY3i6yNKZA3E+hZn1WiOu0dJqU6ZagI
+4Yhn7KPGR0frdyANqxA3Z2uZjJUCoSG/MR3U9+9NsNZ//cy9zSJHIu3VL4nvR6PG+bIkzUrSg3j8
+03C4fuN7ugqNefjc6AJZnydNTIYLBYVoqLQE/yAef5JM3o9GG/VIx6lCxFXvr3fzcoGsz5/mYrHF
+VKpWtMC9v6mOT/FCfEJBfHA/GhV0VYlp53AWoenCWJ+VY9E0PDWEEnb56vX62mpmJb1sWs7Mzszw
+Pt56UmjHVRaRpYmmrYm0b6wMjUkOQvpsWRcUBQD+PFV4nfdZPFoyFu0DQUGWpMdmRza1+pCagVQx
+nJYJhrMM1VCJ1VOhWRltHGQ5rhXWxhqvVvl+VmTFLhsiluO+SCSMt7iq2oC0zftC2lAXGZvoOrS2
+ShaWsiQZe7gWWUMIiTS5spw2lSlCqNGDUEUpWDmoe5JM1r+P1WIMqu0DxjO2WpNNUTmMwRrLgojO
+jTah46NjK8tpDGVtNTM+Ombaw7XIekAQTPlisSKExJz4IB7/6Ia/0Yq3oCjaQS4+9cUwhkMjhKzv
+Re4aESKEVpbT9yKRqUhEO474/e8+ML08QggRuvF4GOuo2iqVSkFRiNMv7OMsxxYURZZkU6PQLl+a
+KDcghN+8XocQtsgaIfTRDT+yFuR//Nc/63x66i60JH0vEjFmLw/DMIxH8xXNNbW3XYj1MX6W42RJ
+Mm5TOz61gqods+d9PGEdsiTpgxKE8LqPt3ivDSGsL9a5WAz7X4usIYRzsdi9Y0tvMc95GMbKuzNz
+sVhBKRARu6AoDb13g7dsGmD0fZQVVA5CprVUsphamghbrZEWU0t1VpuLxfQZpUXW+Gi4iUMNU2AW
+DXQxtXSGt1eE/hYSiYZQObQ48PXLF6awhkdC37xeZzkO/1jc5NcvXxhPGViOW0yliPHWWQ+PhDA7
+U0Xiy95Xr9etiK9W3+1hGEY3DiHElWQdReKLIU0BLMcaLxSJ+bjxN/aR9VGR75Fq92e1ymgrWUSf
+q7TVTn2LqQnWpi2p/iSzuTd6C4qiry9OfaOJYFofPLFN65utheoMXgWuo0KbzoHs90htFdpkq9Cm
+Fuk8/rJpf+3ve4srtqwvsQrL//5PceN7W9Z2ILXpV/NC45txENIXspnu0BDFuHbiCwCA918so7vT
+JeVtnfkU4+4OfUwx7gpS91ezRXGjCUZG6gnfaef6AQDF3MZe+pnpnN7oVEnZNH7q5L0d3LX/JZ+e
+qwrxmUsDjg/psq4R7uD6D6W89fnaCMW49RqiGLcD0hTjPn50OWBfxfBd/fyrS4/2M9kjKY/XNMWj
+f9SQVDOqgtEbnergrhVzG/o19XPwIMW4K2jbuMEO7hpWv3Fl7ZEYP9c/1MbbozwuAIA6M1cqbMKH
+8xTjOpLz6swcfDj/7uZId2ioOzSEf6EYFwCgSwgAAHbiC22Q7goGKI9rP5PF65TRNro7DQC4uvQI
+AFBG26XCyd76/vxHB+wro+3d5NPOYABFpgEAMDG/t/ysKG70hG/vZ7J6T6IYtx4PAED/2B36GCMB
+AOyln+NfrqaSGoyS8pZi3N2hoZ8+OLl76RICvdEpAMChnEeR6S4h0BebrSAVAHAk5bVPCSQOSL+3
+lMTg0d1p+HC+oqqUx1UqbJaR2sH2lwqbP4+GLyAXUoz7UHqz5R/cSz/vjX5Gx2YPMtmfPvAXcxs9
+4dsU46IYd1cwQDEuJ+/t4PoraLtLCGz5B9WZud7olAPSlMf17uatCtouI3XLP3iQyfaEb8OH83vp
+51v+waL4nZ7dbvIpHmzn+jvYfifvpRi3k/figNkpBLCvOHlvT/hOd2iIwKN/pGOz3aEhjKR87D09
+4Tt6GFhhR3JVROmLzaK701v+QQeke8J3+mKz/x0Lb/kH8SLap92hIc2tAQBlpOLxUuFtlxCgGNfe
+8rMt/2A7238k5bf8g200rdnTef+7BBw9iuJ3V8K3AXDtxD/Hj++Fk0Vxo0sIUB7XbvJLp8/r5L17
+yvM2SP9m/SX2MGzLZaRileDx/UyWYlxYeVpowoQ9soK227n+vfTzrmCgjFQt/VSQSjFucJz/sDfo
+8egfr4RvV5CKk9xBJvuL7KphYNHjGKMFYQAAjsPF3IbT59UetWgBH85jMIStw4fzDtjXBumj6vl4
+p6XCW03l512RtsE+AADlcVeQWlI2KY8bANDOXjuS80dSvlMIFMWNQ+kNNrGS8rakbG75B7f8g+9u
+nlyXl5S3+5ksHt+JL2jrkE7vcWOOFaTupZ85eW/XsedhoWOZFsWNX+RSjYd8LGxiTWi1BgEDAHCQ
+ybZB2sl7jyds6pKfS58gtTT57uYtvAKRUA8y2S3/IOHTF9YXGmo5dwfbvxNfKCMVJuY7gwEn70WR
+6VJh80r49l76WVHcKKPtI/nNfibbGQy8/2K5oqqa6AEAu8kv33/xVQd3rY2md5NPd5NPe6NTncEA
+5XFr1lpB6pXwnc5goIPt/3lssozUQzlPedxa2bkTX7iaSv72h/WiuEF53CVlcyf+uR4PTpzaY8/k
+nSs4WgZ/sQMCxn4mW0bq9swcTMwfyfk2mj7IZPGcUmGT8rjexW+1wb73lpI4sWkrHMp5B6S13IbT
+ZKcQcPq8bfTptf15/NOS3b9+tf2nv2CJHEn5ovhdGW1jo3NAmmJcJWUTl2RarVVdpJ2Eo1rjFON2
+wL5DKa8vGrHta4tj7kS93nFc/mnr67+iPXYKga5gAMfV3uhnuCDCc/QwtGIEF2IENiNs7VPMkWLc
+XUKgnetHkWlid0QtqpfDBaiwoabnTMjJe7tHhjrY/i3/YNMr0LHZQzkPAOhg+9/dvFWrV2mpw07M
+Ux73qe3sRXqhk/eWCpsN4TvDAH6QybYid+wih9Ib6ycA51RenKcKbbqsKrTJPua2yVahrUKbbBXa
+ZKvQptr0/wEAEl4/uw+ygAEAAAAASUVORK5CYII=
+------MultipartBoundary--dDO9QES10mcZYebUuB9MXd4k4p8nQANKwaA8oXBaQh----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://code.google.com/codejam/contest/static/minus.gif
+
+R0lGODlhCgAKAOf+AHp64LrZ8aurq83NzfPz8yUqLdPp9wGM1UJCQgAbzODk4RwdHXWdfPb29j6f
+STAwMNPT75qam/+Hh8/m0dOEhOz1/LfL1wNxq1RUVN7e3oiIqt2goJyyqsnTy/8DA32snjiNp2uv
+3pnJ6ZWV59ra2hKKIGZmZomJiXG0487Y0IvFkf9LSzOa2oOlilCq4f39/ajR7oCBgrjHugBoyf9w
+cIeG5djQlMTa6v8rK3W55cPP263CmIfC6W62dnF2sAByzPDw8NPo99nh66YAAGq15fT5/cji9OTt
++E1ZuaKkpYx74wkJCaq8x5axm8ppaf/ojae8q42Njfn5+bxAQJ+fn7ApKfve3sHBwU2j3N3d+HV1
+4v3v79LS09vp83h4eOPx5Obo5t7t+E2mV9zc3O7Pz7i4uKPO7ZDF6kJC2EuVpKen62JudH6Nlnu5
+5ePf+PPmqv+9vWJi3LOzs8nJyVNT20hsi5OTk+Pr8/+mpszM9enp6f/NzQBvFLfauyIi0g2Nu5qM
+5m99hqbRrLu78VRdYzIy1Yq95Pv8/fX2+G9wcfLv+7Oz6djf2VutZOTk8WGq3MTGyV1J2bLX8dPc
+1aqd6Z8MDdTP88a+8O7u/PzolGZm4AB2L5zH5rit7QB90Gxa3Obp68PD7Ozu8F2QaDgr0o+rlLux
+ntvm8Sh9QD6mzvT09kaf2vL58/n7/Xtq30OFU+3t7ens6YOFhvLy8mav4ks51ZXD5dXX26/CsvHz
+9dvd4JzNoU+q4Xxr4Ky1wOnq7dPq90+p4ERLT7W4uq6uriEgz5PI67DYtYW91jU7P3R5f4iPlREc
+z+PdyPT09H296GRobr7d88HfxI6cpry8vL29vYKHjoqKiu/v7+7u7r+/wH+BrfHx8V9gYICAgDNE
+vxEpyIixnMy/msDNwujAwKqkoiI2xO3akcJQUNLj8I+sle3v7V2v43e75+7gj+/l5ZOVl+Ovrw4c
+z2aioR8fz+Tk5e3w7re3t+jpxu/w8n9/5fX19/X19U+p4QAAAP///yH+FUNyZWF0ZWQgd2l0aCBU
+aGUgR0lNUAAsAAAAAAoACgAACB0A/wkcSLCgwYMIDfbj1S8Yr2AEGS5cmLCixYsBAQA7
+------MultipartBoundary--dDO9QES10mcZYebUuB9MXd4k4p8nQANKwaA8oXBaQh----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://code.google.com/codejam/contest/static/file.gif
+
+R0lGODlhEQARAJEAAGZmZv////8AAJmZmSH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLv
+u78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJh
+ZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNC4xLWMwMzQgNDYuMjcyOTc2
+LCBTYXQgSmFuIDI3IDIwMDcgMjI6MTE6NDEgICAgICAgICI+CiAgIDxyZGY6UkRGIHhtbG5zOnJk
+Zj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+CiAgICAgIDxy
+ZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiCiAgICAgICAgICAgIHhtbG5zOnhhcD0iaHR0cDov
+L25zLmFkb2JlLmNvbS94YXAvMS4wLyI+CiAgICAgICAgIDx4YXA6Q3JlYXRvclRvb2w+QWRvYmUg
+RmlyZXdvcmtzIENTMzwveGFwOkNyZWF0b3JUb29sPgogICAgICAgICA8eGFwOkNyZWF0ZURhdGU+
+MjAwNy0xMS0wOFQyMDoxMjo0NVo8L3hhcDpDcmVhdGVEYXRlPgogICAgICAgICA8eGFwOk1vZGlm
+eURhdGU+MjAwNy0xMS0wOFQyMDoxODo0N1o8L3hhcDpNb2RpZnlEYXRlPgogICAgICA8L3JkZjpE
+ZXNjcmlwdGlvbj4KICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgICAgICAg
+ICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIj4KICAgICAgICAg
+PGRjOmZvcm1hdD5pbWFnZS9naWY8L2RjOmZvcm1hdD4KICAgICAgPC9yZGY6RGVzY3JpcHRpb24+
+CiAgIDwvcmRmOlJERj4KPC94OnhtcG1ldGE+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgCjw/eHBhY2tl
+dCBlbmQ9InciPz4B//79/Pv6+fj39vX08/Lx8O/u7ezr6uno5+bl5OPi4eDf3t3c29rZ2NfW1dTT
+0tHQz87NzMvKycjHxsXEw8LBwL++vby7urm4t7a1tLOysbCvrq2sq6qpqKempaSjoqGgn56dnJua
+mZiXlpWUk5KRkI+OjYyLiomIh4aFhIOCgYB/fn18e3p5eHd2dXRzcnFwb25tbGtqaWhnZmVkY2Jh
+YF9eXVxbWllYV1ZVVFNSUVBPTk1MS0pJSEdGRURDQkFAPz49PAA6OTg3NjU0MzIxMC8uLSwrKiko
+JyYlJCMiISAfHh0cGxoZGBcWFRQTEhEQDw4NDAsKCQgHBgUEAwIBAAAh+QQBBwACACwAAAAAEQAR
+AAACOIRvorsQDxNrMA4wlasBjJttlfdhzGY8iKRxrtl2K3q6HCygs1rbUT+jUXy8YbAYI+JEvmVw
+xSgAADs=
+------MultipartBoundary--dDO9QES10mcZYebUuB9MXd4k4p8nQANKwaA8oXBaQh----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://code.google.com/codejam/contest/images/?image=chess.png&p=5681224764882944&c=6214486
+
+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
+------MultipartBoundary--dDO9QES10mcZYebUuB9MXd4k4p8nQANKwaA8oXBaQh----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://code.google.com/codejam/contest/static/gcp_gray_small.png
+
+iVBORw0KGgoAAAANSUhEUgAAAGQAAABPCAYAAAAdiWChAAAACXBIWXMAAAsTAAALEwEAmpwYAAA7
+bmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0w
+TXBDZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRh
+LyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS41LWMwMjEgNzkuMTU1NzcyLCAyMDE0LzAxLzEz
+LTE5OjQ0OjAwICAgICAgICAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMu
+b3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJk
+ZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94
+YXAvMS4wL21tLyIKICAgICAgICAgICAgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20v
+eGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiCiAgICAgICAgICAgIHhtbG5zOnN0RXZ0PSJodHRw
+Oi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VFdmVudCMiCiAgICAgICAgICAg
+IHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIKICAgICAgICAgICAgeG1s
+bnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIgogICAgICAgICAgICB4bWxu
+czpwaG90b3Nob3A9Imh0dHA6Ly9ucy5hZG9iZS5jb20vcGhvdG9zaG9wLzEuMC8iCiAgICAgICAg
+ICAgIHhtbG5zOnRpZmY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vdGlmZi8xLjAvIgogICAgICAgICAg
+ICB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyI+CiAgICAgICAgIDx4
+bXBNTTpEb2N1bWVudElEPmFkb2JlOmRvY2lkOnBob3Rvc2hvcDpjYjc2YTFhZi01MDNlLTExNzgt
+OGJlOS1iMTQ1ZThjYjEwMTM8L3htcE1NOkRvY3VtZW50SUQ+CiAgICAgICAgIDx4bXBNTTpJbnN0
+YW5jZUlEPnhtcC5paWQ6ZDBlMzNhMGEtNWZiZi00NDg1LTgxNzQtZDZmZmJjNDgyZTJhPC94bXBN
+TTpJbnN0YW5jZUlEPgogICAgICAgICA8eG1wTU06RGVyaXZlZEZyb20gcmRmOnBhcnNlVHlwZT0i
+UmVzb3VyY2UiPgogICAgICAgICAgICA8c3RSZWY6aW5zdGFuY2VJRD54bXAuZGlkOkY3N0YxMTc0
+MDcyMDY4MTE4NzFGQjZBOEJBOTkzOTVBPC9zdFJlZjppbnN0YW5jZUlEPgogICAgICAgICAgICA8
+c3RSZWY6ZG9jdW1lbnRJRD54bXAuZGlkOkY3N0YxMTc0MDcyMDY4MTE4NzFGQjZBOEJBOTkzOTVB
+PC9zdFJlZjpkb2N1bWVudElEPgogICAgICAgICA8L3htcE1NOkRlcml2ZWRGcm9tPgogICAgICAg
+ICA8eG1wTU06T3JpZ2luYWxEb2N1bWVudElEPnhtcC5kaWQ6RThFNThFRTZDMEYwMTFFNDlGRDVB
+MjA0QzgzQTU5NkI8L3htcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD4KICAgICAgICAgPHhtcE1NOkhp
+c3Rvcnk+CiAgICAgICAgICAgIDxyZGY6U2VxPgogICAgICAgICAgICAgICA8cmRmOmxpIHJkZjpw
+YXJzZVR5cGU9IlJlc291cmNlIj4KICAgICAgICAgICAgICAgICAgPHN0RXZ0OmFjdGlvbj5zYXZl
+ZDwvc3RFdnQ6YWN0aW9uPgogICAgICAgICAgICAgICAgICA8c3RFdnQ6aW5zdGFuY2VJRD54bXAu
+aWlkOjgxMTVhNWIwLWY4MDEtNGVmYS1iOTI0LTQ5NWNkOTIzZGU2Yzwvc3RFdnQ6aW5zdGFuY2VJ
+RD4KICAgICAgICAgICAgICAgICAgPHN0RXZ0OndoZW4+MjAxNS0wNi0xMFQxMzozMTozOS0wNzow
+MDwvc3RFdnQ6d2hlbj4KICAgICAgICAgICAgICAgICAgPHN0RXZ0OnNvZnR3YXJlQWdlbnQ+QWRv
+YmUgUGhvdG9zaG9wIENDIDIwMTQgKE1hY2ludG9zaCk8L3N0RXZ0OnNvZnR3YXJlQWdlbnQ+CiAg
+ICAgICAgICAgICAgICAgIDxzdEV2dDpjaGFuZ2VkPi88L3N0RXZ0OmNoYW5nZWQ+CiAgICAgICAg
+ICAgICAgIDwvcmRmOmxpPgogICAgICAgICAgICAgICA8cmRmOmxpIHJkZjpwYXJzZVR5cGU9IlJl
+c291cmNlIj4KICAgICAgICAgICAgICAgICAgPHN0RXZ0OmFjdGlvbj5zYXZlZDwvc3RFdnQ6YWN0
+aW9uPgogICAgICAgICAgICAgICAgICA8c3RFdnQ6aW5zdGFuY2VJRD54bXAuaWlkOmQwZTMzYTBh
+LTVmYmYtNDQ4NS04MTc0LWQ2ZmZiYzQ4MmUyYTwvc3RFdnQ6aW5zdGFuY2VJRD4KICAgICAgICAg
+ICAgICAgICAgPHN0RXZ0OndoZW4+MjAxNS0wNi0xMFQxMzozNjozNS0wNzowMDwvc3RFdnQ6d2hl
+bj4KICAgICAgICAgICAgICAgICAgPHN0RXZ0OnNvZnR3YXJlQWdlbnQ+QWRvYmUgUGhvdG9zaG9w
+IENDIDIwMTQgKE1hY2ludG9zaCk8L3N0RXZ0OnNvZnR3YXJlQWdlbnQ+CiAgICAgICAgICAgICAg
+ICAgIDxzdEV2dDpjaGFuZ2VkPi88L3N0RXZ0OmNoYW5nZWQ+CiAgICAgICAgICAgICAgIDwvcmRm
+OmxpPgogICAgICAgICAgICA8L3JkZjpTZXE+CiAgICAgICAgIDwveG1wTU06SGlzdG9yeT4KICAg
+ICAgICAgPHhtcDpDcmVhdG9yVG9vbD5BZG9iZSBQaG90b3Nob3AgQ0MgMjAxNCAoTWFjaW50b3No
+KTwveG1wOkNyZWF0b3JUb29sPgogICAgICAgICA8eG1wOkNyZWF0ZURhdGU+MjAxNS0wMy0xMlQw
+ODozMS0wNzowMDwveG1wOkNyZWF0ZURhdGU+CiAgICAgICAgIDx4bXA6TW9kaWZ5RGF0ZT4yMDE1
+LTA2LTEwVDEzOjM2OjM1LTA3OjAwPC94bXA6TW9kaWZ5RGF0ZT4KICAgICAgICAgPHhtcDpNZXRh
+ZGF0YURhdGU+MjAxNS0wNi0xMFQxMzozNjozNS0wNzowMDwveG1wOk1ldGFkYXRhRGF0ZT4KICAg
+ICAgICAgPGRjOmZvcm1hdD5pbWFnZS9wbmc8L2RjOmZvcm1hdD4KICAgICAgICAgPHBob3Rvc2hv
+cDpDb2xvck1vZGU+MzwvcGhvdG9zaG9wOkNvbG9yTW9kZT4KICAgICAgICAgPHRpZmY6T3JpZW50
+YXRpb24+MTwvdGlmZjpPcmllbnRhdGlvbj4KICAgICAgICAgPHRpZmY6WFJlc29sdXRpb24+NzIw
+MDAwLzEwMDAwPC90aWZmOlhSZXNvbHV0aW9uPgogICAgICAgICA8dGlmZjpZUmVzb2x1dGlvbj43
+MjAwMDAvMTAwMDA8L3RpZmY6WVJlc29sdXRpb24+CiAgICAgICAgIDx0aWZmOlJlc29sdXRpb25V
+bml0PjI8L3RpZmY6UmVzb2x1dGlvblVuaXQ+CiAgICAgICAgIDxleGlmOkNvbG9yU3BhY2U+NjU1
+MzU8L2V4aWY6Q29sb3JTcGFjZT4KICAgICAgICAgPGV4aWY6UGl4ZWxYRGltZW5zaW9uPjEwMDwv
+ZXhpZjpQaXhlbFhEaW1lbnNpb24+CiAgICAgICAgIDxleGlmOlBpeGVsWURpbWVuc2lvbj43OTwv
+ZXhpZjpQaXhlbFlEaW1lbnNpb24+CiAgICAgIDwvcmRmOkRlc2NyaXB0aW9uPgogICA8L3JkZjpS
+REY+CjwveDp4bXBtZXRhPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo8P3hwYWNrZXQgZW5kPSJ3Ij8+
+hRRbzwAAACBjSFJNAAB6JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAAe7klEQVR4
+2uydeZheRZ3vP1Vnefe39+50Z+0kJCEhBBBRYQR1BGVGBVFHBFFcRmccnTs6LveOMyMzXq8K477h
+gveOsgyKuCDKIoIsKsgSIBBAQhKSdCfpNd3vdpaqun+c6vTbnU6nk3QnyDP1PO/T73n7nKo69f3t
+tfzE2y9+J7NYPg28B3gCKAIp4O3A73julauAZ4B/qfutFbjW9nn70eiUnOX6TgXuBl4D/DnwX8At
+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
+AABJRU5ErkJggg==
+------MultipartBoundary--dDO9QES10mcZYebUuB9MXd4k4p8nQANKwaA8oXBaQh------

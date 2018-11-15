@@ -1,0 +1,2924 @@
+From: <Saved by Blink>
+Subject: Dashboard - Practice Round APAC test 2017 - Google Code Jam
+Date: Tue, 22 Aug 2016 11:39:54 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--iBNXAuUPsTtujwwHur1sBw5M5ALWKGq0zy2xYw15Fu----"
+
+------MultipartBoundary--iBNXAuUPsTtujwwHur1sBw5M5ALWKGq0zy2xYw15Fu----
+Content-Type: text/html
+Content-ID: <frame-461-91d445a2-ea94-4b7d-b514-f08973b20e4d@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://code.google.com/codejam/contest/5254486/dashboard#s=p2
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv=
+=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><meta http-equiv=
+=3D"refresh" content=3D"172795">
+ =20
+  <title>
+    Dashboard - Practice Round APAC test 2017 - Google Code Jam
+  </title>
+  <link rel=3D"stylesheet" type=3D"text/css" href=3D"https://code.google.co=
+m/codejam/contest/css/35/base.css">
+  <link rel=3D"stylesheet" type=3D"text/css" href=3D"https://code.google.co=
+m/codejam/contest/css/35/dashboard.css">
+ =20
+  <style></style>
+ =20
+ =20
+</head>
+
+<body onload=3D"GCJ.main()">
+
+<div id=3D"logo-div">
+  <a href=3D"https://code.google.com/codejam/apactest/">
+    <img src=3D"https://code.google.com/codejam/contest/static/logo_2015_ap=
+ac_test.jpg" id=3D"logo" alt=3D"Google Code Jam">
+  </a>
+</div>
+
+<div>
+
+<div id=3D"dsb-page-body">
+
+<div id=3D"left-panel">
+  <div class=3D"v-divider"></div>
+  <div class=3D"v-divider"></div>
+  <div class=3D"v-divider"></div>
+  <!-- Problem Selection Panel -->
+  <div id=3D"dsb-contest-title">Practice Round APAC test 2017</div>
+  <hr class=3D"dsb-hr">
+  <div id=3D"dsb-problem-selection-area">
+    <div id=3D"dsb-problem-selection-list" class=3D"after-start-only" style=
+=3D"display: block;">
+    <div><div id=3D"dsb-problem-tab0" class=3D"dsb-problem-tab-close" tabin=
+dex=3D"0" role=3D"button">  <div id=3D"dsb-problem-title0" class=3D"dynamic=
+-link">A. Lazy Spelling Bee  </div></div></div><div><div id=3D"dsb-problem-=
+tab1" class=3D"dsb-problem-tab-close" tabindex=3D"0" role=3D"button">  <div=
+ id=3D"dsb-problem-title1" class=3D"dynamic-link">B. Robot Rock Band  </div=
+></div></div><div><div id=3D"dsb-problem-tab2" class=3D"dsb-problem-tab-ope=
+n" tabindex=3D"0" role=3D"button">  <div id=3D"dsb-problem-title2" class=3D=
+"dynamic-link">C. Not So Random  </div></div></div><div><div id=3D"dsb-prob=
+lem-tab3" class=3D"dsb-problem-tab-close" tabindex=3D"0" role=3D"button">  =
+<div id=3D"dsb-problem-title3" class=3D"dynamic-link">D. Sums of Sums  </di=
+v></div></div></div>
+    <div id=3D"dsb-problem-selection-list-pre-contest" class=3D"dsb-pre-con=
+test-text before-start-only" style=3D"display: none;">
+      The list of problems will appear here after the contest loads.
+     =20
+    </div>
+  </div>
+  <hr class=3D"dsb-hr">
+  <div class=3D"v-divider"></div>
+  <div class=3D"v-divider"></div>
+  <div id=3D"dsb-analysis-button" class=3D"dsb-analysis-tab-close" tabindex=
+=3D"0" role=3D"button" style=3D"display: none;">
+    <div class=3D"dynamic-link">
+       <div id=3D"dsb-analysis-tab">
+         Contest Analysis
+       </div>
+    </div>
+  </div>
+  <div id=3D"dsb-ask-question-area">
+    <div id=3D"dsb-ask-question-button" class=3D"dsb-clar-tab-close" tabind=
+ex=3D"0" role=3D"button" style=3D"display: block;">
+      <div class=3D"dynamic-link">
+        <div id=3D"dsb-ask-question-tab" class=3D"">Ask a question</div>
+      </div>
+    </div>
+    <div class=3D"dsb-pre-contest-text before-start-only" style=3D"display:=
+ none;">
+      You'll be able to ask questions about the problems, and view your
+      submissions, here.
+     =20
+    </div>
+  </div>
+  <div id=3D"dsb-submissions-button" class=3D"dsb-submissions-tab-close" ta=
+bindex=3D"0" role=3D"button" style=3D"display: block;">
+    <div class=3D"dynamic-link">
+      <div id=3D"dsb-submissions-tab">
+        View my submissions
+      </div>
+    </div>
+  </div>
+  <div class=3D"v-divider"></div>
+  <div class=3D"v-divider"></div>
+  <div class=3D"dsb-mini-tab-wrapper">
+  <div id=3D"dsb-status-div-container">
+    <div id=3D"dsb-status-header-div" onmouseover=3D"this.style.cursor=3D'p=
+ointer'" onclick=3D"GCJ.toggleStatusPanelVisibility();">
+      <img id=3D"dsb-status-panel-button" src=3D"https://code.google.com/co=
+dejam/contest/static/minus.gif">
+      &nbsp; Submissions
+    </div>
+    <div id=3D"dsb-status-tab" class=3D"after-start-only" style=3D"display:=
+ block;">
+      <div id=3D"dsb-status-tab-loading-text" class=3D"dsb-pre-contest-text=
+" style=3D"display: none;">
+        Loading...
+      </div>
+    <div id=3D"dsb-status-tab-problems" style=3D"display: block;"><div><div=
+ id=3D"dsb-problem-status-wrapper0" class=3D"problem-status-wrapper">  <div=
+ class=3D"dsb-status-problem-title">Lazy Spelling Bee</div><div><table clas=
+s=3D"problemStatus">  <tbody>    <tr class=3D"inputSetStatus">      <td id=
+=3D"inputName0_0" class=3D"inputName">5pt</td>      <td class=3D"status">  =
+      <div id=3D"selfStat0_0" class=3D"dsb-mini-status-highlight">Correct</=
+div>        <div id=3D"globalStat0_0" class=3D"globalStat" style=3D"display=
+: block;"><b>698/1266 users</b> correct (55%)</div>      </td>    </tr>  </=
+tbody></table></div><div><table class=3D"problemStatus">  <tbody>    <tr cl=
+ass=3D"inputSetStatus">      <td id=3D"inputName0_1" class=3D"inputName">8p=
+t</td>      <td class=3D"status">        <div id=3D"selfStat0_1" class=3D"d=
+sb-mini-status-non-highlight">Correct</div>        <div id=3D"globalStat0_1=
+" class=3D"globalStat" style=3D"display: block;"><b>496/685 users</b> corre=
+ct (72%)</div>      </td>    </tr>  </tbody></table></div></div></div><div>=
+<div id=3D"dsb-problem-status-wrapper1" class=3D"problem-status-wrapper">  =
+<div class=3D"dsb-status-problem-title">Robot Rock Band</div><div><table cl=
+ass=3D"problemStatus">  <tbody>    <tr class=3D"inputSetStatus">      <td i=
+d=3D"inputName1_0" class=3D"inputName">6pt</td>      <td class=3D"status"> =
+       <div id=3D"selfStat1_0" class=3D"dsb-mini-status-highlight">Correct<=
+/div>        <div id=3D"globalStat1_0" class=3D"globalStat" style=3D"displa=
+y: block;"><b>480/622 users</b> correct (77%)</div>      </td>    </tr>  </=
+tbody></table></div><div><table class=3D"problemStatus">  <tbody>    <tr cl=
+ass=3D"inputSetStatus">      <td id=3D"inputName1_1" class=3D"inputName">14=
+pt</td>      <td class=3D"status">        <div id=3D"selfStat1_1" class=3D"=
+dsb-mini-status-non-highlight">Not attempted</div>        <div id=3D"global=
+Stat1_1" class=3D"globalStat" style=3D"display: block;"><b>142/407 users</b=
+> correct (35%)</div>      </td>    </tr>  </tbody></table></div></div></di=
+v><div><div id=3D"dsb-problem-status-wrapper2" class=3D"problem-status-wrap=
+per">  <div class=3D"dsb-status-problem-title">Not So Random</div><div><tab=
+le class=3D"problemStatus">  <tbody>    <tr class=3D"inputSetStatus">      =
+<td id=3D"inputName2_0" class=3D"inputName">11pt</td>      <td class=3D"sta=
+tus">        <div id=3D"selfStat2_0" class=3D"dsb-mini-status-highlight">Co=
+rrect</div>        <div id=3D"globalStat2_0" class=3D"globalStat" style=3D"=
+display: block;"><b>204/310 users</b> correct (66%)</div>      </td>    </t=
+r>  </tbody></table></div><div><table class=3D"problemStatus">  <tbody>    =
+<tr class=3D"inputSetStatus">      <td id=3D"inputName2_1" class=3D"inputNa=
+me">20pt</td>      <td class=3D"status">        <div id=3D"selfStat2_1" cla=
+ss=3D"dsb-mini-status-non-highlight">Not attempted</div>        <div id=3D"=
+globalStat2_1" class=3D"globalStat" style=3D"display: block;"><b>109/158 us=
+ers</b> correct (69%)</div>      </td>    </tr>  </tbody></table></div></di=
+v></div><div><div id=3D"dsb-problem-status-wrapper3" class=3D"problem-statu=
+s-wrapper">  <div class=3D"dsb-status-problem-title">Sums of Sums</div><div=
+><table class=3D"problemStatus">  <tbody>    <tr class=3D"inputSetStatus"> =
+     <td id=3D"inputName3_0" class=3D"inputName">8pt</td>      <td class=3D=
+"status">        <div id=3D"selfStat3_0" class=3D"dsb-mini-status-highlight=
+">Correct</div>        <div id=3D"globalStat3_0" class=3D"globalStat" style=
+=3D"display: block;"><b>230/395 users</b> correct (58%)</div>      </td>   =
+ </tr>  </tbody></table></div><div><table class=3D"problemStatus">  <tbody>=
+    <tr class=3D"inputSetStatus">      <td id=3D"inputName3_1" class=3D"inp=
+utName">28pt</td>      <td class=3D"status">        <div id=3D"selfStat3_1"=
+ class=3D"dsb-mini-status-non-highlight">Not attempted</div>        <div id=
+=3D"globalStat3_1" class=3D"globalStat" style=3D"display: block;"><b>13/128=
+ users</b> correct (10%)</div>      </td>    </tr>  </tbody></table></div><=
+/div></div></div></div>
+    <div id=3D"dsb-status-tab-pre-contest" class=3D"dsb-pre-contest-text be=
+fore-start-only" style=3D"display: none;">
+      Statistics about the problems will appear here.  They'll include your
+      status on each problem, and other contestants' attempts.
+     =20
+    </div>
+  </div>
+  </div>
+  <div class=3D"v-divider"></div>
+  <div class=3D"v-divider"></div>
+  <!-- Mini Scoreboard -->
+  <div class=3D"dsb-mini-tab-wrapper">
+    <div id=3D"dsb-scoreboard-div">
+      <div id=3D"dsb-scoreboard-header-div" onmouseover=3D"this.style.curso=
+r=3D'pointer'" onclick=3D"GCJ.toggleVisibility(
+              'dsb-scoreboard-table',
+              'dsb-scoreboard-panel-button',
+              '/codejam/contest/static/minus.gif',
+              '/codejam/contest/static/plus.gif')">
+          <img id=3D"dsb-scoreboard-panel-button" src=3D"https://code.googl=
+e.com/codejam/contest/static/minus.gif">
+          &nbsp; Top Scores
+      </div>
+      <div id=3D"dsb-scoreboard-table-wrap" class=3D"after-start-only" styl=
+e=3D"display: block;"><table id=3D"dsb-scoreboard-table"><tbody><tr class=
+=3D"dsb-scoreboard-row-even" id=3D"sbRow_0" style=3D"display: block;"><td c=
+lass=3D"dsb-name-td" id=3D"sbName_0">Jayam</td><td class=3D"dsb-score-td" i=
+d=3D"sbScore_0">100</td></tr><tr class=3D"dsb-scoreboard-row-odd" id=3D"sbR=
+ow_1" style=3D"display: block;"><td class=3D"dsb-name-td" id=3D"sbName_1">S=
+eter</td><td class=3D"dsb-score-td" id=3D"sbScore_1">100</td></tr><tr class=
+=3D"dsb-scoreboard-row-even" id=3D"sbRow_2" style=3D"display: block;"><td c=
+lass=3D"dsb-name-td" id=3D"sbName_2" title=3D"KillswitcherEngager142">Kills=
+witcherEngag...</td><td class=3D"dsb-score-td" id=3D"sbScore_2">100</td></t=
+r><tr class=3D"dsb-scoreboard-row-odd" id=3D"sbRow_3" style=3D"display: blo=
+ck;"><td class=3D"dsb-name-td" id=3D"sbName_3">onepunchman</td><td class=3D=
+"dsb-score-td" id=3D"sbScore_3">100</td></tr><tr class=3D"dsb-scoreboard-ro=
+w-even" id=3D"sbRow_4" style=3D"display: block;"><td class=3D"dsb-name-td" =
+id=3D"sbName_4">Sumeet.Varma</td><td class=3D"dsb-score-td" id=3D"sbScore_4=
+">100</td></tr><tr class=3D"dsb-scoreboard-row-odd" id=3D"sbRow_5" style=3D=
+"display: block;"><td class=3D"dsb-name-td" id=3D"sbName_5">gdragon007</td>=
+<td class=3D"dsb-score-td" id=3D"sbScore_5">100</td></tr><tr class=3D"dsb-s=
+coreboard-row-even" id=3D"sbRow_6" style=3D"display: block;"><td class=3D"d=
+sb-name-td" id=3D"sbName_6">libenchao</td><td class=3D"dsb-score-td" id=3D"=
+sbScore_6">100</td></tr><tr class=3D"dsb-scoreboard-row-odd" id=3D"sbRow_7"=
+ style=3D"display: block;"><td class=3D"dsb-name-td" id=3D"sbName_7">jpravi=
+shAA</td><td class=3D"dsb-score-td" id=3D"sbScore_7">100</td></tr><tr class=
+=3D"dsb-scoreboard-row-even" id=3D"sbRow_8" style=3D"display: block;"><td c=
+lass=3D"dsb-name-td" id=3D"sbName_8">vaibhav227</td><td class=3D"dsb-score-=
+td" id=3D"sbScore_8">100</td></tr><tr class=3D"dsb-scoreboard-row-odd" id=
+=3D"sbRow_9" style=3D"display: block;"><td class=3D"dsb-name-td" id=3D"sbNa=
+me_9">wrong</td><td class=3D"dsb-score-td" id=3D"sbScore_9">100</td></tr></=
+tbody></table></div>
+      <div id=3D"dsb-scoreboard-tab-pre-contest" class=3D"dsb-pre-contest-t=
+ext before-start-only" style=3D"display: none;">
+        The scores of the top 10 contestants will appear here, with a link =
+to
+        the contest's scoreboard.
+       =20
+      </div>
+      <div class=3D"dsb-mini-tab-link">
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id=3D"right-panel">
+  <div id=3D"dsb-status-msg-wrapper" class=3D"dsb-status-msg-wrapper" role=
+=3D"alert" style=3D"visibility: hidden;">
+    <div id=3D"dsb-status-msg" class=3D"dsb-status-msg">
+      <span id=3D"dsb-status-msg-text">Loading problem information...</span=
+>
+      <span id=3D"dsb-view-sub-link" style=3D"display: none;">View submissi=
+ons.</span>
+    </div>
+  </div>
+
+  <div id=3D"dsb-contest-title-bar">
+    <div id=3D"dsb-rank-etc">
+      <span id=3D"dsb-time-remaining">Practice Mode</span>
+      <span class=3D"after-start-only-inline" style=3D"display: inline;">
+        <span id=3D"dsb-current-rank-div">
+          Rank: <span id=3D"dsb-current-rank-span">151</span>
+        </span>
+        <span id=3D"dsb-current-score-div">
+          Score: <span id=3D"dsb-current-score-span">38</span>
+        </span>
+      </span>
+    </div>
+    <div id=3D"dsb-title-links"><b>prakhar42</b> | <a target=3D"new" href=
+=3D"https://code.google.com/codejam/contest/5254486/scoreboard?c=3D5254486"=
+>Contest scoreboard</a> | <a href=3D"https://code.google.com/_ah/logout?con=
+tinue=3Dhttps://www.google.com/accounts/Logout%3Fcontinue%3Dhttps://appengi=
+ne.google.com/_ah/logout%253Fcontinue%253Dhttps://code.google.com/codejam/c=
+ontest%26service%3Dah">Sign out</a></div>
+  </div>
+  <!-- Problem Statement -->
+  <div id=3D"main-panel-border" class=3D"dsb-blue-border">
+  <div id=3D"dsb-border-inner">
+   <!-- Problem Title -->
+    <h3 id=3D"dsb-problem-title-area">
+      <span id=3D"dsb-problem-title-div-pre-contest" class=3D"problem-title=
+ before-start-only" style=3D"display: none;">
+        <span style=3D"color:#666">Problem.</span>
+        The problem's name goes here.
+      </span>
+      <span id=3D"dsb-problem-title-div" class=3D"problem-title after-start=
+-only" style=3D"display: block;"><span style=3D"color:#666">Problem C.</spa=
+n> Not So Random</span>
+    </h3>
+
+    <div class=3D"dsb-content-pages before-start-only" style=3D"display: no=
+ne;">
+      We're now waiting for the contest to start.  Once the contest starts,
+      the problems will automatically load, and Problem A will display here=
+.
+      You don't have to solve that problem first; you will be able to selec=
+t
+      another problem from the list to the left.  Once you've solved one
+      problem, don't forget to work on the others!
+     =20
+    </div>
+
+    <div id=3D"dsb-problem-pages"><div id=3D"dsb-problem-page0" class=3D"ds=
+b-content-pages" style=3D"display: none;"><!-- Problem Input File Selection=
+ --><div class=3D"dsb-input-panel-text" id=3D"dsb-input-panel-text0"><span =
+style=3D"color: #666666;">This contest is open for practice.  You can try e=
+very problem as many times as you like, though we won't keep track of which=
+ problems you solve.  Read the <a href=3D"https://code.google.com/codejam/a=
+pactest/quickstart.html" target=3D"_blank">Quick-Start Guide</a> to get sta=
+rted.</span></div><table><tbody id=3D"dsb-input-form-table0"><tr><td class=
+=3D"dsb-input-table-description">Small input<br>5 points</td><td class=3D"d=
+sb-input-table-linktd"><div id=3D"dsb-action-box-wrap0-0" class=3D""><div i=
+d=3D"dsb-input-wrapper0-0" class=3D"dsb-input-wrapper" style=3D"display: in=
+line;"><button class=3D"dsb-input-start-button" id=3D"dsb-input-start-butto=
+n0-0" style=3D"display: inline;">Solve A-small</button><span class=3D"dsb-i=
+nput-link-span" id=3D"dsb-input-link-plain0-0" style=3D"display: none;"><im=
+g class=3D"dsb-input-link-img" src=3D"https://code.google.com/codejam/conte=
+st/static/file.gif"><span class=3D"dsb-input-link-text" id=3D"dsb-input-lin=
+k-plain-text0-0">Download A-small-practice.in</span></span></div><span clas=
+s=3D"dsb-input-table-caption" id=3D"dsb-input-table-caption0-0" style=3D"di=
+splay: none;"></span><span class=3D"dsb-input-table-caption" id=3D"dsb-resu=
+bmit-caption0-0" style=3D"display: none;">Your submission was received. You=
+ can still <span class=3D"dsb-input-link-text" id=3D"dsb-resubmit-link0-0">=
+resubmit</span> for <span id=3D"dsb-resubmit-timer0-0"></span>.<br>Only you=
+r last submission counts. <span class=3D"dsb-input-link-text" id=3D"dsb-res=
+ubmit-view-sub-link0-0">View your last submission</span>.</span><div><div c=
+lass=3D"dsb-submit-form-div" id=3D"dsb-submit-form-div0-0" style=3D"display=
+: none;"><div style=3D"display:none"><b>Time Remaining:</b> <span id=3D"io_=
+timer_0"></span>&nbsp;&nbsp;</div><div style=3D"display:none"><b>Input:</b>=
+ A-small-practice.in.</div><form id=3D"submit-formio_timer_0" action=3D"htt=
+ps://code.google.com/codejam/contest/5254486/dashboard/do" enctype=3D"multi=
+part/form-data" method=3D"post"><input type=3D"hidden" name=3D"csrfmiddlewa=
+retoken" value=3D"M2VmZGExZTFlNTNmODE1ZThlNWFhNmYwYzM0MzkzYzJ8MTE3OTQ1MTIzM=
+jYwOTc5MDM4OTg4fDE0NzE4NjU5NDY4ODIyNTA=3D"><div class=3D"dsb-submit-form-se=
+parator">your output file:<input id=3D"output-fileio_timer_0" type=3D"file"=
+ name=3D"answer" class=3D"submitFormFile"></div><div style=3D"display: none=
+"><table class=3D"dsb-source-code-table"><tbody><tr><td style=3D"padding:0.=
+4em 0.2em 0 0">source code:&nbsp;&nbsp;</td><td><div id=3D"source-filesio_t=
+imer_0"><div id=3D"input-file-divio_timer_0-0"><span id=3D"source-fileio_ti=
+mer_0-0"><input type=3D"file" name=3D"source-file0" class=3D"submitFormFile=
+"></span><span id=3D"remove-source-fileio_timer_0-0" class=3D"dsb-submit-fo=
+rm-links" style=3D"visibility: hidden;">remove</span></div></div><span id=
+=3D"add-source-fileio_timer_0" class=3D"dsb-submit-form-links">Add another =
+file</span></td></tr></tbody></table></div><div class=3D"dsb-submit-form-se=
+parator" style=3D"color:gray">source file(s): &nbsp;&nbsp;&nbsp;not needed =
+for the practice contest</div><div class=3D"dsb-submit-form-separator" styl=
+e=3D"text-align:center"><input id=3D"submit-buttonio_timer_0" type=3D"butto=
+n" value=3D"Submit file">&nbsp;&nbsp;<input id=3D"dsb-hide-submissionio_tim=
+er_0" type=3D"button" value=3D"Hide"></div><div id=3D"source-file-namesio_t=
+imer_0"></div><input type=3D"hidden" name=3D"cmd" value=3D"SubmitAnswer"><i=
+nput type=3D"hidden" name=3D"problem" value=3D"5760011712069632"><input typ=
+e=3D"hidden" name=3D"input_id" value=3D"0"><input type=3D"hidden" name=3D"n=
+um_source_files" id=3D"num-source-filesio_timer_0" value=3D"1"><input type=
+=3D"hidden" name=3D"agent" value=3D"website"></form></div></div></div></td>=
+</tr><tr><td class=3D"dsb-input-table-description">Large input<br>8 points<=
+/td><td class=3D"dsb-input-table-linktd"><div id=3D"dsb-action-box-wrap0-1"=
+ class=3D""><div id=3D"dsb-input-wrapper0-1" class=3D"dsb-input-wrapper" st=
+yle=3D"display: inline;"><button class=3D"dsb-input-start-button" id=3D"dsb=
+-input-start-button0-1" style=3D"display: inline;">Solve A-large</button><s=
+pan class=3D"dsb-input-link-span" id=3D"dsb-input-link-plain0-1" style=3D"d=
+isplay: none;"><img class=3D"dsb-input-link-img" src=3D"https://code.google=
+.com/codejam/contest/static/file.gif"><span class=3D"dsb-input-link-text" i=
+d=3D"dsb-input-link-plain-text0-1">Download A-large-practice.in</span></spa=
+n></div><span class=3D"dsb-input-table-caption" id=3D"dsb-input-table-capti=
+on0-1" style=3D"display: none;"></span><span class=3D"dsb-input-table-capti=
+on" id=3D"dsb-resubmit-caption0-1" style=3D"display: none;">Your submission=
+ was received. You can still <span class=3D"dsb-input-link-text" id=3D"dsb-=
+resubmit-link0-1">resubmit</span> for <span id=3D"dsb-resubmit-timer0-1"></=
+span>.<br>Only your last submission counts. <span class=3D"dsb-input-link-t=
+ext" id=3D"dsb-resubmit-view-sub-link0-1">View your last submission</span>.=
+</span><div><div class=3D"dsb-submit-form-div" id=3D"dsb-submit-form-div0-1=
+" style=3D"display: none;"><div style=3D"display:none"><b>Time Remaining:</=
+b> <span id=3D"io_timer_1"></span>&nbsp;&nbsp;</div><div style=3D"display:n=
+one">You may resubmit this multiple times within the remaining time-frame. =
+Only your last submission will count.</div><form id=3D"submit-formio_timer_=
+1" action=3D"https://code.google.com/codejam/contest/5254486/dashboard/do" =
+enctype=3D"multipart/form-data" method=3D"post"><input type=3D"hidden" name=
+=3D"csrfmiddlewaretoken" value=3D"M2VmZGExZTFlNTNmODE1ZThlNWFhNmYwYzM0MzkzY=
+zJ8MTE3OTQ1MTIzMjYwOTc5MDM4OTg4fDE0NzE4NjU5NDY4ODIyNTA=3D"><div class=3D"ds=
+b-submit-form-separator">your output file:<input id=3D"output-fileio_timer_=
+1" type=3D"file" name=3D"answer" class=3D"submitFormFile"></div><div style=
+=3D"display: none"><table class=3D"dsb-source-code-table"><tbody><tr><td st=
+yle=3D"padding:0.4em 0.2em 0 0">source code:&nbsp;&nbsp;</td><td><div id=3D=
+"source-filesio_timer_1"><div id=3D"input-file-divio_timer_1-0"><span id=3D=
+"source-fileio_timer_1-0"><input type=3D"file" name=3D"source-file0" class=
+=3D"submitFormFile"></span><span id=3D"remove-source-fileio_timer_1-0" clas=
+s=3D"dsb-submit-form-links" style=3D"visibility: hidden;">remove</span></di=
+v></div><span id=3D"add-source-fileio_timer_1" class=3D"dsb-submit-form-lin=
+ks">Add another file</span></td></tr></tbody></table></div><div class=3D"ds=
+b-submit-form-separator" style=3D"color:gray">source file(s): &nbsp;&nbsp;&=
+nbsp;not needed for the practice contest</div><div class=3D"dsb-submit-form=
+-separator" style=3D"text-align:center"><input id=3D"submit-buttonio_timer_=
+1" type=3D"button" value=3D"Submit file">&nbsp;&nbsp;<input id=3D"dsb-hide-=
+submissionio_timer_1" type=3D"button" value=3D"Hide"></div><div id=3D"sourc=
+e-file-namesio_timer_1"></div><input type=3D"hidden" name=3D"cmd" value=3D"=
+SubmitAnswer"><input type=3D"hidden" name=3D"problem" value=3D"576001171206=
+9632"><input type=3D"hidden" name=3D"input_id" value=3D"1"><input type=3D"h=
+idden" name=3D"num_source_files" id=3D"num-source-filesio_timer_1" value=3D=
+"1"><input type=3D"hidden" name=3D"agent" value=3D"website"></form></div></=
+div></div></td></tr></tbody></table><!-- Problem Statement --><div id=3D"ds=
+b-problem-content-div0" class=3D"dsb-problem-content-div" style=3D"width: 4=
+0em;"><h3>Problem</h3>
+<p>
+In the Lazy Spelling Bee, a contestant is given a target word W to spell. T=
+he contestant's answer word A is acceptable if it is the same length as the=
+ target word, and the i-th letter of A is either the i-th, (i-1)th, or (i+1=
+)th letter of W, for all i in the range of the length of A. (The first lett=
+er of A must match either the first or second letter of W, since the 0th le=
+tter of W doesn't exist. Similarly, the last letter of A must match either =
+the last or next-to-last letter of W.) Note that the target word itself is =
+always an acceptable answer word.
+</p>
+<p>
+You are preparing a Lazy Spelling Bee, and you have been asked to determine=
+, for each target word, how many distinct acceptable answer words there are=
+. Since this number may be very large, please output it modulo 1000000007 (=
+10<sup>9</sup> + 7).
+</p>
+
+<h3>Input</h3>
+<p>
+The first line of the input gives the number of test cases, <b>T</b>. <b>T<=
+/b> test cases follow; each consists of one line with a string consisting o=
+nly of lowercase English letters (<code>a</code> through <code>z</code>).
+</p>
+
+<h3>Output</h3>
+<p>
+For each test case, output one line containing "Case #x: y", where x is the=
+ test case number (starting from 1) and y is the number of distinct accepta=
+ble answer words, modulo 10<sup>9</sup> + 7.
+</p>
+
+<h3>Limits</h3>
+<p>
+1 =E2=89=A4 <b>T</b> =E2=89=A4 100.<br>
+</p>
+
+<h4>Small dataset</h4>
+<p>
+1 =E2=89=A4 length of each string =E2=89=A4 5.<br>
+</p>
+
+<h4>Large dataset</h4>
+<p>
+1 =E2=89=A4 length of each string =E2=89=A4 1000.<br>
+</p>
+
+
+<h3>Sample</h3>
+<div class=3D"problem-io-wrapper">
+<table>
+<tbody><tr>
+<td>
+<br>
+<span class=3D"io-table-header">Input</span>
+<br>&nbsp;
+</td>
+<td>
+<br>
+<span class=3D"io-table-header">Output</span>
+<br>&nbsp;
+</td>
+</tr>
+<tr>
+<td>
+<pre class=3D"io-content">4
+ag
+aa
+abcde
+x
+
+</pre>
+</td>
+<td>
+<pre class=3D"io-content">Case #1: 4
+Case #2: 1
+Case #3: 108
+Case #4: 1
+
+</pre>
+</td></tr></tbody></table>
+</div>
+
+<p>
+In sample case #1, the acceptable answer words are <code>aa</code>, <code>a=
+g</code>, <code>ga</code>, and <code>gg</code>.
+</p>
+<p>
+In sample case #2, the only acceptable answer word is <code>aa</code>.
+</p>
+
+</div></div><div id=3D"dsb-problem-page1" class=3D"dsb-content-pages" style=
+=3D"display: none;"><!-- Problem Input File Selection --><div class=3D"dsb-=
+input-panel-text" id=3D"dsb-input-panel-text1"><span style=3D"color: #66666=
+6;">This contest is open for practice.  You can try every problem as many t=
+imes as you like, though we won't keep track of which problems you solve.  =
+Read the <a href=3D"https://code.google.com/codejam/apactest/quickstart.htm=
+l" target=3D"_blank">Quick-Start Guide</a> to get started.</span></div><tab=
+le><tbody id=3D"dsb-input-form-table1"><tr><td class=3D"dsb-input-table-des=
+cription">Small input<br>6 points</td><td class=3D"dsb-input-table-linktd">=
+<div id=3D"dsb-action-box-wrap1-0" class=3D""><div id=3D"dsb-input-wrapper1=
+-0" class=3D"dsb-input-wrapper" style=3D"display: inline;"><button class=3D=
+"dsb-input-start-button" id=3D"dsb-input-start-button1-0" style=3D"display:=
+ inline;">Solve B-small</button><span class=3D"dsb-input-link-span" id=3D"d=
+sb-input-link-plain1-0" style=3D"display: none;"><img class=3D"dsb-input-li=
+nk-img" src=3D"https://code.google.com/codejam/contest/static/file.gif"><sp=
+an class=3D"dsb-input-link-text" id=3D"dsb-input-link-plain-text1-0">Downlo=
+ad B-small-practice.in</span></span></div><span class=3D"dsb-input-table-ca=
+ption" id=3D"dsb-input-table-caption1-0" style=3D"display: none;"></span><s=
+pan class=3D"dsb-input-table-caption" id=3D"dsb-resubmit-caption1-0" style=
+=3D"display: none;">Your submission was received. You can still <span class=
+=3D"dsb-input-link-text" id=3D"dsb-resubmit-link1-0">resubmit</span> for <s=
+pan id=3D"dsb-resubmit-timer1-0"></span>.<br>Only your last submission coun=
+ts. <span class=3D"dsb-input-link-text" id=3D"dsb-resubmit-view-sub-link1-0=
+">View your last submission</span>.</span><div><div class=3D"dsb-submit-for=
+m-div" id=3D"dsb-submit-form-div1-0" style=3D"display: none;"><div style=3D=
+"display:none"><b>Time Remaining:</b> <span id=3D"io_timer_2"></span>&nbsp;=
+&nbsp;</div><div style=3D"display:none"><b>Input:</b> B-small-practice.in.<=
+/div><form id=3D"submit-formio_timer_2" action=3D"https://code.google.com/c=
+odejam/contest/5254486/dashboard/do" enctype=3D"multipart/form-data" method=
+=3D"post"><input type=3D"hidden" name=3D"csrfmiddlewaretoken" value=3D"M2Vm=
+ZGExZTFlNTNmODE1ZThlNWFhNmYwYzM0MzkzYzJ8MTE3OTQ1MTIzMjYwOTc5MDM4OTg4fDE0NzE=
+4NjU5NDY4ODIyNTA=3D"><div class=3D"dsb-submit-form-separator">your output f=
+ile:<input id=3D"output-fileio_timer_2" type=3D"file" name=3D"answer" class=
+=3D"submitFormFile"></div><div style=3D"display: none"><table class=3D"dsb-=
+source-code-table"><tbody><tr><td style=3D"padding:0.4em 0.2em 0 0">source =
+code:&nbsp;&nbsp;</td><td><div id=3D"source-filesio_timer_2"><div id=3D"inp=
+ut-file-divio_timer_2-0"><span id=3D"source-fileio_timer_2-0"><input type=
+=3D"file" name=3D"source-file0" class=3D"submitFormFile"></span><span id=3D=
+"remove-source-fileio_timer_2-0" class=3D"dsb-submit-form-links" style=3D"v=
+isibility: hidden;">remove</span></div></div><span id=3D"add-source-fileio_=
+timer_2" class=3D"dsb-submit-form-links">Add another file</span></td></tr><=
+/tbody></table></div><div class=3D"dsb-submit-form-separator" style=3D"colo=
+r:gray">source file(s): &nbsp;&nbsp;&nbsp;not needed for the practice conte=
+st</div><div class=3D"dsb-submit-form-separator" style=3D"text-align:center=
+"><input id=3D"submit-buttonio_timer_2" type=3D"button" value=3D"Submit fil=
+e">&nbsp;&nbsp;<input id=3D"dsb-hide-submissionio_timer_2" type=3D"button" =
+value=3D"Hide"></div><div id=3D"source-file-namesio_timer_2"></div><input t=
+ype=3D"hidden" name=3D"cmd" value=3D"SubmitAnswer"><input type=3D"hidden" n=
+ame=3D"problem" value=3D"5646169040486400"><input type=3D"hidden" name=3D"i=
+nput_id" value=3D"0"><input type=3D"hidden" name=3D"num_source_files" id=3D=
+"num-source-filesio_timer_2" value=3D"1"><input type=3D"hidden" name=3D"age=
+nt" value=3D"website"></form></div></div></div></td></tr><tr><td class=3D"d=
+sb-input-table-description">Large input<br>14 points</td><td class=3D"dsb-i=
+nput-table-linktd"><div id=3D"dsb-action-box-wrap1-1" class=3D""><div id=3D=
+"dsb-input-wrapper1-1" class=3D"dsb-input-wrapper" style=3D"display: inline=
+;"><button class=3D"dsb-input-start-button" id=3D"dsb-input-start-button1-1=
+" style=3D"display: inline;">Solve B-large</button><span class=3D"dsb-input=
+-link-span" id=3D"dsb-input-link-plain1-1" style=3D"display: none;"><img cl=
+ass=3D"dsb-input-link-img" src=3D"https://code.google.com/codejam/contest/s=
+tatic/file.gif"><span class=3D"dsb-input-link-text" id=3D"dsb-input-link-pl=
+ain-text1-1">Download B-large-practice.in</span></span></div><span class=3D=
+"dsb-input-table-caption" id=3D"dsb-input-table-caption1-1" style=3D"displa=
+y: none;"></span><span class=3D"dsb-input-table-caption" id=3D"dsb-resubmit=
+-caption1-1" style=3D"display: none;">Your submission was received. You can=
+ still <span class=3D"dsb-input-link-text" id=3D"dsb-resubmit-link1-1">resu=
+bmit</span> for <span id=3D"dsb-resubmit-timer1-1"></span>.<br>Only your la=
+st submission counts. <span class=3D"dsb-input-link-text" id=3D"dsb-resubmi=
+t-view-sub-link1-1">View your last submission</span>.</span><div><div class=
+=3D"dsb-submit-form-div" id=3D"dsb-submit-form-div1-1" style=3D"display: no=
+ne;"><div style=3D"display:none"><b>Time Remaining:</b> <span id=3D"io_time=
+r_3"></span>&nbsp;&nbsp;</div><div style=3D"display:none">You may resubmit =
+this multiple times within the remaining time-frame. Only your last submiss=
+ion will count.</div><form id=3D"submit-formio_timer_3" action=3D"https://c=
+ode.google.com/codejam/contest/5254486/dashboard/do" enctype=3D"multipart/f=
+orm-data" method=3D"post"><input type=3D"hidden" name=3D"csrfmiddlewaretoke=
+n" value=3D"M2VmZGExZTFlNTNmODE1ZThlNWFhNmYwYzM0MzkzYzJ8MTE3OTQ1MTIzMjYwOTc=
+5MDM4OTg4fDE0NzE4NjU5NDY4ODIyNTA=3D"><div class=3D"dsb-submit-form-separato=
+r">your output file:<input id=3D"output-fileio_timer_3" type=3D"file" name=
+=3D"answer" class=3D"submitFormFile"></div><div style=3D"display: none"><ta=
+ble class=3D"dsb-source-code-table"><tbody><tr><td style=3D"padding:0.4em 0=
+.2em 0 0">source code:&nbsp;&nbsp;</td><td><div id=3D"source-filesio_timer_=
+3"><div id=3D"input-file-divio_timer_3-0"><span id=3D"source-fileio_timer_3=
+-0"><input type=3D"file" name=3D"source-file0" class=3D"submitFormFile"></s=
+pan><span id=3D"remove-source-fileio_timer_3-0" class=3D"dsb-submit-form-li=
+nks" style=3D"visibility: hidden;">remove</span></div></div><span id=3D"add=
+-source-fileio_timer_3" class=3D"dsb-submit-form-links">Add another file</s=
+pan></td></tr></tbody></table></div><div class=3D"dsb-submit-form-separator=
+" style=3D"color:gray">source file(s): &nbsp;&nbsp;&nbsp;not needed for the=
+ practice contest</div><div class=3D"dsb-submit-form-separator" style=3D"te=
+xt-align:center"><input id=3D"submit-buttonio_timer_3" type=3D"button" valu=
+e=3D"Submit file">&nbsp;&nbsp;<input id=3D"dsb-hide-submissionio_timer_3" t=
+ype=3D"button" value=3D"Hide"></div><div id=3D"source-file-namesio_timer_3"=
+></div><input type=3D"hidden" name=3D"cmd" value=3D"SubmitAnswer"><input ty=
+pe=3D"hidden" name=3D"problem" value=3D"5646169040486400"><input type=3D"hi=
+dden" name=3D"input_id" value=3D"1"><input type=3D"hidden" name=3D"num_sour=
+ce_files" id=3D"num-source-filesio_timer_3" value=3D"1"><input type=3D"hidd=
+en" name=3D"agent" value=3D"website"></form></div></div></div></td></tr></t=
+body></table><!-- Problem Statement --><div id=3D"dsb-problem-content-div1"=
+ class=3D"dsb-problem-content-div" style=3D"width: 40em;"><h3>Problem</h3>
+
+<p>
+You're the manager of Xorbitant, the world's first robot rock band. There w=
+ill be four positions in the band, and there are <b>N</b> robots auditionin=
+g for each position. (No robot is auditioning for more than one position.) =
+Every robot has a number, and multiple robots might have the same number, j=
+ust as two people can have the same name.
+</p>
+<p>
+You know from market research that your robot audiences won't care how well=
+ the robot band members make music, how handsome they are, or what scandalo=
+us things the tabloids say about them. Instead, the audience will be checki=
+ng to see whether the four members' numbers, when bitwise XORed together, e=
+qual a certain trendy number <b>K</b>.
+</p>
+<p>
+How many different sets of four robots (one for each position) is it possib=
+le to choose so that the band will have this property? More specifically, g=
+iven four lists A, B, C, D containing <b>N</b> numbers each, how many ways =
+are there to choose one number <i>a</i> from list A, one number <i>b</i> fr=
+om list B, and so on, such that <i>a</i>^<i>b</i>^<i>c</i>^<i>d</i> =3D <b>=
+K</b>? (Here ^ represents the bitwise XOR operation.)
+</p>
+
+<h3>Input</h3>
+<p>
+The first line of the input gives the number of test cases, <b>T</b>. <b>T<=
+/b> test cases follow. Each case begins with one line with two space-separa=
+ted integers, <b>N</b> and <b>K</b>, as described above. Then, four more li=
+nes follow. Each has <b>N</b> space-separated integers and represents the I=
+D numbers of the robots auditioning for a certain position in the band.
+</p>
+
+<h3>Output</h3>
+<p>
+For each test case, output one line containing "Case #x: y", where x is the=
+ test case number (starting from 1) and y is the number of different bands =
+that meet the conditions.
+</p>
+
+<h3>Limits</h3>
+<p>
+1 =E2=89=A4 <b>T</b> =E2=89=A4 10.<br>
+0 =E2=89=A4 <b>K</b> =E2=89=A4 10<sup>9</sup>.<br>
+0 =E2=89=A4 all robot numbers =E2=89=A4 10<sup>9</sup>.<br>
+</p>
+
+<h4>Small dataset</h4>
+<p>
+1 =E2=89=A4 <b>N</b> =E2=89=A4 50.<br>
+</p>
+
+<h4>Large dataset</h4>
+<p>
+1 =E2=89=A4 <b>N</b> =E2=89=A4 1000.<br>
+</p>
+
+
+<h3>Sample</h3>
+<div class=3D"problem-io-wrapper">
+<table>
+<tbody><tr>
+<td>
+<br>
+<span class=3D"io-table-header">Input</span>
+<br>&nbsp;
+</td>
+<td>
+<br>
+<span class=3D"io-table-header">Output</span>
+<br>&nbsp;
+</td>
+</tr>
+<tr>
+<td>
+<pre class=3D"io-content">2
+2 3=20
+0 0
+2 0
+0 0
+0 1
+2 0
+1 10
+1 10
+1 10
+1 10
+
+</pre>
+</td>
+<td>
+<pre class=3D"io-content">Case #1: 4
+Case #2: 8
+</pre>
+</td></tr></tbody></table>
+</div>
+
+
+<p>
+In sample case #1, in order to get a combined bitwise XOR of 3, the robot c=
+hosen from the second list must be 2, and the robot chosen from the fourth =
+list must be 1. For the first and third lists, either of the two 0 robots c=
+an be chosen, so there are 2 * 2 =3D 4 possible bands that meet the criteri=
+a. Note that even though all of these bands are of the form (0, 2, 0, 1), t=
+hey are considered different because the selections from the lists were dif=
+ferent.
+</p></div></div><div id=3D"dsb-problem-page2" class=3D"dsb-content-pages" s=
+tyle=3D"display: block;"><!-- Problem Input File Selection --><div class=3D=
+"dsb-input-panel-text" id=3D"dsb-input-panel-text2"><span style=3D"color: #=
+666666;">This contest is open for practice.  You can try every problem as m=
+any times as you like, though we won't keep track of which problems you sol=
+ve.  Read the <a href=3D"https://code.google.com/codejam/apactest/quickstar=
+t.html" target=3D"_blank">Quick-Start Guide</a> to get started.</span></div=
+><table><tbody id=3D"dsb-input-form-table2"><tr><td class=3D"dsb-input-tabl=
+e-description">Small input<br>11 points</td><td class=3D"dsb-input-table-li=
+nktd"><div id=3D"dsb-action-box-wrap2-0" class=3D""><div id=3D"dsb-input-wr=
+apper2-0" class=3D"dsb-input-wrapper" style=3D"display: inline;"><button cl=
+ass=3D"dsb-input-start-button" id=3D"dsb-input-start-button2-0" style=3D"di=
+splay: inline;">Solve C-small</button><span class=3D"dsb-input-link-span" i=
+d=3D"dsb-input-link-plain2-0" style=3D"display: none;"><img class=3D"dsb-in=
+put-link-img" src=3D"https://code.google.com/codejam/contest/static/file.gi=
+f"><span class=3D"dsb-input-link-text" id=3D"dsb-input-link-plain-text2-0">=
+Download C-small-practice.in</span></span></div><span class=3D"dsb-input-ta=
+ble-caption" id=3D"dsb-input-table-caption2-0" style=3D"display: none;"></s=
+pan><span class=3D"dsb-input-table-caption" id=3D"dsb-resubmit-caption2-0" =
+style=3D"display: none;">Your submission was received. You can still <span =
+class=3D"dsb-input-link-text" id=3D"dsb-resubmit-link2-0">resubmit</span> f=
+or <span id=3D"dsb-resubmit-timer2-0"></span>.<br>Only your last submission=
+ counts. <span class=3D"dsb-input-link-text" id=3D"dsb-resubmit-view-sub-li=
+nk2-0">View your last submission</span>.</span><div><div class=3D"dsb-submi=
+t-form-div" id=3D"dsb-submit-form-div2-0" style=3D"display: none;"><div sty=
+le=3D"display:none"><b>Time Remaining:</b> <span id=3D"io_timer_4"></span>&=
+nbsp;&nbsp;</div><div style=3D"display:none"><b>Input:</b> C-small-practice=
+.in.</div><form id=3D"submit-formio_timer_4" action=3D"https://code.google.=
+com/codejam/contest/5254486/dashboard/do" enctype=3D"multipart/form-data" m=
+ethod=3D"post"><input type=3D"hidden" name=3D"csrfmiddlewaretoken" value=3D=
+"M2VmZGExZTFlNTNmODE1ZThlNWFhNmYwYzM0MzkzYzJ8MTE3OTQ1MTIzMjYwOTc5MDM4OTg4fD=
+E0NzE4NjU5NDY4ODIyNTA=3D"><div class=3D"dsb-submit-form-separator">your out=
+put file:<input id=3D"output-fileio_timer_4" type=3D"file" name=3D"answer" =
+class=3D"submitFormFile"></div><div style=3D"display: none"><table class=3D=
+"dsb-source-code-table"><tbody><tr><td style=3D"padding:0.4em 0.2em 0 0">so=
+urce code:&nbsp;&nbsp;</td><td><div id=3D"source-filesio_timer_4"><div id=
+=3D"input-file-divio_timer_4-0"><span id=3D"source-fileio_timer_4-0"><input=
+ type=3D"file" name=3D"source-file0" class=3D"submitFormFile"></span><span =
+id=3D"remove-source-fileio_timer_4-0" class=3D"dsb-submit-form-links" style=
+=3D"visibility: hidden;">remove</span></div></div><span id=3D"add-source-fi=
+leio_timer_4" class=3D"dsb-submit-form-links">Add another file</span></td><=
+/tr></tbody></table></div><div class=3D"dsb-submit-form-separator" style=3D=
+"color:gray">source file(s): &nbsp;&nbsp;&nbsp;not needed for the practice =
+contest</div><div class=3D"dsb-submit-form-separator" style=3D"text-align:c=
+enter"><input id=3D"submit-buttonio_timer_4" type=3D"button" value=3D"Submi=
+t file">&nbsp;&nbsp;<input id=3D"dsb-hide-submissionio_timer_4" type=3D"but=
+ton" value=3D"Hide"></div><div id=3D"source-file-namesio_timer_4"></div><in=
+put type=3D"hidden" name=3D"cmd" value=3D"SubmitAnswer"><input type=3D"hidd=
+en" name=3D"problem" value=3D"5750793739173888"><input type=3D"hidden" name=
+=3D"input_id" value=3D"0"><input type=3D"hidden" name=3D"num_source_files" =
+id=3D"num-source-filesio_timer_4" value=3D"1"><input type=3D"hidden" name=
+=3D"agent" value=3D"website"></form></div></div></div></td></tr><tr><td cla=
+ss=3D"dsb-input-table-description">Large input<br>20 points</td><td class=
+=3D"dsb-input-table-linktd"><div id=3D"dsb-action-box-wrap2-1" class=3D""><=
+div id=3D"dsb-input-wrapper2-1" class=3D"dsb-input-wrapper" style=3D"displa=
+y: inline;"><button class=3D"dsb-input-start-button" id=3D"dsb-input-start-=
+button2-1" style=3D"display: inline;">Solve C-large</button><span class=3D"=
+dsb-input-link-span" id=3D"dsb-input-link-plain2-1" style=3D"display: none;=
+"><img class=3D"dsb-input-link-img" src=3D"https://code.google.com/codejam/=
+contest/static/file.gif"><span class=3D"dsb-input-link-text" id=3D"dsb-inpu=
+t-link-plain-text2-1">Download C-large-practice.in</span></span></div><span=
+ class=3D"dsb-input-table-caption" id=3D"dsb-input-table-caption2-1" style=
+=3D"display: none;"></span><span class=3D"dsb-input-table-caption" id=3D"ds=
+b-resubmit-caption2-1" style=3D"display: none;">Your submission was receive=
+d. You can still <span class=3D"dsb-input-link-text" id=3D"dsb-resubmit-lin=
+k2-1">resubmit</span> for <span id=3D"dsb-resubmit-timer2-1"></span>.<br>On=
+ly your last submission counts. <span class=3D"dsb-input-link-text" id=3D"d=
+sb-resubmit-view-sub-link2-1">View your last submission</span>.</span><div>=
+<div class=3D"dsb-submit-form-div" id=3D"dsb-submit-form-div2-1" style=3D"d=
+isplay: none;"><div style=3D"display:none"><b>Time Remaining:</b> <span id=
+=3D"io_timer_5"></span>&nbsp;&nbsp;</div><div style=3D"display:none">You ma=
+y resubmit this multiple times within the remaining time-frame. Only your l=
+ast submission will count.</div><form id=3D"submit-formio_timer_5" action=
+=3D"https://code.google.com/codejam/contest/5254486/dashboard/do" enctype=
+=3D"multipart/form-data" method=3D"post"><input type=3D"hidden" name=3D"csr=
+fmiddlewaretoken" value=3D"M2VmZGExZTFlNTNmODE1ZThlNWFhNmYwYzM0MzkzYzJ8MTE3=
+OTQ1MTIzMjYwOTc5MDM4OTg4fDE0NzE4NjU5NDY4ODIyNTA=3D"><div class=3D"dsb-submi=
+t-form-separator">your output file:<input id=3D"output-fileio_timer_5" type=
+=3D"file" name=3D"answer" class=3D"submitFormFile"></div><div style=3D"disp=
+lay: none"><table class=3D"dsb-source-code-table"><tbody><tr><td style=3D"p=
+adding:0.4em 0.2em 0 0">source code:&nbsp;&nbsp;</td><td><div id=3D"source-=
+filesio_timer_5"><div id=3D"input-file-divio_timer_5-0"><span id=3D"source-=
+fileio_timer_5-0"><input type=3D"file" name=3D"source-file0" class=3D"submi=
+tFormFile"></span><span id=3D"remove-source-fileio_timer_5-0" class=3D"dsb-=
+submit-form-links" style=3D"visibility: hidden;">remove</span></div></div><=
+span id=3D"add-source-fileio_timer_5" class=3D"dsb-submit-form-links">Add a=
+nother file</span></td></tr></tbody></table></div><div class=3D"dsb-submit-=
+form-separator" style=3D"color:gray">source file(s): &nbsp;&nbsp;&nbsp;not =
+needed for the practice contest</div><div class=3D"dsb-submit-form-separato=
+r" style=3D"text-align:center"><input id=3D"submit-buttonio_timer_5" type=
+=3D"button" value=3D"Submit file">&nbsp;&nbsp;<input id=3D"dsb-hide-submiss=
+ionio_timer_5" type=3D"button" value=3D"Hide"></div><div id=3D"source-file-=
+namesio_timer_5"></div><input type=3D"hidden" name=3D"cmd" value=3D"SubmitA=
+nswer"><input type=3D"hidden" name=3D"problem" value=3D"5750793739173888"><=
+input type=3D"hidden" name=3D"input_id" value=3D"1"><input type=3D"hidden" =
+name=3D"num_source_files" id=3D"num-source-filesio_timer_5" value=3D"1"><in=
+put type=3D"hidden" name=3D"agent" value=3D"website"></form></div></div></d=
+iv></td></tr></tbody></table><!-- Problem Statement --><div id=3D"dsb-probl=
+em-content-div2" class=3D"dsb-problem-content-div" style=3D"width: 40em;"><=
+h3>Problem</h3>
+<p>
+There is a certain "random number generator" (RNG) which takes one nonnegat=
+ive integer as input and generates another nonnegative integer as output. B=
+ut you know that the RNG is really not very random at all! It uses a fixed =
+number <b>K</b>, and always performs one of the following three operations:
+</p>
+<ul>
+ <li>with probability <b>A</b>/100: return the bitwise AND of the input and=
+ <b>K</b></li>
+ <li>with probability <b>B</b>/100: return the bitwise OR of the input and =
+<b>K</b></li>
+ <li>with probability <b>C</b>/100: return the bitwise XOR of the input and=
+ <b>K</b></li>
+</ul>
+<p>
+(You may assume that the RNG <i>is</i> truly random in the way that it choo=
+ses the operation each time, based on the values of <b>A</b>, <b>B</b>, and=
+ <b>C</b>.)
+</p>
+<p>
+You have <b>N</b> copies of this RNG, and you have arranged them in series =
+such that output from one machine will be the input for the next machine in=
+ the series. If you provide <b>X</b> as an input to the first machine, what=
+ will be the expected value of the output of the final machine in the serie=
+s?
+</p>
+
+<h3>Input</h3>
+<p>
+The first line of the input gives the number of test cases, <b>T</b>. <b>T<=
+/b> test cases follow; each consists of one line with six integers <b>N</b>=
+, <b>X</b>, <b>K</b>, <b>A</b>, <b>B</b>, and <b>C</b>. Respectively, these=
+ denote the number of machines, the initial input, the fixed number with wh=
+ich all the bitwise operations will be performed (on every machine), and 10=
+0 times the probabilities of the bitwise AND, OR, and XOR operations.
+</p>
+
+<h3>Output</h3>
+<p>
+For each test case, output one line containing "Case #x: y", where x is the=
+ test case number (starting from 1) and y is the expected value of the fina=
+l output. y will be considered correct if it is within an absolute or relat=
+ive error of 10<sup>-9</sup> of the correct answer.  See the <a href=3D"htt=
+ps://code.google.com/codejam/faq.html#floating_point" target=3D"_blank">FAQ=
+</a> for an explanation of what that means, and what formats of real number=
+s we accept.
+</p>
+
+<h3>Limits</h3>
+<p>
+1 =E2=89=A4 <b>T</b> =E2=89=A4 50.<br>
+0 =E2=89=A4 <b>A</b> =E2=89=A4 100.<br>
+0 =E2=89=A4 <b>B</b> =E2=89=A4 100.<br>
+0 =E2=89=A4 <b>C</b> =E2=89=A4 100.<br>
+<b>A+B+C</b> =3D 100.
+</p>
+
+<h4>Small dataset</h4>
+<p>
+1 =E2=89=A4 <b>N</b> =E2=89=A4 10.<br>
+0 =E2=89=A4 <b>X</b> =E2=89=A4 10<sup>4</sup>.<br>
+0 =E2=89=A4 <b>K</b> =E2=89=A4 10<sup>4</sup>.<br>
+</p>
+
+<h4>Large dataset</h4>
+<p>
+1 =E2=89=A4 <b>N</b> =E2=89=A4 10<sup>5</sup>.<br>
+0 =E2=89=A4 <b>X</b> =E2=89=A4 10<sup>9</sup>.<br>
+0 =E2=89=A4 <b>K</b> =E2=89=A4 10<sup>9</sup>.<br>
+</p>
+
+
+<h3>Sample</h3>
+<div class=3D"problem-io-wrapper">
+<table>
+<tbody><tr>
+<td>
+<br>
+<span class=3D"io-table-header">Input</span>
+<br>&nbsp;
+</td>
+<td>
+<br>
+<span class=3D"io-table-header">Output</span>
+<br>&nbsp;
+</td>
+</tr>
+<tr>
+<td>
+<pre class=3D"io-content">3
+1 5 5 10 50 40
+2 5 5 10 50 40
+10 15 21 70 20 10
+
+</pre>
+</td>
+<td>
+<pre class=3D"io-content">Case #1: 3.0000000000
+Case #2: 3.6000000000
+Case #3: 15.6850579098
+</pre>
+</td></tr></tbody></table>
+</div>
+
+
+<p>
+In sample test case #1, the final output will be 5 if AND or OR happens and=
+ 0 if XOR happens. So the probability of getting 5 is (0.1 + 0.5) and the p=
+robability of getting 0 is 0.4. So the expected final output is 5 * 0.6 + 0=
+ * 0.4 =3D 3.
+</p>
+<p>
+In sample test case #2, the final output will be 5 with probability 0.72, a=
+nd 0 otherwise.
+</p>
+<p></p></div></div><div id=3D"dsb-problem-page3" class=3D"dsb-content-pages=
+"><!-- Problem Input File Selection --><div class=3D"dsb-input-panel-text" =
+id=3D"dsb-input-panel-text3"><span style=3D"color: #666666;">This contest i=
+s open for practice.  You can try every problem as many times as you like, =
+though we won't keep track of which problems you solve.  Read the <a href=
+=3D"https://code.google.com/codejam/apactest/quickstart.html" target=3D"_bl=
+ank">Quick-Start Guide</a> to get started.</span></div><table><tbody id=3D"=
+dsb-input-form-table3"><tr><td class=3D"dsb-input-table-description">Small =
+input<br>8 points</td><td class=3D"dsb-input-table-linktd"><div id=3D"dsb-a=
+ction-box-wrap3-0" class=3D""><div id=3D"dsb-input-wrapper3-0" class=3D"dsb=
+-input-wrapper" style=3D"display: inline;"><button class=3D"dsb-input-start=
+-button" id=3D"dsb-input-start-button3-0" style=3D"display: inline;">Solve =
+D-small</button><span class=3D"dsb-input-link-span" id=3D"dsb-input-link-pl=
+ain3-0" style=3D"display: none;"><img class=3D"dsb-input-link-img" src=3D"h=
+ttps://code.google.com/codejam/contest/static/file.gif"><span class=3D"dsb-=
+input-link-text" id=3D"dsb-input-link-plain-text3-0">Download D-small-pract=
+ice.in</span></span></div><span class=3D"dsb-input-table-caption" id=3D"dsb=
+-input-table-caption3-0" style=3D"display: none;"></span><span class=3D"dsb=
+-input-table-caption" id=3D"dsb-resubmit-caption3-0" style=3D"display: none=
+;">Your submission was received. You can still <span class=3D"dsb-input-lin=
+k-text" id=3D"dsb-resubmit-link3-0">resubmit</span> for <span id=3D"dsb-res=
+ubmit-timer3-0"></span>.<br>Only your last submission counts. <span class=
+=3D"dsb-input-link-text" id=3D"dsb-resubmit-view-sub-link3-0">View your las=
+t submission</span>.</span><div><div class=3D"dsb-submit-form-div" id=3D"ds=
+b-submit-form-div3-0" style=3D"display: none;"><div style=3D"display:none">=
+<b>Time Remaining:</b> <span id=3D"io_timer_6"></span>&nbsp;&nbsp;</div><di=
+v style=3D"display:none"><b>Input:</b> D-small-practice.in.</div><form id=
+=3D"submit-formio_timer_6" action=3D"https://code.google.com/codejam/contes=
+t/5254486/dashboard/do" enctype=3D"multipart/form-data" method=3D"post"><in=
+put type=3D"hidden" name=3D"csrfmiddlewaretoken" value=3D"M2VmZGExZTFlNTNmO=
+DE1ZThlNWFhNmYwYzM0MzkzYzJ8MTE3OTQ1MTIzMjYwOTc5MDM4OTg4fDE0NzE4NjU5NDY4ODIy=
+NTA=3D"><div class=3D"dsb-submit-form-separator">your output file:<input id=
+=3D"output-fileio_timer_6" type=3D"file" name=3D"answer" class=3D"submitFor=
+mFile"></div><div style=3D"display: none"><table class=3D"dsb-source-code-t=
+able"><tbody><tr><td style=3D"padding:0.4em 0.2em 0 0">source code:&nbsp;&n=
+bsp;</td><td><div id=3D"source-filesio_timer_6"><div id=3D"input-file-divio=
+_timer_6-0"><span id=3D"source-fileio_timer_6-0"><input type=3D"file" name=
+=3D"source-file0" class=3D"submitFormFile"></span><span id=3D"remove-source=
+-fileio_timer_6-0" class=3D"dsb-submit-form-links" style=3D"visibility: hid=
+den;">remove</span></div></div><span id=3D"add-source-fileio_timer_6" class=
+=3D"dsb-submit-form-links">Add another file</span></td></tr></tbody></table=
+></div><div class=3D"dsb-submit-form-separator" style=3D"color:gray">source=
+ file(s): &nbsp;&nbsp;&nbsp;not needed for the practice contest</div><div c=
+lass=3D"dsb-submit-form-separator" style=3D"text-align:center"><input id=3D=
+"submit-buttonio_timer_6" type=3D"button" value=3D"Submit file">&nbsp;&nbsp=
+;<input id=3D"dsb-hide-submissionio_timer_6" type=3D"button" value=3D"Hide"=
+></div><div id=3D"source-file-namesio_timer_6"></div><input type=3D"hidden"=
+ name=3D"cmd" value=3D"SubmitAnswer"><input type=3D"hidden" name=3D"problem=
+" value=3D"5659121957208064"><input type=3D"hidden" name=3D"input_id" value=
+=3D"0"><input type=3D"hidden" name=3D"num_source_files" id=3D"num-source-fi=
+lesio_timer_6" value=3D"1"><input type=3D"hidden" name=3D"agent" value=3D"w=
+ebsite"></form></div></div></div></td></tr><tr><td class=3D"dsb-input-table=
+-description">Large input<br>28 points</td><td class=3D"dsb-input-table-lin=
+ktd"><div id=3D"dsb-action-box-wrap3-1" class=3D""><div id=3D"dsb-input-wra=
+pper3-1" class=3D"dsb-input-wrapper" style=3D"display: inline;"><button cla=
+ss=3D"dsb-input-start-button" id=3D"dsb-input-start-button3-1" style=3D"dis=
+play: inline;">Solve D-large</button><span class=3D"dsb-input-link-span" id=
+=3D"dsb-input-link-plain3-1" style=3D"display: none;"><img class=3D"dsb-inp=
+ut-link-img" src=3D"https://code.google.com/codejam/contest/static/file.gif=
+"><span class=3D"dsb-input-link-text" id=3D"dsb-input-link-plain-text3-1">D=
+ownload D-large-practice.in</span></span></div><span class=3D"dsb-input-tab=
+le-caption" id=3D"dsb-input-table-caption3-1" style=3D"display: none;"></sp=
+an><span class=3D"dsb-input-table-caption" id=3D"dsb-resubmit-caption3-1" s=
+tyle=3D"display: none;">Your submission was received. You can still <span c=
+lass=3D"dsb-input-link-text" id=3D"dsb-resubmit-link3-1">resubmit</span> fo=
+r <span id=3D"dsb-resubmit-timer3-1"></span>.<br>Only your last submission =
+counts. <span class=3D"dsb-input-link-text" id=3D"dsb-resubmit-view-sub-lin=
+k3-1">View your last submission</span>.</span><div><div class=3D"dsb-submit=
+-form-div" id=3D"dsb-submit-form-div3-1" style=3D"display: none;"><div styl=
+e=3D"display:none"><b>Time Remaining:</b> <span id=3D"io_timer_7"></span>&n=
+bsp;&nbsp;</div><div style=3D"display:none">You may resubmit this multiple =
+times within the remaining time-frame. Only your last submission will count=
+.</div><form id=3D"submit-formio_timer_7" action=3D"https://code.google.com=
+/codejam/contest/5254486/dashboard/do" enctype=3D"multipart/form-data" meth=
+od=3D"post"><input type=3D"hidden" name=3D"csrfmiddlewaretoken" value=3D"M2=
+VmZGExZTFlNTNmODE1ZThlNWFhNmYwYzM0MzkzYzJ8MTE3OTQ1MTIzMjYwOTc5MDM4OTg4fDE0N=
+zE4NjU5NDY4ODIyNTA=3D"><div class=3D"dsb-submit-form-separator">your output=
+ file:<input id=3D"output-fileio_timer_7" type=3D"file" name=3D"answer" cla=
+ss=3D"submitFormFile"></div><div style=3D"display: none"><table class=3D"ds=
+b-source-code-table"><tbody><tr><td style=3D"padding:0.4em 0.2em 0 0">sourc=
+e code:&nbsp;&nbsp;</td><td><div id=3D"source-filesio_timer_7"><div id=3D"i=
+nput-file-divio_timer_7-0"><span id=3D"source-fileio_timer_7-0"><input type=
+=3D"file" name=3D"source-file0" class=3D"submitFormFile"></span><span id=3D=
+"remove-source-fileio_timer_7-0" class=3D"dsb-submit-form-links" style=3D"v=
+isibility: hidden;">remove</span></div></div><span id=3D"add-source-fileio_=
+timer_7" class=3D"dsb-submit-form-links">Add another file</span></td></tr><=
+/tbody></table></div><div class=3D"dsb-submit-form-separator" style=3D"colo=
+r:gray">source file(s): &nbsp;&nbsp;&nbsp;not needed for the practice conte=
+st</div><div class=3D"dsb-submit-form-separator" style=3D"text-align:center=
+"><input id=3D"submit-buttonio_timer_7" type=3D"button" value=3D"Submit fil=
+e">&nbsp;&nbsp;<input id=3D"dsb-hide-submissionio_timer_7" type=3D"button" =
+value=3D"Hide"></div><div id=3D"source-file-namesio_timer_7"></div><input t=
+ype=3D"hidden" name=3D"cmd" value=3D"SubmitAnswer"><input type=3D"hidden" n=
+ame=3D"problem" value=3D"5659121957208064"><input type=3D"hidden" name=3D"i=
+nput_id" value=3D"1"><input type=3D"hidden" name=3D"num_source_files" id=3D=
+"num-source-filesio_timer_7" value=3D"1"><input type=3D"hidden" name=3D"age=
+nt" value=3D"website"></form></div></div></div></td></tr></tbody></table><!=
+-- Problem Statement --><div id=3D"dsb-problem-content-div3" class=3D"dsb-p=
+roblem-content-div" style=3D"width: 40em;"><h3>Problem</h3>
+<p>
+Alice presented her friend Bob with an array of <b>N</b> positive integers,=
+ indexed from 1 to <b>N</b>. She challenged Bob with many queries of the fo=
+rm "what is the sum of the numbers between these two indexes?" But Bob was =
+able to solve the problem too easily.
+</p>
+<p>
+Alice took her array and found all <b>N</b>*(<b>N</b>+1)/2 non-empty subarr=
+ays of it. She found the sum of each subarray, and then sorted those values=
+ (in nondecreasing order) to create a new array, indexed from 1 to <b>N</b>=
+*(<b>N</b>+1)/2. For example, for an initial array [2, 3, 2], Alice would g=
+enerate the subarrays [2], [3], [2], [2, 3], [3, 2], and [2, 3, 2] (note th=
+at [2, 2], for example, is <b>NOT</b> a subarray). Then she'd take the sums=
+ -- 2, 3, 2, 5, 5, 7 -- and sort them to get a new array of [2, 2, 3, 5, 5,=
+ 7].
+</p>
+<p>
+Alice has given the initial array to Bob, along with <b>Q</b> queries of th=
+e form "what is the sum of the numbers from index <b>L<sub>i</sub></b> to <=
+b>R<sub>i</sub></b>, inclusive, in the new array?" Now Bob's in trouble! Ca=
+n you help him out?
+</p>
+
+<h3>Input</h3>
+<p>
+
+The first line of the input gives the number of test cases, <b>T</b>. <b>T<=
+/b> test cases follow. Each test case begins with one line with two space-s=
+eparated integers <b>N</b> and <b>Q</b>, denoting the number of elements in=
+ the initial array and the number of Alice's queries. Then, there is one li=
+ne with <b>N</b> space-separated integers, denoting the elements of Alice's=
+ initial array. Finally, there are <b>Q</b> more lines with two space-separ=
+ated integers each: <b>L<sub>i</sub></b> and <b>R<sub>i</sub></b>, the incl=
+usive index bounds for the i-th query.
+</p>
+
+<h3>Output</h3>
+<p>
+For each test case, output one line with <code>Case #x:</code>, where <b>x<=
+/b> is the test case number (starting from 1). Then output <b>Q</b> more li=
+nes, each with one integer, representing the answers to the queries (in the=
+ order they were asked).
+</p>
+
+<h3>Limits</h3>
+<p>
+1 =E2=89=A4 <b>T</b> =E2=89=A4 10.<br>
+1 =E2=89=A4 <b>Q</b> =E2=89=A4 20.<br>
+1 =E2=89=A4 each element of the initial array =E2=89=A4 100.<br>
+1 =E2=89=A4 <b>L<sub>i</sub></b> =E2=89=A4 <b>R<sub>i</sub></b> =E2=89=A4 N=
+*(N+1)/2.<br>
+</p>
+
+<h4>Small dataset</h4>
+<p>
+1 =E2=89=A4 <b>N</b> =E2=89=A4 10<sup>3</sup>.<br>
+</p>
+
+<h4>Large dataset</h4>
+<p>
+1 =E2=89=A4 <b>N</b> =E2=89=A4 200000.<br>
+</p>
+
+
+<h3>Sample</h3>
+<div class=3D"problem-io-wrapper">
+<table>
+<tbody><tr>
+<td>
+<br>
+<span class=3D"io-table-header">Input</span>
+<br>&nbsp;
+</td>
+<td>
+<br>
+<span class=3D"io-table-header">Output</span>
+<br>&nbsp;
+</td>
+</tr>
+<tr>
+<td>
+<pre class=3D"io-content">1
+5 5
+5 4 3 2 1
+1 1
+1 10
+1 15
+3 8
+4 11
+
+</pre>
+</td>
+<td>
+<pre class=3D"io-content">Case #1:
+1
+45
+105
+26
+48
+</pre>
+</td></tr></tbody></table>
+</div>
+
+<p>
+In sample case #1, Alice's new array would be: [1, 2, 3, 3, 4, 5, 5, 6, 7, =
+9, 9, 10, 12, 14, 15].
+</p>
+</div></div></div>
+
+    <div id=3D"dsb-analysis-page" class=3D"dsb-content-pages"></div>
+
+    <div id=3D"dsb-clarification-page" class=3D"dsb-content-pages">
+      <!-- The clarifications table -->
+      <div id=3D"clarTableDiv" class=3D"clarTableWrapper"></div><div>
+        <table id=3D"dsb-clarification-table" style=3D"display: none;">
+          <colgroup span=3D"9">
+            <col width=3D"16%"><col width=3D"2%">
+            <col width=3D"10%"><col width=3D"2%">
+            <col width=3D"28%"><col width=3D"2%">
+            <col width=3D"10%"><col width=3D"2%">
+            <col width=3D"28%">
+          </colgroup>
+          <thead>
+            <tr>
+            <th>Category</th><th>&nbsp;</th>
+            <th class=3D"clarTimeColumn">Asked</th><th>&nbsp;</th>
+            <th>Question</th><th>&nbsp;</th>
+            <th class=3D"clarTimeColumn">Answered</th><th>&nbsp;</th>
+            <th>Answer</th>
+            </tr>
+          </thead>
+          <tbody id=3D"dsb-clarification-tbody"></tbody>
+        </table>
+      </div>
+      <div id=3D"dsb-submit-clarification" style=3D"display: none;">
+        <!-- The link to ask a clarification -->
+        <div style=3D"padding: 0.5em 0 0.3em 0;">
+          <b>Ask a question:</b>
+        </div>
+        <!-- The form for asking clarification -->
+        <div>
+          <form onsubmit=3D"return GCJ.submitClarification(this);" lpformnu=
+m=3D"1"><div style=3D"display:none;"><input type=3D"hidden" name=3D"csrfmid=
+dlewaretoken" value=3D"NTM1YWFlZGZkYWE3YWQyYWMyNjA1MThkZTAxYTliZjZ8MTE3OTQ1=
+MTIzMjYwOTc5MDM4OTg4fDE0NzE4NjU5Mzg5MTQ0NDA=3D"></div>
+            <div><textarea rows=3D"5" cols=3D"60" name=3D"q"></textarea></d=
+iv>
+            <div style=3D"padding-top: 0.3em">
+              <select id=3D"dsb-clarification-problem-select" name=3D"probl=
+em">
+                <option value=3D"_" selected=3D"">[General]</option>
+              <option value=3D"5760011712069632">A. Lazy Spelling Bee</opti=
+on><option value=3D"5646169040486400">B. Robot Rock Band</option><option va=
+lue=3D"5750793739173888">C. Not So Random</option><option value=3D"56591219=
+57208064">D. Sums of Sums</option></select>
+              &nbsp;
+              <input id=3D"dsb-submit-clarification-button" type=3D"submit"=
+ value=3D"Ask">
+            </div>
+          </form>
+        </div>
+      </div>
+      <!-- Too many pending clarifications -->
+      <div id=3D"dsb-cannot-ask-question-text" style=3D"font-weight: bold; =
+padding: 0.5em 0px 0.3em; display: block;">You cannot ask questions at this=
+ time. Please email us at codejam@google.com.</div>
+
+    </div>
+
+    <div id=3D"dsb-submissions-page" class=3D"dsb-content-pages">
+      <div id=3D"dsb-submissions-status" class=3D"dsb-sub-status-msg">You h=
+ave 6 submissions.</div>
+      <table id=3D"dsb-submissions-table" class=3D"dsb-sub-main-table" styl=
+e=3D"display: block;">
+      <thead>
+        <tr id=3D"dsb-sub-main-table-header">
+          <th class=3D"dsb-sub-row-id-width">ID</th>
+          <th class=3D"dsb-sub-name-width">Problem</th>
+          <th class=3D"dsb-sub-difficulty-width">Size</th>
+          <th class=3D"dsb-sub-input-width">Input</th>
+          <th class=3D"dsb-sub-output-width">Output</th>
+          <th class=3D"dsb-sub-source-width">Solution</th>
+          <th class=3D"dsb-sub-status-width">Status</th>
+          <th class=3D"dsb-sub-time-width goog-tablesorter-sorted-reverse">=
+Time</th>
+        </tr>
+      </thead>
+      <tbody id=3D"dsb-submissions-rows">
+      <tr id=3D"sub-agpzfmdjai1wcm9kcnYLEgx1c2VyX3Byb2ZpbGUiF3U9MTE3OTQ1MTI=
+zMjYwOTc5MDM4OTg4DAsSDnNjb3JlYm9hcmRfcm93IiF1PTExNzk0NTEyMzI2MDk3OTAzODk4OD=
+pjPTUyNTQ0ODYMCxIKc3VibWlzc2lvbiIIc3VibV82XzEM" class=3D"dsb-sub-even-row">=
+<td class=3D"dsb-sub-row-id-width">6</td><td class=3D"dsb-sub-name-width">S=
+ums of Sums</td><td class=3D"dsb-sub-difficulty-width">Small</td><td class=
+=3D"dsb-sub-input-width"><span class=3D"dsb-sub-download-link-span"><img sr=
+c=3D"https://code.google.com/codejam/contest/static/download.png"></span></=
+td><td class=3D"dsb-sub-output-width"><span id=3D"sub-agpzfmdjai1wcm9kcnYLE=
+gx1c2VyX3Byb2ZpbGUiF3U9MTE3OTQ1MTIzMjYwOTc5MDM4OTg4DAsSDnNjb3JlYm9hcmRfcm93=
+IiF1PTExNzk0NTEyMzI2MDk3OTAzODk4ODpjPTUyNTQ0ODYMCxIKc3VibWlzc2lvbiIIc3VibV8=
+2XzEM-output-link" class=3D"dsb-sub-download-link-span"><img src=3D"https:/=
+/code.google.com/codejam/contest/static/download.png"></span></td><td class=
+=3D"dsb-sub-source-width"><span id=3D"sub-agpzfmdjai1wcm9kcnYLEgx1c2VyX3Byb=
+2ZpbGUiF3U9MTE3OTQ1MTIzMjYwOTc5MDM4OTg4DAsSDnNjb3JlYm9hcmRfcm93IiF1PTExNzk0=
+NTEyMzI2MDk3OTAzODk4ODpjPTUyNTQ0ODYMCxIKc3VibWlzc2lvbiIIc3VibV82XzEM-source=
+-link" class=3D"dsb-sub-download-link-span"><img src=3D"https://code.google=
+.com/codejam/contest/static/download.png"></span></td><td id=3D"sub-agpzfmd=
+jai1wcm9kcnYLEgx1c2VyX3Byb2ZpbGUiF3U9MTE3OTQ1MTIzMjYwOTc5MDM4OTg4DAsSDnNjb3=
+JlYm9hcmRfcm93IiF1PTExNzk0NTEyMzI2MDk3OTAzODk4ODpjPTUyNTQ0ODYMCxIKc3VibWlzc=
+2lvbiIIc3VibV82XzEM-status" class=3D"dsb-sub-status-width">Correct</td><td =
+id=3D"sub-agpzfmdjai1wcm9kcnYLEgx1c2VyX3Byb2ZpbGUiF3U9MTE3OTQ1MTIzMjYwOTc5M=
+DM4OTg4DAsSDnNjb3JlYm9hcmRfcm93IiF1PTExNzk0NTEyMzI2MDk3OTAzODk4ODpjPTUyNTQ0=
+ODYMCxIKc3VibWlzc2lvbiIIc3VibV82XzEM-time" class=3D"dsb-sub-status-width">2=
+h 18m 32s</td></tr><tr id=3D"sub-agpzfmdjai1wcm9kcnYLEgx1c2VyX3Byb2ZpbGUiF3=
+U9MTE3OTQ1MTIzMjYwOTc5MDM4OTg4DAsSDnNjb3JlYm9hcmRfcm93IiF1PTExNzk0NTEyMzI2M=
+Dk3OTAzODk4ODpjPTUyNTQ0ODYMCxIKc3VibWlzc2lvbiIIc3VibV82XzAM" class=3D"dsb-s=
+ub-odd-row"><td class=3D"dsb-sub-row-id-width">5</td><td class=3D"dsb-sub-n=
+ame-width">Sums of Sums</td><td class=3D"dsb-sub-difficulty-width">Small</t=
+d><td class=3D"dsb-sub-input-width"><span class=3D"dsb-sub-download-link-sp=
+an"><img src=3D"https://code.google.com/codejam/contest/static/download.png=
+"></span></td><td class=3D"dsb-sub-output-width"><span id=3D"sub-agpzfmdjai=
+1wcm9kcnYLEgx1c2VyX3Byb2ZpbGUiF3U9MTE3OTQ1MTIzMjYwOTc5MDM4OTg4DAsSDnNjb3JlY=
+m9hcmRfcm93IiF1PTExNzk0NTEyMzI2MDk3OTAzODk4ODpjPTUyNTQ0ODYMCxIKc3VibWlzc2lv=
+biIIc3VibV82XzAM-output-link" class=3D"dsb-sub-download-link-disabled-span"=
+></span></td><td class=3D"dsb-sub-source-width"><span id=3D"sub-agpzfmdjai1=
+wcm9kcnYLEgx1c2VyX3Byb2ZpbGUiF3U9MTE3OTQ1MTIzMjYwOTc5MDM4OTg4DAsSDnNjb3JlYm=
+9hcmRfcm93IiF1PTExNzk0NTEyMzI2MDk3OTAzODk4ODpjPTUyNTQ0ODYMCxIKc3VibWlzc2lvb=
+iIIc3VibV82XzAM-source-link" class=3D"dsb-sub-download-link-disabled-span">=
+</span></td><td id=3D"sub-agpzfmdjai1wcm9kcnYLEgx1c2VyX3Byb2ZpbGUiF3U9MTE3O=
+TQ1MTIzMjYwOTc5MDM4OTg4DAsSDnNjb3JlYm9hcmRfcm93IiF1PTExNzk0NTEyMzI2MDk3OTAz=
+ODk4ODpjPTUyNTQ0ODYMCxIKc3VibWlzc2lvbiIIc3VibV82XzAM-status" class=3D"dsb-s=
+ub-status-width">Time Expired</td><td id=3D"sub-agpzfmdjai1wcm9kcnYLEgx1c2V=
+yX3Byb2ZpbGUiF3U9MTE3OTQ1MTIzMjYwOTc5MDM4OTg4DAsSDnNjb3JlYm9hcmRfcm93IiF1PT=
+ExNzk0NTEyMzI2MDk3OTAzODk4ODpjPTUyNTQ0ODYMCxIKc3VibWlzc2lvbiIIc3VibV82XzAM-=
+time" class=3D"dsb-sub-status-width">2h 11m 15s</td></tr><tr id=3D"sub-agpz=
+fmdjai1wcm9kcnYLEgx1c2VyX3Byb2ZpbGUiF3U9MTE3OTQ1MTIzMjYwOTc5MDM4OTg4DAsSDnN=
+jb3JlYm9hcmRfcm93IiF1PTExNzk0NTEyMzI2MDk3OTAzODk4ODpjPTUyNTQ0ODYMCxIKc3VibW=
+lzc2lvbiIIc3VibV80XzAM" class=3D"dsb-sub-even-row"><td class=3D"dsb-sub-row=
+-id-width">4</td><td class=3D"dsb-sub-name-width">Not So Random</td><td cla=
+ss=3D"dsb-sub-difficulty-width">Small</td><td class=3D"dsb-sub-input-width"=
+><span class=3D"dsb-sub-download-link-span"><img src=3D"https://code.google=
+.com/codejam/contest/static/download.png"></span></td><td class=3D"dsb-sub-=
+output-width"><span id=3D"sub-agpzfmdjai1wcm9kcnYLEgx1c2VyX3Byb2ZpbGUiF3U9M=
+TE3OTQ1MTIzMjYwOTc5MDM4OTg4DAsSDnNjb3JlYm9hcmRfcm93IiF1PTExNzk0NTEyMzI2MDk3=
+OTAzODk4ODpjPTUyNTQ0ODYMCxIKc3VibWlzc2lvbiIIc3VibV80XzAM-output-link" class=
+=3D"dsb-sub-download-link-span"><img src=3D"https://code.google.com/codejam=
+/contest/static/download.png"></span></td><td class=3D"dsb-sub-source-width=
+"><span id=3D"sub-agpzfmdjai1wcm9kcnYLEgx1c2VyX3Byb2ZpbGUiF3U9MTE3OTQ1MTIzM=
+jYwOTc5MDM4OTg4DAsSDnNjb3JlYm9hcmRfcm93IiF1PTExNzk0NTEyMzI2MDk3OTAzODk4ODpj=
+PTUyNTQ0ODYMCxIKc3VibWlzc2lvbiIIc3VibV80XzAM-source-link" class=3D"dsb-sub-=
+download-link-span"><img src=3D"https://code.google.com/codejam/contest/sta=
+tic/download.png"></span></td><td id=3D"sub-agpzfmdjai1wcm9kcnYLEgx1c2VyX3B=
+yb2ZpbGUiF3U9MTE3OTQ1MTIzMjYwOTc5MDM4OTg4DAsSDnNjb3JlYm9hcmRfcm93IiF1PTExNz=
+k0NTEyMzI2MDk3OTAzODk4ODpjPTUyNTQ0ODYMCxIKc3VibWlzc2lvbiIIc3VibV80XzAM-stat=
+us" class=3D"dsb-sub-status-width">Correct</td><td id=3D"sub-agpzfmdjai1wcm=
+9kcnYLEgx1c2VyX3Byb2ZpbGUiF3U9MTE3OTQ1MTIzMjYwOTc5MDM4OTg4DAsSDnNjb3JlYm9hc=
+mRfcm93IiF1PTExNzk0NTEyMzI2MDk3OTAzODk4ODpjPTUyNTQ0ODYMCxIKc3VibWlzc2lvbiII=
+c3VibV80XzAM-time" class=3D"dsb-sub-status-width">1h 54m 12s</td></tr><tr i=
+d=3D"sub-agpzfmdjai1wcm9kcnYLEgx1c2VyX3Byb2ZpbGUiF3U9MTE3OTQ1MTIzMjYwOTc5MD=
+M4OTg4DAsSDnNjb3JlYm9hcmRfcm93IiF1PTExNzk0NTEyMzI2MDk3OTAzODk4ODpjPTUyNTQ0O=
+DYMCxIKc3VibWlzc2lvbiIIc3VibV8yXzAM" class=3D"dsb-sub-odd-row"><td class=3D=
+"dsb-sub-row-id-width">3</td><td class=3D"dsb-sub-name-width">Robot Rock Ba=
+nd</td><td class=3D"dsb-sub-difficulty-width">Small</td><td class=3D"dsb-su=
+b-input-width"><span class=3D"dsb-sub-download-link-span"><img src=3D"https=
+://code.google.com/codejam/contest/static/download.png"></span></td><td cla=
+ss=3D"dsb-sub-output-width"><span id=3D"sub-agpzfmdjai1wcm9kcnYLEgx1c2VyX3B=
+yb2ZpbGUiF3U9MTE3OTQ1MTIzMjYwOTc5MDM4OTg4DAsSDnNjb3JlYm9hcmRfcm93IiF1PTExNz=
+k0NTEyMzI2MDk3OTAzODk4ODpjPTUyNTQ0ODYMCxIKc3VibWlzc2lvbiIIc3VibV8yXzAM-outp=
+ut-link" class=3D"dsb-sub-download-link-span"><img src=3D"https://code.goog=
+le.com/codejam/contest/static/download.png"></span></td><td class=3D"dsb-su=
+b-source-width"><span id=3D"sub-agpzfmdjai1wcm9kcnYLEgx1c2VyX3Byb2ZpbGUiF3U=
+9MTE3OTQ1MTIzMjYwOTc5MDM4OTg4DAsSDnNjb3JlYm9hcmRfcm93IiF1PTExNzk0NTEyMzI2MD=
+k3OTAzODk4ODpjPTUyNTQ0ODYMCxIKc3VibWlzc2lvbiIIc3VibV8yXzAM-source-link" cla=
+ss=3D"dsb-sub-download-link-span"><img src=3D"https://code.google.com/codej=
+am/contest/static/download.png"></span></td><td id=3D"sub-agpzfmdjai1wcm9kc=
+nYLEgx1c2VyX3Byb2ZpbGUiF3U9MTE3OTQ1MTIzMjYwOTc5MDM4OTg4DAsSDnNjb3JlYm9hcmRf=
+cm93IiF1PTExNzk0NTEyMzI2MDk3OTAzODk4ODpjPTUyNTQ0ODYMCxIKc3VibWlzc2lvbiIIc3V=
+ibV8yXzAM-status" class=3D"dsb-sub-status-width">Correct</td><td id=3D"sub-=
+agpzfmdjai1wcm9kcnYLEgx1c2VyX3Byb2ZpbGUiF3U9MTE3OTQ1MTIzMjYwOTc5MDM4OTg4DAs=
+SDnNjb3JlYm9hcmRfcm93IiF1PTExNzk0NTEyMzI2MDk3OTAzODk4ODpjPTUyNTQ0ODYMCxIKc3=
+VibWlzc2lvbiIIc3VibV8yXzAM-time" class=3D"dsb-sub-status-width">1h 22m 38s<=
+/td></tr><tr id=3D"sub-agpzfmdjai1wcm9kcnYLEgx1c2VyX3Byb2ZpbGUiF3U9MTE3OTQ1=
+MTIzMjYwOTc5MDM4OTg4DAsSDnNjb3JlYm9hcmRfcm93IiF1PTExNzk0NTEyMzI2MDk3OTAzODk=
+4ODpjPTUyNTQ0ODYMCxIKc3VibWlzc2lvbiIIc3VibV8xXzAM" class=3D"dsb-sub-even-ro=
+w"><td class=3D"dsb-sub-row-id-width">2</td><td class=3D"dsb-sub-name-width=
+">Lazy Spelling Bee</td><td class=3D"dsb-sub-difficulty-width">Large</td><t=
+d class=3D"dsb-sub-input-width"><span class=3D"dsb-sub-download-link-span">=
+<img src=3D"https://code.google.com/codejam/contest/static/download.png"></=
+span></td><td class=3D"dsb-sub-output-width"><span id=3D"sub-agpzfmdjai1wcm=
+9kcnYLEgx1c2VyX3Byb2ZpbGUiF3U9MTE3OTQ1MTIzMjYwOTc5MDM4OTg4DAsSDnNjb3JlYm9hc=
+mRfcm93IiF1PTExNzk0NTEyMzI2MDk3OTAzODk4ODpjPTUyNTQ0ODYMCxIKc3VibWlzc2lvbiII=
+c3VibV8xXzAM-output-link" class=3D"dsb-sub-download-link-span"><img src=3D"=
+https://code.google.com/codejam/contest/static/download.png"></span></td><t=
+d class=3D"dsb-sub-source-width"><span id=3D"sub-agpzfmdjai1wcm9kcnYLEgx1c2=
+VyX3Byb2ZpbGUiF3U9MTE3OTQ1MTIzMjYwOTc5MDM4OTg4DAsSDnNjb3JlYm9hcmRfcm93IiF1P=
+TExNzk0NTEyMzI2MDk3OTAzODk4ODpjPTUyNTQ0ODYMCxIKc3VibWlzc2lvbiIIc3VibV8xXzAM=
+-source-link" class=3D"dsb-sub-download-link-span"><img src=3D"https://code=
+.google.com/codejam/contest/static/download.png"></span></td><td id=3D"sub-=
+agpzfmdjai1wcm9kcnYLEgx1c2VyX3Byb2ZpbGUiF3U9MTE3OTQ1MTIzMjYwOTc5MDM4OTg4DAs=
+SDnNjb3JlYm9hcmRfcm93IiF1PTExNzk0NTEyMzI2MDk3OTAzODk4ODpjPTUyNTQ0ODYMCxIKc3=
+VibWlzc2lvbiIIc3VibV8xXzAM-status" class=3D"dsb-sub-status-width">Correct</=
+td><td id=3D"sub-agpzfmdjai1wcm9kcnYLEgx1c2VyX3Byb2ZpbGUiF3U9MTE3OTQ1MTIzMj=
+YwOTc5MDM4OTg4DAsSDnNjb3JlYm9hcmRfcm93IiF1PTExNzk0NTEyMzI2MDk3OTAzODk4ODpjP=
+TUyNTQ0ODYMCxIKc3VibWlzc2lvbiIIc3VibV8xXzAM-time" class=3D"dsb-sub-status-w=
+idth">1h 01m 14s</td></tr><tr id=3D"sub-agpzfmdjai1wcm9kcnYLEgx1c2VyX3Byb2Z=
+pbGUiF3U9MTE3OTQ1MTIzMjYwOTc5MDM4OTg4DAsSDnNjb3JlYm9hcmRfcm93IiF1PTExNzk0NT=
+EyMzI2MDk3OTAzODk4ODpjPTUyNTQ0ODYMCxIKc3VibWlzc2lvbiIIc3VibV8wXzAM" class=
+=3D"dsb-sub-odd-row"><td class=3D"dsb-sub-row-id-width">1</td><td class=3D"=
+dsb-sub-name-width">Lazy Spelling Bee</td><td class=3D"dsb-sub-difficulty-w=
+idth">Small</td><td class=3D"dsb-sub-input-width"><span class=3D"dsb-sub-do=
+wnload-link-span"><img src=3D"https://code.google.com/codejam/contest/stati=
+c/download.png"></span></td><td class=3D"dsb-sub-output-width"><span id=3D"=
+sub-agpzfmdjai1wcm9kcnYLEgx1c2VyX3Byb2ZpbGUiF3U9MTE3OTQ1MTIzMjYwOTc5MDM4OTg=
+4DAsSDnNjb3JlYm9hcmRfcm93IiF1PTExNzk0NTEyMzI2MDk3OTAzODk4ODpjPTUyNTQ0ODYMCx=
+IKc3VibWlzc2lvbiIIc3VibV8wXzAM-output-link" class=3D"dsb-sub-download-link-=
+span"><img src=3D"https://code.google.com/codejam/contest/static/download.p=
+ng"></span></td><td class=3D"dsb-sub-source-width"><span id=3D"sub-agpzfmdj=
+ai1wcm9kcnYLEgx1c2VyX3Byb2ZpbGUiF3U9MTE3OTQ1MTIzMjYwOTc5MDM4OTg4DAsSDnNjb3J=
+lYm9hcmRfcm93IiF1PTExNzk0NTEyMzI2MDk3OTAzODk4ODpjPTUyNTQ0ODYMCxIKc3VibWlzc2=
+lvbiIIc3VibV8wXzAM-source-link" class=3D"dsb-sub-download-link-span"><img s=
+rc=3D"https://code.google.com/codejam/contest/static/download.png"></span><=
+/td><td id=3D"sub-agpzfmdjai1wcm9kcnYLEgx1c2VyX3Byb2ZpbGUiF3U9MTE3OTQ1MTIzM=
+jYwOTc5MDM4OTg4DAsSDnNjb3JlYm9hcmRfcm93IiF1PTExNzk0NTEyMzI2MDk3OTAzODk4ODpj=
+PTUyNTQ0ODYMCxIKc3VibWlzc2lvbiIIc3VibV8wXzAM-status" class=3D"dsb-sub-statu=
+s-width">Correct</td><td id=3D"sub-agpzfmdjai1wcm9kcnYLEgx1c2VyX3Byb2ZpbGUi=
+F3U9MTE3OTQ1MTIzMjYwOTc5MDM4OTg4DAsSDnNjb3JlYm9hcmRfcm93IiF1PTExNzk0NTEyMzI=
+2MDk3OTAzODk4ODpjPTUyNTQ0ODYMCxIKc3VibWlzc2lvbiIIc3VibV8wXzAM-time" class=
+=3D"dsb-sub-status-width">57m 21s</td></tr></tbody>
+      </table>
+    </div>
+
+  </div>
+  </div>
+</div>
+
+</div>
+
+<div style=3D"height: 3em; clear: both;"></div>
+
+
+
+
+<div id=3D"footer">
+ =20
+ =20
+  <p>
+    All problem statements, input data and contest analyses are
+    licensed under the
+    <a href=3D"http://creativecommons.org/licenses/by/3.0/">Creative Common=
+s Attribution License</a>.
+   =20
+  </p>
+ =20
+  <span id=3D"copyright">=C2=A9 2008-2015 Google</span>
+  <a href=3D"http://www.google.com/">Google Home</a> -
+  <a href=3D"https://code.google.com/codejam/apactest/terms.html">Terms and=
+ Conditions</a> -
+  <a href=3D"http://www.google.com/intl/en/policies">Privacy Policies and P=
+rinciples</a>
+  <br><br>
+  <a href=3D"http://cloud.google.com/"><img src=3D"https://code.google.com/=
+codejam/contest/static/gcp_gray_small.png"></a>
+ =20
+</div>
+
+
+
+
+
+
+<div style=3D"height: 1em">&nbsp;</div>
+
+<input type=3D"text" name=3D"history_state0" id=3D"history_state0" style=3D=
+"display:none">
+
+
+
+
+</div></body></html>
+------MultipartBoundary--iBNXAuUPsTtujwwHur1sBw5M5ALWKGq0zy2xYw15Fu----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://code.google.com/codejam/contest/css/35/base.css
+
+@charset "utf-8";
+
+body { color: black; font-family: Arial, sans-serif; font-size: small; marg=
+in: 3px 8px; min-width: 970px; background-color: white; }
+
+img { border: 0px; }
+
+table { border-collapse: collapse; font-size: small; }
+
+th, td { padding: 0px; vertical-align: top; text-align: left; }
+
+a:link { color: rgb(0, 0, 204); }
+
+a:active { color: rgb(204, 0, 0); }
+
+a:visited { color: rgb(85, 26, 139); }
+
+h1 { font-size: x-large; margin-top: 0px; }
+
+h2 { font-size: large; }
+
+h3 { font-size: medium; }
+
+h4 { font-size: small; }
+
+form { margin: 0px; padding: 0px; }
+
+li { margin-bottom: 0.25em; }
+
+pre, code { color: rgb(0, 112, 0); font-family: "bogus font here", monospac=
+e; font-size: 100%; }
+
+pre { border: 1px solid silver; padding: 0.5em; overflow: auto; margin: 2em=
+; background-color: rgb(245, 245, 245); }
+
+pre ins { color: rgb(204, 0, 0); font-weight: bold; text-decoration: none; =
+}
+
+.newmark { color: red; font-size: 80%; vertical-align: top; }
+
+a.selected, .selected a, .selected { color: black; font-weight: bold; text-=
+decoration: none; }
+
+a.selected:visited, .selected a:visited { color: black; }
+
+#gaia { text-align: right; }
+
+#header { height: 60px; margin-bottom: 11px; position: relative; }
+
+#logo-div { position: absolute; top: 1em; left: 0px; padding: 0px 0px 0px 0=
+.7em; z-index: 100; }
+
+#logo { padding: 10px; border: 0px; }
+
+#logo-padder { padding-top: 1.3em; }
+
+#title { border-top: 1px solid rgb(51, 102, 204); font-size: large; font-we=
+ight: bold; margin: 5px 0px 0px; padding: 1px 0px; background-color: rgb(22=
+9, 236, 249); }
+
+#title, #breadcrumbs { margin-left: 160px; padding-left: 3px; }
+
+#breadcrumbs { margin-top: 3px; }
+
+#side { width: 167px; margin-bottom: 3em; float: left; }
+
+#menu ul { margin: 0px 0px 1em; padding: 0px; list-style-type: none; }
+
+#menu ul ul { margin-left: 10px; margin-bottom: 0px; }
+
+#menu li { margin-top: 4px; }
+
+#menu h4 { margin: 0px 0px 1em; padding: 0px; }
+
+#search { margin-top: 2em; }
+
+#search .header { font-weight: bold; font-size: 90%; margin-bottom: 1px; }
+
+#search .button { margin-top: 1px; }
+
+#search .input input { width: 125px; }
+
+#body { border-left: 1px dotted silver; margin-left: 169px; margin-right: 2=
+5px; padding-left: 18px; padding-bottom: 25px; }
+
+#footer { text-align: center; width: 100%; border-top: 1px solid rgb(204, 2=
+04, 204); padding: 10px 0px; font-size: 90%; }
+
+div.download { padding-top: 0.5em; padding-bottom: 0.5em; }
+
+div.download a { border: 1px solid rgb(51, 102, 204); padding: 0.5em; posit=
+ion: relative; font-weight: bold; background-color: rgb(229, 236, 249); }
+
+.termsagree { margin-top: 1em; margin-bottom: 1em; padding: 0.5em; backgrou=
+nd-color: rgb(229, 236, 249); }
+
+.termsagree .button { padding-top: 0.5em; }
+
+.termsagree .text { font-weight: bold; }
+
+.termsagree .text .printable { font-weight: normal; }
+
+.termsagree .text, .termsagree .button { padding-left: 5px; }
+
+@media print {=20
+  .noprint { display: none; }
+  #header, #side, #gaia { display: none; }
+  #body { margin: 0px; border: 0px; padding: 0px; }
+}
+
+#copyright { margin-right: 0.8em; }
+
+#guser { font-size: 13px; position: absolute; top: 0px; right: 0px; padding=
+: 2px 10px 7px 0px; z-index: 100; }
+
+#welcome-bar { margin: 1.5em 0px 0px 12em; padding: 0.5em; font-size: 120%;=
+ font-weight: bold; color: rgb(68, 125, 190); border-top: 1px solid rgb(204=
+, 204, 204); }
+
+.bold { font-weight: bold; }
+
+.gray { color: gray; }
+
+span.hDivider { padding-left: 0.7em; }
+
+.v-divider { height: 0.7em; }
+
+div.dynamic-link { padding: 0.3em 0.4em 0.3em 0.8em; margin-bottom: 0.2em; =
+font-size: 95%; color: blue; cursor: pointer; text-decoration: underline; }
+
+div.dynamic-link a:visited { color: blue; }
+
+#common-body div { }
+
+#common-nav-div { clear: none; float: left; height: 100%; }
+
+#common-nav-wrapper { width: 16em; border-right: 1px solid rgb(201, 237, 20=
+4); overflow: hidden; }
+
+#common-nav-wrapper div { display: block; }
+
+.common-nav-section-title { padding: 0.5em; width: 100%; color: rgb(51, 51,=
+ 51); }
+
+.common-nav-links > div { padding: 0.5em 1em; width: 100%; font-weight: bol=
+d; }
+
+.common-nav-links > .active-link:link { color: rgb(25, 25, 112); }
+
+.common-nav-links > .active-link:visited { color: rgb(25, 25, 112); }
+
+.common-nav-links > .active-link:hover { color: rgb(0, 0, 128); background-=
+color: rgb(255, 255, 238); }
+
+.common-nav-links > .current-link { color: rgb(0, 0, 128); background-color=
+: rgb(201, 237, 204); }
+
+#index-moreinfo > div { padding: 0.2em 0.5em; }
+
+#common-content-div { margin-left: 17em; margin-right: 0px; }
+
+#common-content-div > div { position: relative; padding: 2em; width: 90%; m=
+ax-width: 800px; }
+
+#index-moreinfo .active-link, #index-moreinfo a { color: navy; text-decorat=
+ion: underline; cursor: pointer; }
+
+#index-moreinfo .current-link { background-color: rgb(201, 237, 204); }
+
+#index-moreinfo > div { width: 100%; padding-left: 20px; background: url(".=
+./../static/bg_red_arrow.gif") 5px 5px no-repeat; }
+
+#common-nav-links { }
+
+table.schedule { border: 1px solid black; }
+
+.schedule .desc { font-weight: bold; width: 17em; }
+
+.schedule .date { width: 8em; }
+
+.schedule .duration { width: 8em; }
+
+.schedule .links { text-align: center; width: 6em; border-left: 0px; border=
+-right: 0px; }
+------MultipartBoundary--iBNXAuUPsTtujwwHur1sBw5M5ALWKGq0zy2xYw15Fu----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://code.google.com/codejam/contest/css/35/dashboard.css
+
+@charset "utf-8";
+
+body { min-width: 50em; }
+
+form { margin: 0px; }
+
+#dsb-page-body { position: relative; clear: both; margin: 0px 0px 0.5em; di=
+splay: block; }
+
+table, th, tr, td { border-collapse: collapse; border-width: 0pt; margin: 0=
+px; padding: 0px; text-align: left; vertical-align: top; }
+
+div.main { display: none; }
+
+#dsb-header-links { text-align: right; }
+
+#dsb-contest-title-bar { position: relative; padding: 0.5em 0.3em 0.3em; te=
+xt-align: right; }
+
+#dsb-rank-etc { float: left; }
+
+#left-panel { float: left; width: 14.6em; overflow: hidden; display: inline=
+; padding-top: 5.3em; }
+
+#dsb-analysis-button { display: none; }
+
+#dsb-contest-title { color: rgb(51, 51, 51); padding: 0px 0px 0px 0.8em; }
+
+.before-start-only { display: none; }
+
+.before-start-only-inline { display: none; }
+
+.after-start-only { display: none; }
+
+.after-start-only-inline { display: none; }
+
+div.dsb-pre-contest-text { color: black; cursor: default; text-decoration: =
+none; position: relative; padding: 0.5em 1em; }
+
+div.dsb-problem-tab-open div.dynamic-link { color: black; cursor: default; =
+font-weight: bold; text-decoration: none; background-color: rgb(195, 217, 2=
+55); }
+
+div.dsb-clar-tab-open div.dynamic-link, div.dsb-submissions-tab-open div.dy=
+namic-link, div.dsb-analysis-tab-open div.dynamic-link { color: black; curs=
+or: default; font-weight: bold; text-decoration: none; background-color: rg=
+b(201, 237, 204); }
+
+div.dsb-clar-tab-close div.dynamic-link, div.dsb-submissions-tab-close div.=
+dynamic-link, div.dsb-problem-tab-close div.dynamic-link, div.dsb-analysis-=
+tab-close div.dynamic-link { cursor: pointer; background-color: white; }
+
+div.dsb-problem-tab-open div.dynamic-link div, div.dsb-analysis-tab-open di=
+v.dynamic-link div { color: black; text-decoration: none; display: inline; =
+}
+
+div.dsb-problem-tab-close div.dynamic-link div, div.dsb-analysis-tab-close =
+div.dynamic-link div { color: blue; text-decoration: underline; display: in=
+line; }
+
+div.problem-status-wrapper { padding: 0.3em 0.5em 0.3em 0.3em; }
+
+table.problemStatus { margin: 0.3em 0px 0.3em 0em; color: rgb(102, 102, 102=
+); font-size: 90%; width: 100%; }
+
+table.problemStatus td.inputName { width: 2em; text-align: right; padding-r=
+ight: 0.4em; border-right: 1px solid rgb(182, 202, 238); }
+
+table.problemStatus td.status { padding-left: 0.4em; }
+
+.dsb-mini-status-highlight { color: black; display: inline; background-colo=
+r: rgb(238, 251, 206); }
+
+.dsb-mini-status-non-highlight { color: black; }
+
+.dsb-mini-tab-wrapper { border: 0.2em solid rgb(195, 217, 255); margin: 0px=
+ 0.9em 0px 0.3em; width: 13.5em; border-radius: 0.3em; }
+
+.dsb-status-problem-title { color: black; font-size: 90%; padding: 0.15em 0=
+px 0.25em; border-bottom: 1px solid rgb(204, 204, 204); }
+
+#dsb-scoreboard-div { font-weight: 500; }
+
+#dsb-scoreboard-table { width: 13.48em; font-size: small; }
+
+#dsb-scoreboard-header-div, #dsb-status-header-div { border-bottom: 1px sol=
+id rgb(195, 217, 255); padding-top: 0.25em; padding-bottom: 0.25em; padding=
+-left: 0.5em; font-size: 95%; background-color: rgb(195, 217, 255); }
+
+div.dsb-mini-tab-link { padding: 0px 0.5em 0.5em 0px; text-align: right; }
+
+.dsb-name-td { width: 11em; padding: 0.2em 0px 0.2em 0.5em; }
+
+.dsb-score-td { text-align: right; width: 2.48em; padding: 0.2em 0.5em 0.2e=
+m 0px; }
+
+.dsb-scoreboard-row-odd { background-color: rgb(238, 238, 238); }
+
+hr.dsb-hr { color: rgb(195, 217, 255); width: 90%; height: 1px; border: 0px=
+; background-color: rgb(195, 217, 255); }
+
+#right-panel { float: none; margin-left: 14.5em; z-index: 5; }
+
+div.dsb-blue-border { position: relative; padding: 0.45em; border-radius: 0=
+.2em; background-color: rgb(195, 217, 255); }
+
+div.dsb-green-border { position: relative; padding: 0.45em; border-radius: =
+0.2em; background-color: rgb(201, 237, 204); }
+
+#dsb-border-inner { padding: 0.5em; background-color: white; }
+
+div.dsb-status-msg-wrapper { text-align: center; visibility: hidden; }
+
+div.dsb-status-msg { font-weight: bold; display: inline; padding: 0.4em 1em=
+; line-height: 1.75em; border-radius: 0.5em; background-color: rgb(250, 236=
+, 165); }
+
+#dsb-view-sub-link { color: blue; text-decoration: underline; cursor: point=
+er; }
+
+.dsb-content-pages { padding: 1em; display: none; min-height: 45em; height:=
+ auto !important; }
+
+div.clarTableWrapper { padding-top: 1em; max-height: 40em; overflow: auto; =
+}
+
+tr.dsb-clar-tr td { empty-cells: show; padding-top: 0.2em; padding-bottom: =
+0.2em; padding-left: 0.5em; border-top: 1px solid rgb(221, 221, 221); borde=
+r-bottom: 1px solid rgb(221, 221, 221); }
+
+tr.dsb-clar-tr-odd { background-color: rgb(239, 239, 239); }
+
+tr.dsb-clar-tr-announcement { background-color: rgb(255, 255, 212); }
+
+.clarTimeColumn { text-align: right; }
+
+td.clarProbTd { padding: 0.2em 0.5em; }
+
+div.problem-title { color: rgb(51, 51, 51); padding: 0.4em; margin: 0px 0.5=
+em; border-bottom: 0.1em solid rgb(232, 240, 255); font-size: 112%; font-we=
+ight: bold; }
+
+.dsb-input-panel-text { padding-bottom: 0.5em; }
+
+span.problemInput { padding: 0.4em; height: 1em; }
+
+span.inputText { display: inline; padding-left: 0.3em; vertical-align: midd=
+le; }
+
+span.inputText span.inputLink { color: blue; text-decoration: underline; }
+
+span.inputTextStatic { display: inline; padding-left: 0.3em; vertical-align=
+: middle; }
+
+input.submitFormFile { margin: 0.1em 0.5em; }
+
+span.dsb-submit-form-links { margin-left: 0.25em; color: blue; cursor: poin=
+ter; text-decoration: underline; }
+
+span.dsb-submit-form-redownload-zipped-link { margin-left: 0em; }
+
+div.dsb-submit-form-separator { margin-top: 0.5em; padding-top: 0.5em; padd=
+ing-bottom: 0.2em; border-top: 0.1em solid rgb(255, 248, 170); }
+
+.dsb-problem-content-div { vertical-align: top; margin-right: 6em; margin-t=
+op: 2em; max-width: 40em; min-height: 45em; height: auto !important; }
+
+#dsb-clar-close-image-div { position: absolute; top: 0.1em; left: 0.1em; te=
+xt-align: left; }
+
+#dsb-time-remaining-before { color: rgb(153, 153, 153); display: inline; }
+
+#dsb-time-remaining { color: rgb(153, 153, 153); display: inline; }
+
+#dsb-current-score-div, #dsb-current-rank-div { color: rgb(51, 51, 51); pad=
+ding-left: 0.5em; display: inline; }
+
+#dsb-current-score-span, #dsb-current-rank-span { color: rgb(63, 118, 44); =
+}
+
+#dsb-clarification-table { min-width: 30em; display: none; }
+
+#dsb-clarification-table th, #dsb-clarification-table td, #dsb-submissions-=
+table th, #dsb-submissions-table td { padding: 0.3em; }
+
+#dsb-clarification-table th, #dsb-submissions-table th { font-size: 90%; fo=
+nt-weight: 500; }
+
+.problem-item, .problem-item-gray { font-size: 110%; }
+
+.dsb-problem-content-div > h3, .dsb-problem-content-div > h4 { font-size: 1=
+10%; font-weight: normal; }
+
+.problem-item-gray { font-size: 100%; }
+
+.dsb-problem-content-div > .problem-io-wrapper { border: 1px solid rgb(204,=
+ 204, 204); padding-bottom: 2em; margin-bottom: 2em; width: 90%; overflow-x=
+: auto; overflow-y: hidden; background-color: rgb(239, 239, 239); }
+
+.problem-io-wrapper td { padding: 0px 1em; }
+
+.problem-io-wrapper .io-table-header { font-size: 100%; }
+
+.problem-io-wrapper .io-content { border: 0px; padding: 0px; margin: 0px; w=
+idth: 100%; font-size: 100%; background-color: rgb(239, 239, 239); }
+
+.dsb-input-table-description { padding: 0.5em; color: rgb(51, 51, 51); line=
+-height: 1.5em; border-right: 0.1em solid rgb(204, 204, 204); white-space: =
+nowrap; }
+
+.dsb-input-table-caption { display: block; margin-top: 0.4em; padding-left:=
+ 0.5em; color: rgb(102, 102, 102); }
+
+.dsb-input-table-linktd { padding: 0.5em; }
+
+.dsb-input-link-span { cursor: pointer; display: inline; text-decoration: n=
+one; }
+
+.dsb-input-link-text { color: blue; text-decoration: underline; cursor: poi=
+nter; }
+
+.dsb-input-link-img { display: inline; padding-right: 0.2em; }
+
+.dsb-no-image-link-text { margin-left: 15px; padding-left: 0.2em; }
+
+.dsb-action-box-open { padding: 0.5em; max-width: 31em; border-right: 1px s=
+olid rgb(221, 200, 80); border-bottom: 1px solid rgb(221, 200, 80); border-=
+radius: 0.5em; background-color: rgb(250, 236, 165); }
+
+.dsb-input-wrapper { padding: 0.4em; display: inline; }
+
+.dsb-submit-form-div { top: -0.2em; display: none; padding: 0.4em; max-widt=
+h: 30em; }
+
+.dsb-input-start-button { font-size: 100%; }
+
+img { vertical-align: middle; }
+
+.dsb-has-new-question-tab { font-weight: bold; }
+
+.dsb-unread-count { display: inline-block; padding: 1px 6px; color: rgb(255=
+, 255, 255); border: 1px solid rgb(193, 56, 40); border-radius: 2px; margin=
+-left: 5px; background-color: rgb(209, 72, 54); }
+
+pre, code { color: black; }
+
+pre { width: 86%; font-size: 90%; }
+
+.dsb-sub-status-msg { height: 1.2em; font-size: 100%; margin-bottom: 0.5em;=
+ text-align: left; }
+
+.dsb-sub-row-id-width { width: 2em; }
+
+.dsb-sub-name-width { width: 12em; }
+
+.dsb-sub-difficulty-width { width: 5em; }
+
+.dsb-sub-input-width, .dsb-sub-output-width, .dsb-sub-source-width { width:=
+ 4.5em; }
+
+.dsb-sub-status-width { width: 7.5em; text-align: right; }
+
+.dsb-sub-time-width { width: 7.5em; text-align: right; }
+
+.dsb-sub-download-link-span { display: block; width: 15px; height: 15px; cu=
+rsor: pointer; }
+
+.dsb-sub-download-link-disabled-span { cursor: default; }
+
+.dsb-sub-even-row { background-color: rgb(239, 239, 239); }
+
+.dsb-sub-odd-row { background-color: rgb(255, 255, 255); }
+
+tr.dsb-sub-odd-row td, tr.dsb-sub-even-row td { empty-cells: show; padding-=
+top: 0.2em; padding-bottom: 0.2em; padding-left: 0.5em; border-top: 1px sol=
+id rgb(221, 221, 221); border-bottom: 1px solid rgb(221, 221, 221); }
+
+.dsb-analysis-selected { color: black; text-decoration: none; cursor: defau=
+lt; }
+
+.dsb-analysis-not-selected { color: blue; text-decoration: underline; curso=
+r: pointer; }
+
+a.dsb-download-sample-link { color: rgb(0, 0, 204); cursor: pointer; }
+
+a.dsb-download-sample-link:visited { color: rgb(85, 26, 139); }
+------MultipartBoundary--iBNXAuUPsTtujwwHur1sBw5M5ALWKGq0zy2xYw15Fu----
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://code.google.com/codejam/contest/static/logo_2015_apac_test.jpg
+
+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
+P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/Pgo8eDp4
+bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1
+LjUtYzAyMSA3OS4xNTU3NzIsIDIwMTQvMDEvMTMtMTk6NDQ6MDAgICAgICAgICI+CiAgIDxyZGY6
+UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5z
+IyI+CiAgICAgIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiCiAgICAgICAgICAgIHhtbG5z
+OnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIKICAgICAgICAgICAgeG1sbnM6eG1w
+TU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iCiAgICAgICAgICAgIHhtbG5zOnN0
+RXZ0PSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VFdmVudCMiCiAg
+ICAgICAgICAgIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIKICAg
+ICAgICAgICAgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8x
+LjAvIgogICAgICAgICAgICB4bWxuczp0aWZmPSJodHRwOi8vbnMuYWRvYmUuY29tL3RpZmYvMS4w
+LyIKICAgICAgICAgICAgeG1sbnM6ZXhpZj0iaHR0cDovL25zLmFkb2JlLmNvbS9leGlmLzEuMC8i
+PgogICAgICAgICA8eG1wOkNyZWF0b3JUb29sPkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE0IChNYWNp
+bnRvc2gpPC94bXA6Q3JlYXRvclRvb2w+CiAgICAgICAgIDx4bXA6Q3JlYXRlRGF0ZT4yMDE1LTA3
+LTI0VDExOjUzOjM1LTA3OjAwPC94bXA6Q3JlYXRlRGF0ZT4KICAgICAgICAgPHhtcDpNZXRhZGF0
+YURhdGU+MjAxNS0wNy0yNFQxMTo1MzozNS0wNzowMDwveG1wOk1ldGFkYXRhRGF0ZT4KICAgICAg
+ICAgPHhtcDpNb2RpZnlEYXRlPjIwMTUtMDctMjRUMTE6NTM6MzUtMDc6MDA8L3htcDpNb2RpZnlE
+YXRlPgogICAgICAgICA8eG1wTU06SW5zdGFuY2VJRD54bXAuaWlkOjAxOWZhOTc0LTQxNjMtNDA1
+ZC1iMzViLTg2MGQzY2U5NjZiNjwveG1wTU06SW5zdGFuY2VJRD4KICAgICAgICAgPHhtcE1NOkRv
+Y3VtZW50SUQ+YWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjhiZTZiNzJiLTZkMDYtMTE3OC1hYzk4LWU5
+ZWFhZjAyNmFiYzwveG1wTU06RG9jdW1lbnRJRD4KICAgICAgICAgPHhtcE1NOk9yaWdpbmFsRG9j
+dW1lbnRJRD54bXAuZGlkOmQzYWY4MDM5LTdhM2MtNDdmYS04NDhmLTAxNmMyYTA0ZTRlMTwveG1w
+TU06T3JpZ2luYWxEb2N1bWVudElEPgogICAgICAgICA8eG1wTU06SGlzdG9yeT4KICAgICAgICAg
+ICAgPHJkZjpTZXE+CiAgICAgICAgICAgICAgIDxyZGY6bGkgcmRmOnBhcnNlVHlwZT0iUmVzb3Vy
+Y2UiPgogICAgICAgICAgICAgICAgICA8c3RFdnQ6YWN0aW9uPmNyZWF0ZWQ8L3N0RXZ0OmFjdGlv
+bj4KICAgICAgICAgICAgICAgICAgPHN0RXZ0Omluc3RhbmNlSUQ+eG1wLmlpZDpkM2FmODAzOS03
+YTNjLTQ3ZmEtODQ4Zi0wMTZjMmEwNGU0ZTE8L3N0RXZ0Omluc3RhbmNlSUQ+CiAgICAgICAgICAg
+ICAgICAgIDxzdEV2dDp3aGVuPjIwMTUtMDctMjRUMTE6NTM6MzUtMDc6MDA8L3N0RXZ0OndoZW4+
+CiAgICAgICAgICAgICAgICAgIDxzdEV2dDpzb2Z0d2FyZUFnZW50PkFkb2JlIFBob3Rvc2hvcCBD
+QyAyMDE0IChNYWNpbnRvc2gpPC9zdEV2dDpzb2Z0d2FyZUFnZW50PgogICAgICAgICAgICAgICA8
+L3JkZjpsaT4KICAgICAgICAgICAgICAgPHJkZjpsaSByZGY6cGFyc2VUeXBlPSJSZXNvdXJjZSI+
+CiAgICAgICAgICAgICAgICAgIDxzdEV2dDphY3Rpb24+c2F2ZWQ8L3N0RXZ0OmFjdGlvbj4KICAg
+ICAgICAgICAgICAgICAgPHN0RXZ0Omluc3RhbmNlSUQ+eG1wLmlpZDowMTlmYTk3NC00MTYzLTQw
+NWQtYjM1Yi04NjBkM2NlOTY2YjY8L3N0RXZ0Omluc3RhbmNlSUQ+CiAgICAgICAgICAgICAgICAg
+IDxzdEV2dDp3aGVuPjIwMTUtMDctMjRUMTE6NTM6MzUtMDc6MDA8L3N0RXZ0OndoZW4+CiAgICAg
+ICAgICAgICAgICAgIDxzdEV2dDpzb2Z0d2FyZUFnZW50PkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE0
+IChNYWNpbnRvc2gpPC9zdEV2dDpzb2Z0d2FyZUFnZW50PgogICAgICAgICAgICAgICAgICA8c3RF
+dnQ6Y2hhbmdlZD4vPC9zdEV2dDpjaGFuZ2VkPgogICAgICAgICAgICAgICA8L3JkZjpsaT4KICAg
+ICAgICAgICAgPC9yZGY6U2VxPgogICAgICAgICA8L3htcE1NOkhpc3Rvcnk+CiAgICAgICAgIDxk
+Yzpmb3JtYXQ+aW1hZ2UvcG5nPC9kYzpmb3JtYXQ+CiAgICAgICAgIDxwaG90b3Nob3A6Q29sb3JN
+b2RlPjM8L3Bob3Rvc2hvcDpDb2xvck1vZGU+CiAgICAgICAgIDxwaG90b3Nob3A6SUNDUHJvZmls
+ZT5zUkdCIElFQzYxOTY2LTIuMTwvcGhvdG9zaG9wOklDQ1Byb2ZpbGU+CiAgICAgICAgIDx0aWZm
+Ok9yaWVudGF0aW9uPjE8L3RpZmY6T3JpZW50YXRpb24+CiAgICAgICAgIDx0aWZmOlhSZXNvbHV0
+aW9uPjcyMDAwMC8xMDAwMDwvdGlmZjpYUmVzb2x1dGlvbj4KICAgICAgICAgPHRpZmY6WVJlc29s
+dXRpb24+NzIwMDAwLzEwMDAwPC90aWZmOllSZXNvbHV0aW9uPgogICAgICAgICA8dGlmZjpSZXNv
+bHV0aW9uVW5pdD4yPC90aWZmOlJlc29sdXRpb25Vbml0PgogICAgICAgICA8ZXhpZjpDb2xvclNw
+YWNlPjE8L2V4aWY6Q29sb3JTcGFjZT4KICAgICAgICAgPGV4aWY6UGl4ZWxYRGltZW5zaW9uPjE1
+MDwvZXhpZjpQaXhlbFhEaW1lbnNpb24+CiAgICAgICAgIDxleGlmOlBpeGVsWURpbWVuc2lvbj41
+NjwvZXhpZjpQaXhlbFlEaW1lbnNpb24+CiAgICAgIDwvcmRmOkRlc2NyaXB0aW9uPgogICA8L3Jk
+ZjpSREY+CjwveDp4bXBtZXRhPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo8P3hwYWNrZXQgZW5kPSJ3
+Ij8+D2uYBQAAACBjSFJNAAB6JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAAMEUlE
+QVR42uxcT0wbVxp/eMBAgHlNtXuyPXeiGW2lPVjKWLFayQfGIlqVCyZQkksxckJPwRJiT8taMtlL
+aaw4OWzK4mIuiapEmINXjYg8VTlU6mpG8aXSrsZBq1VRum9g+WOwvYdXhvGbsRnbFIQ0nzgwz8/v
++73v//feQFulUgE2XWZy2CKwVWiTrUKbbBXaKrTpclO7LQI9yZKEkAoAgJBmOe5SoGqzmwo9fXjD
+X1AUAADv4xdTqUuByg6kJyTmRCypy4XKVuEJrWVWLyOq9lPjLyaG8XgYppU4bn2FFlmLOVH73XpK
+QwitrWaadhTtd5ZjIYRnhdMKqqpcWFCUzGrmWzGnX10jD8MMh0LDIyECopgTx0dHtce5WGx4JAQA
+ePwo+SSZRAjpV5iORgeCgnHx5ljraWU5LYo50w0PBAWe92FUtYzmQTxuylqjxVSK9/EEx5V0WpYk
+YibLcRhtozhZjhsQBCEoYJO1iOpEhSvL6dmZmVNtB0K4mFrSmwyhwuGR0P1odHx0zLg3TBOT4fvR
+KLGr5lhrpjoVidTfqt62iO8+SSYfP0qeyl2vQisceR+/kEjobQ4hNDszY8XXv0gkZFmyiMqhZ2kx
+4IyPjtVJsGurmdmZmVr6w965spwmdts0azx4qv4ghKZuIUuyFUk1wVHMieOjY/og9CSZtKI/D8PQ
+EFpH5agKVtWb5H08/jHu4XEy2UpSeRCPEwG2adZTkUgdc9HH0rOqL4wG6mGYicnwxGSYiBCyJD05
+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
+------MultipartBoundary--iBNXAuUPsTtujwwHur1sBw5M5ALWKGq0zy2xYw15Fu----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://code.google.com/codejam/contest/static/minus.gif
+
+R0lGODlhCgAKAOf+AHp64LrZ8aurq83NzfPz8yUqLdPp9wGM1UJCQgAbzODk4RwdHXWdfPb29j6f
+STAwMNPT75qam/+Hh8/m0dOEhOz1/LfL1wNxq1RUVN7e3oiIqt2goJyyqsnTy/8DA32snjiNp2uv
+3pnJ6ZWV59ra2hKKIGZmZomJiXG0487Y0IvFkf9LSzOa2oOlilCq4f39/ajR7oCBgrjHugBoyf9w
+cIeG5djQlMTa6v8rK3W55cPP263CmIfC6W62dnF2sAByzPDw8NPo99nh66YAAGq15fT5/cji9OTt
++E1ZuaKkpYx74wkJCaq8x5axm8ppaf/ojae8q42Njfn5+bxAQJ+fn7ApKfve3sHBwU2j3N3d+HV1
+4v3v79LS09vp83h4eOPx5Obo5t7t+E2mV9zc3O7Pz7i4uKPO7ZDF6kJC2EuVpKen62JudH6Nlnu5
+5ePf+PPmqv+9vWJi3LOzs8nJyVNT20hsi5OTk+Pr8/+mpszM9enp6f/NzQBvFLfauyIi0g2Nu5qM
+5m99hqbRrLu78VRdYzIy1Yq95Pv8/fX2+G9wcfLv+7Oz6djf2VutZOTk8WGq3MTGyV1J2bLX8dPc
+1aqd6Z8MDdTP88a+8O7u/PzolGZm4AB2L5zH5rit7QB90Gxa3Obp68PD7Ozu8F2QaDgr0o+rlLux
+ntvm8Sh9QD6mzvT09kaf2vL58/n7/Xtq30OFU+3t7ens6YOFhvLy8mav4ks51ZXD5dXX26/CsvHz
+9dvd4JzNoU+q4Xxr4Ky1wOnq7dPq90+p4ERLT7W4uq6uriEgz5PI67DYtYW91jU7P3R5f4iPlREc
+z+PdyPT09H296GRobr7d88HfxI6cpry8vL29vYKHjoqKiu/v7+7u7r+/wH+BrfHx8V9gYICAgDNE
+vxEpyIixnMy/msDNwujAwKqkoiI2xO3akcJQUNLj8I+sle3v7V2v43e75+7gj+/l5ZOVl+Ovrw4c
+z2aioR8fz+Tk5e3w7re3t+jpxu/w8n9/5fX19/X19U+p4QAAAP///yH+FUNyZWF0ZWQgd2l0aCBU
+aGUgR0lNUAAsAAAAAAoACgAACB0A/wkcSLCgwYMIDfbj1S8Yr2AEGS5cmLCixYsBAQA7
+------MultipartBoundary--iBNXAuUPsTtujwwHur1sBw5M5ALWKGq0zy2xYw15Fu----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://code.google.com/codejam/contest/static/file.gif
+
+R0lGODlhEQARAJEAAGZmZv////8AAJmZmSH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLv
+u78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJh
+ZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNC4xLWMwMzQgNDYuMjcyOTc2
+LCBTYXQgSmFuIDI3IDIwMDcgMjI6MTE6NDEgICAgICAgICI+CiAgIDxyZGY6UkRGIHhtbG5zOnJk
+Zj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+CiAgICAgIDxy
+ZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiCiAgICAgICAgICAgIHhtbG5zOnhhcD0iaHR0cDov
+L25zLmFkb2JlLmNvbS94YXAvMS4wLyI+CiAgICAgICAgIDx4YXA6Q3JlYXRvclRvb2w+QWRvYmUg
+RmlyZXdvcmtzIENTMzwveGFwOkNyZWF0b3JUb29sPgogICAgICAgICA8eGFwOkNyZWF0ZURhdGU+
+MjAwNy0xMS0wOFQyMDoxMjo0NVo8L3hhcDpDcmVhdGVEYXRlPgogICAgICAgICA8eGFwOk1vZGlm
+eURhdGU+MjAwNy0xMS0wOFQyMDoxODo0N1o8L3hhcDpNb2RpZnlEYXRlPgogICAgICA8L3JkZjpE
+ZXNjcmlwdGlvbj4KICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgICAgICAg
+ICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIj4KICAgICAgICAg
+PGRjOmZvcm1hdD5pbWFnZS9naWY8L2RjOmZvcm1hdD4KICAgICAgPC9yZGY6RGVzY3JpcHRpb24+
+CiAgIDwvcmRmOlJERj4KPC94OnhtcG1ldGE+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgCjw/eHBhY2tl
+dCBlbmQ9InciPz4B//79/Pv6+fj39vX08/Lx8O/u7ezr6uno5+bl5OPi4eDf3t3c29rZ2NfW1dTT
+0tHQz87NzMvKycjHxsXEw8LBwL++vby7urm4t7a1tLOysbCvrq2sq6qpqKempaSjoqGgn56dnJua
+mZiXlpWUk5KRkI+OjYyLiomIh4aFhIOCgYB/fn18e3p5eHd2dXRzcnFwb25tbGtqaWhnZmVkY2Jh
+YF9eXVxbWllYV1ZVVFNSUVBPTk1MS0pJSEdGRURDQkFAPz49PAA6OTg3NjU0MzIxMC8uLSwrKiko
+JyYlJCMiISAfHh0cGxoZGBcWFRQTEhEQDw4NDAsKCQgHBgUEAwIBAAAh+QQBBwACACwAAAAAEQAR
+AAACOIRvorsQDxNrMA4wlasBjJttlfdhzGY8iKRxrtl2K3q6HCygs1rbUT+jUXy8YbAYI+JEvmVw
+xSgAADs=
+------MultipartBoundary--iBNXAuUPsTtujwwHur1sBw5M5ALWKGq0zy2xYw15Fu----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://code.google.com/codejam/contest/static/download.png
+
+iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAACXBIWXMAAC4jAAAuIwF4pT92AAAA
+BGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKuSURB
+VHjajFLbS5NhGP99h33ft83pZnNTl6nTplOHXoR08AShREUUHW46eBl0URcj+gP6A4Kuo4uICsGi
+QBAsPGBhYKJ4yCBs82JzaunmDt++Y8+GdRXYC+/5/R2e53mB/TZ4FOzoGVyZuCTOj5zlb+A/Gv/o
+OIQ2F+6Wel233e2+RltVORaGvlwHtOcHgjv9rg81Pa1dwpEYDHsEUCPwNogDQOZgZS2zt2r15Lry
+jnUYLg1MjoWl0sLOPui4eufN/KQkoFXVYeFY7Koa4hYerdPLGC2A2YysDaUSabAiC0YATKsBR5DH
+ZjQajv/CztQSxmHiK4Gt1A3CmH+UuWt+bAmCGJbqTc6U8kRHtxoL7RsvzCX1pcNuvcYwoS5FMfs9
+hr1aD/KlNqibSWjcqzUoN31Kj6vD3WBKKTASUeoG9G3R3lTpX9hdT8zU2dFuWOH1udFIJPP1XvRE
+N/GDL8jnM/m3ypbQb3EWtioYUYe1RoPj8/L5Ww3WMCvaRx+/2B78Y9ckJ8WYC0NSwXBqJQ3IJEtR
+mRYTUn0WdQPObovLWSoHe9+F6uDtDaGbehklcOcv+PJ7bMjx1BryHFnePyWCbCoPS0X103tPhj+V
+OxAgRT4ro5llUFUs1fg59PIlZfftFVa/mUlTqQCG3CsJCfKGK/Ys9vO1wwZPJIEZirNo92QQtada
+0MQLTk+IgVmr7ChIznGwpp0QnRySUwayNc0vFyfGNEUFUaKELDfQLE0uYrozgABTYOppQ8vDgWO5
+CjsuqOnURU2R+1z+0Ko/PBL8188qswOUg74imCz0f1zBGNXwUIkEsdotBsCwYk7OaVkK2yZCpQ+i
+0VNlO4XIchTxE0EMcAUwgU7XV8JBjF5Khi+v6BzLaDKtDcMAr1OieBY6w4AlIoddgklkid8CDADi
+MAFHRvuJfQAAAABJRU5ErkJggg==
+------MultipartBoundary--iBNXAuUPsTtujwwHur1sBw5M5ALWKGq0zy2xYw15Fu----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://code.google.com/codejam/contest/static/gcp_gray_small.png
+
+iVBORw0KGgoAAAANSUhEUgAAAGQAAABPCAYAAAAdiWChAAAACXBIWXMAAAsTAAALEwEAmpwYAAA7
+bmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0w
+TXBDZWhpSHpyZVN6TlRjemtjOWQiPz4KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRh
+LyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS41LWMwMjEgNzkuMTU1NzcyLCAyMDE0LzAxLzEz
+LTE5OjQ0OjAwICAgICAgICAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMu
+b3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJk
+ZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94
+YXAvMS4wL21tLyIKICAgICAgICAgICAgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20v
+eGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiCiAgICAgICAgICAgIHhtbG5zOnN0RXZ0PSJodHRw
+Oi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VFdmVudCMiCiAgICAgICAgICAg
+IHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIKICAgICAgICAgICAgeG1s
+bnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIgogICAgICAgICAgICB4bWxu
+czpwaG90b3Nob3A9Imh0dHA6Ly9ucy5hZG9iZS5jb20vcGhvdG9zaG9wLzEuMC8iCiAgICAgICAg
+ICAgIHhtbG5zOnRpZmY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vdGlmZi8xLjAvIgogICAgICAgICAg
+ICB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyI+CiAgICAgICAgIDx4
+bXBNTTpEb2N1bWVudElEPmFkb2JlOmRvY2lkOnBob3Rvc2hvcDpjYjc2YTFhZi01MDNlLTExNzgt
+OGJlOS1iMTQ1ZThjYjEwMTM8L3htcE1NOkRvY3VtZW50SUQ+CiAgICAgICAgIDx4bXBNTTpJbnN0
+YW5jZUlEPnhtcC5paWQ6ZDBlMzNhMGEtNWZiZi00NDg1LTgxNzQtZDZmZmJjNDgyZTJhPC94bXBN
+TTpJbnN0YW5jZUlEPgogICAgICAgICA8eG1wTU06RGVyaXZlZEZyb20gcmRmOnBhcnNlVHlwZT0i
+UmVzb3VyY2UiPgogICAgICAgICAgICA8c3RSZWY6aW5zdGFuY2VJRD54bXAuZGlkOkY3N0YxMTc0
+MDcyMDY4MTE4NzFGQjZBOEJBOTkzOTVBPC9zdFJlZjppbnN0YW5jZUlEPgogICAgICAgICAgICA8
+c3RSZWY6ZG9jdW1lbnRJRD54bXAuZGlkOkY3N0YxMTc0MDcyMDY4MTE4NzFGQjZBOEJBOTkzOTVB
+PC9zdFJlZjpkb2N1bWVudElEPgogICAgICAgICA8L3htcE1NOkRlcml2ZWRGcm9tPgogICAgICAg
+ICA8eG1wTU06T3JpZ2luYWxEb2N1bWVudElEPnhtcC5kaWQ6RThFNThFRTZDMEYwMTFFNDlGRDVB
+MjA0QzgzQTU5NkI8L3htcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD4KICAgICAgICAgPHhtcE1NOkhp
+c3Rvcnk+CiAgICAgICAgICAgIDxyZGY6U2VxPgogICAgICAgICAgICAgICA8cmRmOmxpIHJkZjpw
+YXJzZVR5cGU9IlJlc291cmNlIj4KICAgICAgICAgICAgICAgICAgPHN0RXZ0OmFjdGlvbj5zYXZl
+ZDwvc3RFdnQ6YWN0aW9uPgogICAgICAgICAgICAgICAgICA8c3RFdnQ6aW5zdGFuY2VJRD54bXAu
+aWlkOjgxMTVhNWIwLWY4MDEtNGVmYS1iOTI0LTQ5NWNkOTIzZGU2Yzwvc3RFdnQ6aW5zdGFuY2VJ
+RD4KICAgICAgICAgICAgICAgICAgPHN0RXZ0OndoZW4+MjAxNS0wNi0xMFQxMzozMTozOS0wNzow
+MDwvc3RFdnQ6d2hlbj4KICAgICAgICAgICAgICAgICAgPHN0RXZ0OnNvZnR3YXJlQWdlbnQ+QWRv
+YmUgUGhvdG9zaG9wIENDIDIwMTQgKE1hY2ludG9zaCk8L3N0RXZ0OnNvZnR3YXJlQWdlbnQ+CiAg
+ICAgICAgICAgICAgICAgIDxzdEV2dDpjaGFuZ2VkPi88L3N0RXZ0OmNoYW5nZWQ+CiAgICAgICAg
+ICAgICAgIDwvcmRmOmxpPgogICAgICAgICAgICAgICA8cmRmOmxpIHJkZjpwYXJzZVR5cGU9IlJl
+c291cmNlIj4KICAgICAgICAgICAgICAgICAgPHN0RXZ0OmFjdGlvbj5zYXZlZDwvc3RFdnQ6YWN0
+aW9uPgogICAgICAgICAgICAgICAgICA8c3RFdnQ6aW5zdGFuY2VJRD54bXAuaWlkOmQwZTMzYTBh
+LTVmYmYtNDQ4NS04MTc0LWQ2ZmZiYzQ4MmUyYTwvc3RFdnQ6aW5zdGFuY2VJRD4KICAgICAgICAg
+ICAgICAgICAgPHN0RXZ0OndoZW4+MjAxNS0wNi0xMFQxMzozNjozNS0wNzowMDwvc3RFdnQ6d2hl
+bj4KICAgICAgICAgICAgICAgICAgPHN0RXZ0OnNvZnR3YXJlQWdlbnQ+QWRvYmUgUGhvdG9zaG9w
+IENDIDIwMTQgKE1hY2ludG9zaCk8L3N0RXZ0OnNvZnR3YXJlQWdlbnQ+CiAgICAgICAgICAgICAg
+ICAgIDxzdEV2dDpjaGFuZ2VkPi88L3N0RXZ0OmNoYW5nZWQ+CiAgICAgICAgICAgICAgIDwvcmRm
+OmxpPgogICAgICAgICAgICA8L3JkZjpTZXE+CiAgICAgICAgIDwveG1wTU06SGlzdG9yeT4KICAg
+ICAgICAgPHhtcDpDcmVhdG9yVG9vbD5BZG9iZSBQaG90b3Nob3AgQ0MgMjAxNCAoTWFjaW50b3No
+KTwveG1wOkNyZWF0b3JUb29sPgogICAgICAgICA8eG1wOkNyZWF0ZURhdGU+MjAxNS0wMy0xMlQw
+ODozMS0wNzowMDwveG1wOkNyZWF0ZURhdGU+CiAgICAgICAgIDx4bXA6TW9kaWZ5RGF0ZT4yMDE1
+LTA2LTEwVDEzOjM2OjM1LTA3OjAwPC94bXA6TW9kaWZ5RGF0ZT4KICAgICAgICAgPHhtcDpNZXRh
+ZGF0YURhdGU+MjAxNS0wNi0xMFQxMzozNjozNS0wNzowMDwveG1wOk1ldGFkYXRhRGF0ZT4KICAg
+ICAgICAgPGRjOmZvcm1hdD5pbWFnZS9wbmc8L2RjOmZvcm1hdD4KICAgICAgICAgPHBob3Rvc2hv
+cDpDb2xvck1vZGU+MzwvcGhvdG9zaG9wOkNvbG9yTW9kZT4KICAgICAgICAgPHRpZmY6T3JpZW50
+YXRpb24+MTwvdGlmZjpPcmllbnRhdGlvbj4KICAgICAgICAgPHRpZmY6WFJlc29sdXRpb24+NzIw
+MDAwLzEwMDAwPC90aWZmOlhSZXNvbHV0aW9uPgogICAgICAgICA8dGlmZjpZUmVzb2x1dGlvbj43
+MjAwMDAvMTAwMDA8L3RpZmY6WVJlc29sdXRpb24+CiAgICAgICAgIDx0aWZmOlJlc29sdXRpb25V
+bml0PjI8L3RpZmY6UmVzb2x1dGlvblVuaXQ+CiAgICAgICAgIDxleGlmOkNvbG9yU3BhY2U+NjU1
+MzU8L2V4aWY6Q29sb3JTcGFjZT4KICAgICAgICAgPGV4aWY6UGl4ZWxYRGltZW5zaW9uPjEwMDwv
+ZXhpZjpQaXhlbFhEaW1lbnNpb24+CiAgICAgICAgIDxleGlmOlBpeGVsWURpbWVuc2lvbj43OTwv
+ZXhpZjpQaXhlbFlEaW1lbnNpb24+CiAgICAgIDwvcmRmOkRlc2NyaXB0aW9uPgogICA8L3JkZjpS
+REY+CjwveDp4bXBtZXRhPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo8P3hwYWNrZXQgZW5kPSJ3Ij8+
+hRRbzwAAACBjSFJNAAB6JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAAe7klEQVR4
+2uydeZheRZ3vP1Vnefe39+50Z+0kJCEhBBBRYQR1BGVGBVFHBFFcRmccnTs6LveOMyMzXq8K477h
+gveOsgyKuCDKIoIsKsgSIBBAQhKSdCfpNd3vdpaqun+c6vTbnU6nk3QnyDP1PO/T73n7nKo69f3t
+tfzE2y9+J7NYPg28B3gCKAIp4O3A73julauAZ4B/qfutFbjW9nn70eiUnOX6TgXuBl4D/DnwX8At
+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
+AABJRU5ErkJggg==
+------MultipartBoundary--iBNXAuUPsTtujwwHur1sBw5M5ALWKGq0zy2xYw15Fu------
